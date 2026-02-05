@@ -1,0 +1,216 @@
+[
+  {
+    "slug": "underrated-launch-platforms",
+    "title": {
+      "en": "Underrated Platforms That Actually Convert",
+      "zh-CN": "被低估的高转化推广平台"
+    },
+    "description": {
+      "en": "Forget Product Hunt. These lesser-known launch platforms drove more real users.",
+      "zh-CN": "别只盯着 Product Hunt。这些小众平台反而带来了更多真实用户。"
+    },
+    "date": "2026-02-03",
+    "coverImage": "coverImage1.jpg",
+    "sites": [
+      {
+        "name": "YourStory",
+        "url": "https://yourstory.com",
+        "description": {
+          "en": "Platform to pitch and share your startup story",
+          "zh-CN": "展示和分享创业故事的平台"
+        }
+      },
+      {
+        "name": "Starter Story",
+        "url": "https://starterstory.com",
+        "description": {
+          "en": "Share your business journey and growth story",
+          "zh-CN": "分享创业历程和增长故事"
+        }
+      },
+      {
+        "name": "LibHunt",
+        "url": "https://libhunt.com",
+        "description": {
+          "en": "Compare and discover open source alternatives",
+          "zh-CN": "对比和发现开源项目的目录"
+        }
+      },
+      {
+        "name": "Gust",
+        "url": "https://gust.com",
+        "description": {
+          "en": "Connect with investors and get your startup assessed",
+          "zh-CN": "连接投资人、获取创业项目评估"
+        }
+      },
+      {
+        "name": "Metafilter",
+        "url": "https://ask.metafilter.com",
+        "description": {
+          "en": "Classic community forum with engaged discussions",
+          "zh-CN": "经典社区问答，讨论氛围活跃"
+        }
+      },
+      {
+        "name": "DEV Community",
+        "url": "https://dev.to",
+        "description": {
+          "en": "Developer community for sharing and discovering ideas",
+          "zh-CN": "开发者分享和交流的社区"
+        }
+      },
+      {
+        "name": "Chrome Web Store",
+        "url": "https://chromewebstore.google.com",
+        "description": {
+          "en": "Publish your tool as a Chrome extension",
+          "zh-CN": "把产品做成 Chrome 扩展发布"
+        }
+      },
+      {
+        "name": "Zapier Integrations",
+        "url": "https://zapier.com",
+        "description": {
+          "en": "Create integrations to reach Zapier's user base",
+          "zh-CN": "创建集成触达 Zapier 用户群"
+        }
+      },
+      {
+        "name": "Slack App Directory",
+        "url": "https://slack.com/marketplace",
+        "description": {
+          "en": "Build a Slack app to reach teams and workplaces",
+          "zh-CN": "构建 Slack 应用触达团队用户"
+        }
+      },
+      {
+        "name": "Pipedream",
+        "url": "https://pipedream.com",
+        "description": {
+          "en": "Alternative to Zapier for workflow automation",
+          "zh-CN": "Zapier 的替代品，工作流自动化平台"
+        }
+      },
+      {
+        "name": "Free Developer Stuff",
+        "url": "https://freestuff.dev",
+        "description": {
+          "en": "Directory for developer tools with free tiers",
+          "zh-CN": "收录提供免费版的开发者工具目录"
+        }
+      }
+    ]
+  },
+  {
+    "slug": "design-inspiration-sites",
+    "title": {
+      "en": "Design Inspiration Goldmines",
+      "zh-CN": "设计灵感宝藏站"
+    },
+    "description": {
+      "en": "Where top designers find their next homepage idea. Real sites, real inspiration.",
+      "zh-CN": "顶尖设计师的灵感来源。真实上线的网站，真实可用的灵感。"
+    },
+    "date": "2026-01-28",
+    "coverImage": "coverImage2.jpg",
+    "sites": [
+      {
+        "name": "Mobbin",
+        "url": "https://mobbin.com",
+        "description": {
+          "en": "Real-world mobile and web UI patterns from top apps",
+          "zh-CN": "来自顶级应用的真实 UI 设计模式"
+        }
+      },
+      {
+        "name": "Bento Grids",
+        "url": "https://bentogrids.com",
+        "description": {
+          "en": "Curated bento-style layout inspiration",
+          "zh-CN": "Bento 风格布局灵感合集"
+        }
+      },
+      {
+        "name": "Siteinspire",
+        "url": "https://siteinspire.com",
+        "description": {
+          "en": "Showcase of the finest web and interactive design",
+          "zh-CN": "精选网页与交互设计展示"
+        }
+      },
+      {
+        "name": "One Page Love",
+        "url": "https://onepagelove.com",
+        "description": {
+          "en": "One-page website design gallery and templates",
+          "zh-CN": "单页网站设计案例和模板"
+        }
+      },
+      {
+        "name": "Footer",
+        "url": "https://footer.design",
+        "description": {
+          "en": "The only footer design inspiration you need",
+          "zh-CN": "页脚设计灵感大全"
+        }
+      },
+      {
+        "name": "MaxiBestOf",
+        "url": "https://maxibestof.one",
+        "description": {
+          "en": "Hand-picked collection of outstanding websites",
+          "zh-CN": "精心挑选的优秀网站合集"
+        }
+      },
+      {
+        "name": "Supahero",
+        "url": "https://supahero.io",
+        "description": {
+          "en": "Hero section design inspiration for landing pages",
+          "zh-CN": "落地页首屏设计灵感"
+        }
+      },
+      {
+        "name": "Godly",
+        "url": "https://godly.website",
+        "description": {
+          "en": "Astronomically good web design inspiration",
+          "zh-CN": "极致精美的网页设计灵感"
+        }
+      },
+      {
+        "name": "Landingfolio",
+        "url": "https://landingfolio.com",
+        "description": {
+          "en": "Landing page designs, templates, and components",
+          "zh-CN": "落地页设计、模板和组件"
+        }
+      },
+      {
+        "name": "Landbook",
+        "url": "https://land-book.com",
+        "description": {
+          "en": "Design gallery featuring beautiful landing pages",
+          "zh-CN": "精美落地页设计画廊"
+        }
+      },
+      {
+        "name": "SEESAW",
+        "url": "https://seesaw.website",
+        "description": {
+          "en": "Curated collection of delightful websites",
+          "zh-CN": "令人愉悦的网站精选合集"
+        }
+      },
+      {
+        "name": "Awwwards",
+        "url": "https://awwwards.com",
+        "description": {
+          "en": "Award-winning website designs judged by experts",
+          "zh-CN": "专家评选的获奖网站设计"
+        }
+      }
+    ]
+  }
+]
