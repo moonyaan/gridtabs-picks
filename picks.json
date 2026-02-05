@@ -91,14 +91,6 @@
           "en": "Alternative to Zapier for workflow automation",
           "zh-CN": "Zapier 的替代品，工作流自动化平台"
         }
-      },
-      {
-        "name": "Free Developer Stuff",
-        "url": "https://freestuff.dev",
-        "description": {
-          "en": "Directory for developer tools with free tiers",
-          "zh-CN": "收录提供免费版的开发者工具目录"
-        }
       }
     ]
   },
