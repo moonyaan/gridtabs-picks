@@ -29,10 +29,10 @@
 | Dify | https://dify.ai | twitter | 开源 LLM 应用开发平台，可视化搭建 AI Agent 工作流 | 2026-02-06 | - |
 | Bruno | https://www.usebruno.com | twitter | 开源 API 客户端，Postman 的轻量本地替代品 | 2026-02-06 | - |
 | Granola | https://www.granola.ai | web | AI 会议笔记，不以机器人加入会议，本地转录 | 2026-02-06 | - |
-| Wispr Flow | https://wisprflow.ai | reddit | AI 语音输入工具，任何应用中语音转文字 | 2026-02-06 | ai-creative-studio |
+| Wispr Flow | https://wisprflow.ai | reddit | AI 语音输入工具，任何应用中语音转文字 | 2026-02-06 | ai-creative-studio, sound-possibilities |
 | BentoPDF | https://www.bentopdf.com | reddit | 开源浏览器端 PDF 工具箱，无需上传文件 | 2026-02-06 | - |
 | GummySearch | https://gummysearch.com | reddit | Reddit 受众研究工具，自动发现用户痛点 | 2026-02-06 | weekend-websites-worth-opening |
-| Moodist | https://moodist.mvze.net | reddit | 开源白噪音生成器，84 种环境音 | 2026-02-06 | weekend-websites-worth-opening |
+| Moodist | https://moodist.mvze.net | reddit | 开源白噪音生成器，84 种环境音 | 2026-02-06 | weekend-websites, sound-possibilities |
 | accept-md | https://accept.md | hackernews | 一行命令让网站对 LLM 抓取友好 | 2026-02-06 | - |
 | Have I Been Trained | https://haveibeentrained.com | reddit | 检查照片是否被用于 AI 模型训练（已停机） | 2026-02-06 | - |
 | Griply | https://griply.app | producthunt | 目标导向任务管理，长期愿景拆解到每日习惯 | 2026-02-06 | weekend-websites-worth-opening |
@@ -87,7 +87,22 @@
 | Capacities | https://capacities.io | web | 动态网络笔记工具，将笔记组织成互联知识网络 | 2026-02-09 | - |
 | Keybr | https://www.keybr.com | web | 打字练习网站，专注提升盲打技能 | 2026-02-09 | - |
 | Gumloop | https://www.gumloop.com | web | 无代码 AI 自动化平台，连接 LLM 与工作流 | 2026-02-09 | - |
-| LALAL.AI | https://www.lalal.ai | web | AI 音频处理工具，移除背景噪音同时保持语音质量 | 2026-02-09 | ai-creative-studio |
+| LALAL.AI | https://www.lalal.ai | web | AI 音频处理工具，移除背景噪音同时保持语音质量 | 2026-02-09 | ai-creative-studio, sound-possibilities |
 | Luma Genie | https://lumalabs.ai/genie | web | 文本转 3D 模型生成器，几秒内生成带纹理的 3D 模型 | 2026-02-09 | ai-creative-studio |
 | Podcastle | https://podcastle.ai | web | AI 播客制作一站式平台，支持远程录制转录编辑 | 2026-02-09 | - |
-| Mubert | https://mubert.com | web | AI 音乐生成器，根据情绪风格生成免版税音乐 | 2026-02-09 | ai-creative-studio |
+| Mubert | https://mubert.com | web | AI 音乐生成器，根据情绪风格生成免版税音乐 | 2026-02-09 | ai-creative-studio, sound-possibilities |
+| Vecti | https://vecti.com | hackernews | 浏览器内高保真 UX 设计工具，强调速度和实时协作 | 2026-02-09 | - |
+| StoryMotion | https://storymotion.video | hackernews | 手绘风格动画图表生成工具，让复杂概念动起来 | 2026-02-09 | - |
+| WeaveMind | https://weavemind.ai | hackernews | 生产级 AI 基础设施平台，专注安全监督和人机协作 | 2026-02-09 | - |
+| Uruky | https://uruky.com | hackernews | 欧盟隐私优先搜索引擎，无广告无追踪 | 2026-02-09 | - |
+| Radio.garden | https://radio.garden | reddit | 在 3D 地球仪上探索全球实时广播电台 | 2026-02-09 | sound-possibilities |
+| Relume | https://relume.io | twitter | AI 驱动的网站设计平台，分钟级生成站点地图和线框图 | 2026-02-09 | - |
+| Perplexity | https://perplexity.ai | web | AI 驱动的搜索引擎，对话式回答并提供透明引用 | 2026-02-09 | - |
+| Poe | https://poe.com | web | Quora 推出的统一 AI 聊天平台，一处访问多个模型 | 2026-02-09 | - |
+| ElevenLabs | https://elevenlabs.io | web | AI 语音合成平台，生成自然逼真的文字转语音 | 2026-02-09 | sound-possibilities |
+| Clay | https://clay.com | web | AI 驱动的 GTM 平台，超个性化销售管道和客户触达 | 2026-02-09 | - |
+| Miro | https://miro.com | web | 可视化协作白板平台，团队规划和创新工作空间 | 2026-02-09 | - |
+| SkillKit | https://www.agenstskills.com | producthunt | AI 编程代理的通用技能包管理器 | 2026-02-09 | - |
+| SessionCast | https://sessioncast.io | producthunt | PC 终端实时推流到手机，远程监控 AI 编程助手 | 2026-02-09 | - |
+| Atlas Obscura | https://www.atlasobscura.com | reddit | 发现世界各地独特旅行地点和奇特景点的平台 | 2026-02-09 | - |
+| TinEye | https://tineye.com | reddit | 强大的反向图片搜索引擎，检测图片修改和来源 | 2026-02-09 | - |

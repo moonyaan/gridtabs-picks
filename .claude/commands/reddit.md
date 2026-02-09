@@ -1,5 +1,5 @@
 ---
-name: pickredditpost
+name: reddit
 description: 根据已发布或 draft pick 生成 Reddit 帖子，输出到 content/{slug}/reddit.md。
 ---
 
