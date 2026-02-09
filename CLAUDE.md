@@ -10,11 +10,11 @@
 ## 自动化管道
 
 ```
-/urldiscover → /collect → /curate → /seo-review → /copy-review → /publish-pick
-   广泛收集      手动补充     组装主题    SEO检查       文案检查        发布
-                                                                      ↓
-                         /twitter-post  /threads-post  /reddit-post
-                         /tiktok-script  /xiaohongshu-post
+/pickdiscover → /collect → /curate → /seo-review → /copy-review → /pickpublish
+  广泛收集       手动补充    组装主题    SEO检查       文案检查        发布
+  + 建档 sites/                                                      ↓
+  + 更新白名单              /twitter-post  /threads-post  /reddit-post
+                           /tiktok-script  /xiaohongshu-post
 ```
 
 ## 文件结构
@@ -41,8 +41,8 @@ picks/
 | 文件 | 说明 | 谁写 |
 |------|------|------|
 | `picks.json` | 已发布合集，官网读取，不要手动改 | `/publish-pick` |
-| `inbox.md` | 网站池，一张表快速浏览，不含 tag | `/collect` `/urldiscover` |
-| `sites/*.md` | 网站深度档案（功能、视觉、氛围等） | `/curate` Phase 1 |
+| `inbox.md` | 网站池，一张表快速浏览，不含 tag | `/collect` `/pickdiscover` |
+| `sites/*.md` | 网站深度档案（功能、视觉、氛围等） | `/collect` `/pickdiscover` |
 | `drafts/*.md` | 草稿合集，人可读可编辑 | `/curate` Phase 3 |
 | `content/{slug}/*` | 各平台分发内容 | 内容生成 skills |
 
@@ -77,9 +77,11 @@ interface Site {
 
 ## 当前状态
 
-- 已有 2 个 picks（已发布）
-- inbox 有 37 个网站
-- 管道已搭建完成，进入使用阶段
+- 已有 3 个 picks（已发布，含 `weekend-websites`）
+- inbox 有 89 个网站
+- sites/ 有 92 个网站详情档案
+- 管道已搭建完成，进入常规使用阶段
+- 完整项目背景见 `~/.claude/aic/projects/gridtabs.md`
 
 ## Skills 一览
 
@@ -87,14 +89,14 @@ interface Site {
 
 | Skill | 类型 | 用途 |
 |-------|------|------|
-| `/collect` | skill | 手动给 URL，自动补全信息，追加到 inbox.md |
-| `/urldiscover` | agent | 广泛搜索 HN/PH/Reddit/Twitter 等，批量收集热门网站 |
+| `/collect` | skill | 手动给 URL，自动抓取信息 + 建档 sites/ + 更新白名单 + 追加 inbox.md |
+| `/pickdiscover` | agent | 广泛搜索 HN/PH/Reddit/Twitter 等，批量收集 + 建档 sites/ + 更新域名白名单 |
 
 ### 组装阶段
 
 | Skill | 类型 | 用途 |
 |-------|------|------|
-| `/curate` | agent | 分析网站详情 → 建档 sites/ → 提出主题 → 组装 draft |
+| `/curate` | agent | 读取 sites/ 档案 → 提出主题 → 组装 draft |
 
 ### 审核阶段
 
