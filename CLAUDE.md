@@ -90,7 +90,7 @@ interface Site {
 | Skill | 类型 | 用途 |
 |-------|------|------|
 | `/collect` | skill | 手动给 URL，自动抓取信息 + 建档 sites/ + 更新白名单 + 追加 inbox.md |
-| `/pickdiscover` | agent | 广泛搜索 HN/PH/Reddit/Twitter 等，批量收集 + 建档 sites/ + 更新域名白名单 |
+| `/discover` | agent | 广泛搜索 HN/PH/Reddit/Twitter 等，批量收集 + 建档 sites/ + 更新域名白名单 |
 
 ### 组装阶段
 
@@ -109,7 +109,7 @@ interface Site {
 
 | Skill | 类型 | 用途 |
 |-------|------|------|
-| `/publish-pick` | skill | 解析 draft md → JSON → 写入 picks.json（需确认） |
+| `/publish` | skill | 解析 draft md → JSON → 写入 picks.json（需确认） |
 
 ### 内容分发
 
