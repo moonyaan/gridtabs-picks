@@ -26,18 +26,18 @@
 | Awwwards | https://awwwards.com | - | 专家评选的获奖网站设计 | 2026-01-28 | design-inspiration-sites |
 | bolt.new | https://bolt.new | web | 浏览器内 AI 全栈应用构建器，直接生成运行和部署 | 2026-02-06 | weekend-websites-worth-opening |
 | Lovable | https://lovable.dev | twitter | AI 全栈开发平台，自然语言生成可部署代码 | 2026-02-06 | weekend-websites-worth-opening |
-| Dify | https://dify.ai | twitter | 开源 LLM 应用开发平台，可视化搭建 AI Agent 工作流 | 2026-02-06 | - |
+| Dify | https://dify.ai | twitter | 开源 LLM 应用开发平台，可视化搭建 AI Agent 工作流 | 2026-02-06 | swiss-army-knife-sites |
 | Bruno | https://www.usebruno.com | twitter | 开源 API 客户端，Postman 的轻量本地替代品 | 2026-02-06 | - |
 | Granola | https://www.granola.ai | web | AI 会议笔记，不以机器人加入会议，本地转录 | 2026-02-06 | - |
 | Wispr Flow | https://wisprflow.ai | reddit | AI 语音输入工具，任何应用中语音转文字 | 2026-02-06 | ai-creative-studio, sound-possibilities |
-| BentoPDF | https://www.bentopdf.com | reddit | 开源浏览器端 PDF 工具箱，无需上传文件 | 2026-02-06 | - |
+| BentoPDF | https://www.bentopdf.com | reddit | 开源浏览器端 PDF 工具箱，无需上传文件 | 2026-02-06 | swiss-army-knife-sites |
 | GummySearch | https://gummysearch.com | reddit | Reddit 受众研究工具，自动发现用户痛点 | 2026-02-06 | weekend-websites-worth-opening |
 | Moodist | https://moodist.mvze.net | reddit | 开源白噪音生成器，84 种环境音 | 2026-02-06 | weekend-websites, sound-possibilities |
 | accept-md | https://accept.md | hackernews | 一行命令让网站对 LLM 抓取友好 | 2026-02-06 | - |
 | Have I Been Trained | https://haveibeentrained.com | reddit | 检查照片是否被用于 AI 模型训练（已停机） | 2026-02-06 | - |
 | Griply | https://griply.app | producthunt | 目标导向任务管理，长期愿景拆解到每日习惯 | 2026-02-06 | weekend-websites-worth-opening |
 | XPipe | https://xpipe.io | reddit | 服务器连接中枢，统一管理 SSH/Docker/K8s | 2026-02-06 | - |
-| 10015 Tools | https://10015.io | web | 免费在线工具箱，数百个实用小工具集合 | 2026-02-06 | - |
+| 10015 Tools | https://10015.io | web | 免费在线工具箱，数百个实用小工具集合 | 2026-02-06 | swiss-army-knife-sites |
 | Neal.fun | https://neal.fun/internet-artifacts | reddit | 互动式早期互联网博物馆，57 个经典时刻 | 2026-02-06 | weekend-websites-worth-opening |
 | Xikipedia | https://xikipedia.org | hackernews | 维基百科内容变成可刷的信息流，本地推荐算法 | 2026-02-06 | - |
 | Notchable | https://notchable.com | hackernews | MacBook 刘海区任务管理器，语音输入+AI 分类 | 2026-02-06 | - |
@@ -60,12 +60,12 @@
 | Devtimate | https://devtimate.com | reddit | AI 项目估算工具，上传需求自动生成工时拆分 | 2026-02-06 | - |
 | UXWizz | https://www.uxwizz.com | reddit | 自托管网站分析，热力图+会话录制，一次付费 | 2026-02-06 | - |
 | Lexington Themes | https://lexingtonthemes.com | reddit | Astro+Tailwind 模板库，45+ 高质量主题 | 2026-02-06 | - |
-| Raycast | https://www.raycast.com | twitter | Mac 生产力启动器，集成 AI 和 1300+ 扩展 | 2026-02-06 | - |
+| Raycast | https://www.raycast.com | twitter | Mac 生产力启动器，集成 AI 和 1300+ 扩展 | 2026-02-06 | swiss-army-knife-sites |
 | Screen Studio | https://screen.studio | twitter | macOS 录屏工具，自动缩放跟随，产品演示利器 | 2026-02-06 | - |
 | v0 | https://v0.app | twitter | Vercel AI UI 生成器，自然语言生成 React 组件 | 2026-02-06 | ai-creative-studio |
 | Attio | https://attio.com | twitter | AI 原生 CRM，灵活数据架构，适合初创团队 | 2026-02-06 | - |
 | PearAI | https://trypear.ai | twitter | 开源 AI 代码编辑器，基于 VSCode，YC 支持 | 2026-02-06 | - |
-| fffuel | https://www.fffuel.co | web | SVG 生成器合集，渐变/纹理/图案，设计师素材神器 | 2026-02-06 | ai-creative-studio |
+| fffuel | https://www.fffuel.co | web | SVG 生成器合集，渐变/纹理/图案，设计师素材神器 | 2026-02-06 | ai-creative-studio, swiss-army-knife-sites |
 | Pika | https://pika.style | web | 截图美化工具，一键把截图变精美展示图 | 2026-02-06 | ai-creative-studio |
 | Consensus | https://consensus.app | web | AI 学术搜索引擎，2 亿篇论文中找答案 | 2026-02-06 | - |
 | Calmly Writer | https://www.calmlywriter.com | web | 极简无干扰写作工具，专注模式只高亮当前段落 | 2026-02-06 | - |
@@ -81,12 +81,12 @@
 | Linear | https://linear.app | twitter | 现代化项目管理工具，速度快体验好 | 2026-02-09 | - |
 | Bun | https://bun.sh | twitter | 全新 JavaScript 运行时，速度远超 Node.js | 2026-02-09 | - |
 | IndieRadar | https://indieradar.app | twitter | 独立开发者知识库，收录增长策略和实战 playbook | 2026-02-09 | - |
-| Excalidraw | https://excalidraw.com | twitter | 开源手绘风格绘图工具，适合系统设计和头脑风暴 | 2026-02-09 | - |
-| n8n | https://n8n.io | twitter | 自托管自动化工作流工具，支持 AI 集成 | 2026-02-09 | - |
+| Excalidraw | https://excalidraw.com | twitter | 开源手绘风格绘图工具，适合系统设计和头脑风暴 | 2026-02-09 | swiss-army-knife-sites |
+| n8n | https://n8n.io | twitter | 自托管自动化工作流工具，支持 AI 集成 | 2026-02-09 | swiss-army-knife-sites |
 | Gamma | https://gamma.app | web | AI 演示文稿生成工具，几分钟内从想法变成精美幻灯片 | 2026-02-09 | ai-creative-studio |
 | Capacities | https://capacities.io | web | 动态网络笔记工具，将笔记组织成互联知识网络 | 2026-02-09 | - |
 | Keybr | https://www.keybr.com | web | 打字练习网站，专注提升盲打技能 | 2026-02-09 | - |
-| Gumloop | https://www.gumloop.com | web | 无代码 AI 自动化平台，连接 LLM 与工作流 | 2026-02-09 | - |
+| Gumloop | https://www.gumloop.com | web | 无代码 AI 自动化平台，连接 LLM 与工作流 | 2026-02-09 | swiss-army-knife-sites |
 | LALAL.AI | https://www.lalal.ai | web | AI 音频处理工具，移除背景噪音同时保持语音质量 | 2026-02-09 | ai-creative-studio, sound-possibilities |
 | Luma Genie | https://lumalabs.ai/genie | web | 文本转 3D 模型生成器，几秒内生成带纹理的 3D 模型 | 2026-02-09 | ai-creative-studio |
 | Podcastle | https://podcastle.ai | web | AI 播客制作一站式平台，支持远程录制转录编辑 | 2026-02-09 | - |
