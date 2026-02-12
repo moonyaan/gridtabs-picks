@@ -42,14 +42,14 @@
 | Xikipedia | https://xikipedia.org | hackernews | 维基百科内容变成可刷的信息流，本地推荐算法 | 2026-02-06 | - |
 | Notchable | https://notchable.com | hackernews | MacBook 刘海区任务管理器，语音输入+AI 分类 | 2026-02-06 | - |
 | Hister | https://hister.org | hackernews | 浏览记录全文搜索工具，本地索引，隐私优先 | 2026-02-06 | - |
-| Inklings | https://inklings.social | hackernews | 家庭私密社交平台，孩子画画家长写字，每月印成实体书 | 2026-02-06 | - |
+| Inklings | https://inklings.social | hackernews | 家庭私密社交平台，孩子画画家长写字，每月印成实体书 | 2026-02-06 | pixel-and-handmade |
 | Atlas | https://atlas.co | producthunt | AI 地图代理，自然语言创建地图和空间分析 | 2026-02-06 | - |
 | ChartGen AI | https://chartgen.ai | producthunt | 免费 AI 图表生成器，上传数据自然语言生成图表 | 2026-02-06 | ai-creative-studio |
 | Supaboard | https://supaboard.ai | producthunt | AI 商业分析平台，自然语言提问获取数据洞察 | 2026-02-06 | - |
 | TravelAnimator | https://www.travelanimator.com | producthunt | Google Maps 链接一键转精美旅行路线动画 | 2026-02-06 | - |
 | DaysAround | https://daysaround.app | producthunt | 隐私优先旅行追踪，用照片元数据记录去过的国家 | 2026-02-06 | - |
 | Higgsfield | https://higgsfield.ai | producthunt | AI 动效视频生成，自然语言描述生成专业级动效 | 2026-02-06 | ai-creative-studio |
-| Its Hover | https://www.itshover.com | producthunt | 开源动态图标库，React/Next.js 交互动画 SVG | 2026-02-06 | - |
+| Its Hover | https://www.itshover.com | producthunt | 开源动态图标库，React/Next.js 交互动画 SVG | 2026-02-06 | pixel-and-handmade |
 | Kilo Code | https://kilo.ai | producthunt | 开源 AI 编程代理 VS Code 扩展，多模型切换 | 2026-02-06 | - |
 | Scribeist | https://scribeist.com | producthunt | AI 写作平台，小说/博客/通用三个工作区 | 2026-02-06 | - |
 | Immich | https://immich.app | reddit | 自托管照片管理，Google Photos 替代品 | 2026-02-06 | - |
@@ -68,7 +68,7 @@
 | fffuel | https://www.fffuel.co | web | SVG 生成器合集，渐变/纹理/图案，设计师素材神器 | 2026-02-06 | ai-creative-studio, swiss-army-knife-sites |
 | Pika | https://pika.style | web | 截图美化工具，一键把截图变精美展示图 | 2026-02-06 | ai-creative-studio |
 | Consensus | https://consensus.app | web | AI 学术搜索引擎，2 亿篇论文中找答案 | 2026-02-06 | - |
-| Calmly Writer | https://www.calmlywriter.com | web | 极简无干扰写作工具，专注模式只高亮当前段落 | 2026-02-06 | - |
+| Calmly Writer | https://www.calmlywriter.com | web | 极简无干扰写作工具，专注模式只高亮当前段落 | 2026-02-06 | pixel-and-handmade |
 | Daigest | https://daige.st | hackernews | AI 驱动的信息监控工具，主动追踪多平台重要信息变化 | 2026-02-09 | - |
 | epilog.tv | https://epilog.tv | hackernews | 电视剧版 Letterboxd，追踪和可视化你的观剧习惯 | 2026-02-09 | - |
 | Termux | https://termux.dev | hackernews | Android 终端模拟器和 Linux 环境，无需 root | 2026-02-09 | - |
@@ -92,10 +92,10 @@
 | Podcastle | https://podcastle.ai | web | AI 播客制作一站式平台，支持远程录制转录编辑 | 2026-02-09 | - |
 | Mubert | https://mubert.com | web | AI 音乐生成器，根据情绪风格生成免版税音乐 | 2026-02-09 | ai-creative-studio, sound-possibilities |
 | Vecti | https://vecti.com | hackernews | 浏览器内高保真 UX 设计工具，强调速度和实时协作 | 2026-02-09 | - |
-| StoryMotion | https://storymotion.video | hackernews | 手绘风格动画图表生成工具，让复杂概念动起来 | 2026-02-09 | - |
+| StoryMotion | https://storymotion.video | hackernews | 手绘风格动画图表生成工具，让复杂概念动起来 | 2026-02-09 | pixel-and-handmade |
 | WeaveMind | https://weavemind.ai | hackernews | 生产级 AI 基础设施平台，专注安全监督和人机协作 | 2026-02-09 | - |
 | Uruky | https://uruky.com | hackernews | 欧盟隐私优先搜索引擎，无广告无追踪 | 2026-02-09 | - |
-| Radio.garden | https://radio.garden | reddit | 在 3D 地球仪上探索全球实时广播电台 | 2026-02-09 | sound-possibilities |
+| Radio.garden | https://radio.garden | reddit | 在 3D 地球仪上探索全球实时广播电台 | 2026-02-09 | sound-possibilities, pixel-and-handmade |
 | Relume | https://relume.io | twitter | AI 驱动的网站设计平台，分钟级生成站点地图和线框图 | 2026-02-09 | - |
 | Perplexity | https://perplexity.ai | web | AI 驱动的搜索引擎，对话式回答并提供透明引用 | 2026-02-09 | - |
 | Poe | https://poe.com | web | Quora 推出的统一 AI 聊天平台，一处访问多个模型 | 2026-02-09 | - |
@@ -106,3 +106,16 @@
 | SessionCast | https://sessioncast.io | producthunt | PC 终端实时推流到手机，远程监控 AI 编程助手 | 2026-02-09 | - |
 | Atlas Obscura | https://www.atlasobscura.com | reddit | 发现世界各地独特旅行地点和奇特景点的平台 | 2026-02-09 | - |
 | TinEye | https://tineye.com | reddit | 强大的反向图片搜索引擎，检测图片修改和来源 | 2026-02-09 | - |
+| Photoroom | https://www.photoroom.com | producthunt | AI 驱动的产品摄影编辑工具，一键去背景、换场景、批量处理 | 2026-02-12 | - |
+| Lindy | https://www.lindy.ai | producthunt | AI 工作助理平台，自动处理邮件、日程、通话记录等日常事务 | 2026-02-12 | - |
+| Windsurf | https://windsurf.com | hackernews | Codeium 出品的 AI 代码编辑器，让开发者保持心流状态 | 2026-02-12 | - |
+| TinyWow | https://tinywow.com | web | 免费在线工具箱，涵盖 AI 写作、PDF 编辑、图片处理等数十种功能 | 2026-02-12 | - |
+| SimpleLogin | https://simplelogin.io | reddit | 开源邮箱别名服务，用匿名邮箱保护真实收件箱隐私 | 2026-02-12 | - |
+| Colorify Rocks | https://colorify.rocks | web | AI 配色生成器，输入关键词即可生成和谐的色彩方案 | 2026-02-12 | pixel-and-handmade |
+| Zenshotz | https://www.zenshotz.com | producthunt | 截图美化工具，把普通截图变成好看的展示素材 | 2026-02-12 | - |
+| Remainders | https://remainders.vercel.app | hackernews | 生命日历壁纸生成器，用点阵可视化你的人生周数 | 2026-02-12 | pixel-and-handmade |
+| How Browsers Work | https://howbrowserswork.com | hackernews | 交互式教程，用动画演示浏览器从输入 URL 到渲染页面的全过程 | 2026-02-12 | - |
+| Beats | https://beats.lasagna.pizza | reddit | 网页版鼓机，用像素风界面创建和分享节拍 | 2026-02-12 | pixel-and-handmade |
+| MealThinker | https://mealthinker.com | twitter | AI 膳食规划助手，记住你的口味偏好，自动生成个性化食谱 | 2026-02-12 | - |
+| ProtoPie | https://www.protopie.io | web | 高保真交互原型工具，无需代码即可创建复杂交互效果 | 2026-02-12 | - |
+| LLM Holdem | https://llmholdem.com | hackernews | 让 AI 模型打德州扑克，观看不同 LLM 之间的博弈对决 | 2026-02-12 | - |
