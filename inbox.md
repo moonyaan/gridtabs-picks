@@ -52,10 +52,10 @@
 | Its Hover | https://www.itshover.com | producthunt | 开源动态图标库，React/Next.js 交互动画 SVG | 2026-02-06 | pixel-and-handmade |
 | Kilo Code | https://kilo.ai | producthunt | 开源 AI 编程代理 VS Code 扩展，多模型切换 | 2026-02-06 | - |
 | Scribeist | https://scribeist.com | producthunt | AI 写作平台，小说/博客/通用三个工作区 | 2026-02-06 | - |
-| Immich | https://immich.app | reddit | 自托管照片管理，Google Photos 替代品 | 2026-02-06 | - |
-| Vikunja | https://vikunja.io | reddit | 开源任务管理，看板/甘特图/列表多视图 | 2026-02-06 | - |
-| Super Productivity | https://super-productivity.com | reddit | 开源深度工作管理器，内置时间追踪和专注模式 | 2026-02-06 | - |
-| Tandoor | https://tandoor.dev | reddit | 自托管食谱管理器，膳食规划和购物清单 | 2026-02-06 | - |
+| Immich | https://immich.app | reddit | 自托管照片管理，Google Photos 替代品 | 2026-02-06 | self-hosted-gems |
+| Vikunja | https://vikunja.io | reddit | 开源任务管理，看板/甘特图/列表多视图 | 2026-02-06 | self-hosted-gems |
+| Super Productivity | https://super-productivity.com | reddit | 开源深度工作管理器，内置时间追踪和专注模式 | 2026-02-06 | self-hosted-gems |
+| Tandoor | https://tandoor.dev | reddit | 自托管食谱管理器，膳食规划和购物清单 | 2026-02-06 | self-hosted-gems |
 | KanaDojo | https://kanadojo.com | reddit | 极简日语学习平台，练假名和汉字 | 2026-02-06 | - |
 | Devtimate | https://devtimate.com | reddit | AI 项目估算工具，上传需求自动生成工时拆分 | 2026-02-06 | - |
 | UXWizz | https://www.uxwizz.com | reddit | 自托管网站分析，热力图+会话录制，一次付费 | 2026-02-06 | - |
@@ -82,7 +82,7 @@
 | Bun | https://bun.sh | twitter | 全新 JavaScript 运行时，速度远超 Node.js | 2026-02-09 | - |
 | IndieRadar | https://indieradar.app | twitter | 独立开发者知识库，收录增长策略和实战 playbook | 2026-02-09 | - |
 | Excalidraw | https://excalidraw.com | twitter | 开源手绘风格绘图工具，适合系统设计和头脑风暴 | 2026-02-09 | swiss-army-knife-sites |
-| n8n | https://n8n.io | twitter | 自托管自动化工作流工具，支持 AI 集成 | 2026-02-09 | swiss-army-knife-sites |
+| n8n | https://n8n.io | twitter | 自托管自动化工作流工具，支持 AI 集成 | 2026-02-09 | swiss-army-knife-sites, self-hosted-gems |
 | Gamma | https://gamma.app | web | AI 演示文稿生成工具，几分钟内从想法变成精美幻灯片 | 2026-02-09 | ai-creative-studio |
 | Capacities | https://capacities.io | web | 动态网络笔记工具，将笔记组织成互联知识网络 | 2026-02-09 | - |
 | Keybr | https://www.keybr.com | web | 打字练习网站，专注提升盲打技能 | 2026-02-09 | - |
@@ -110,7 +110,7 @@
 | Lindy | https://www.lindy.ai | producthunt | AI 工作助理平台，自动处理邮件、日程、通话记录等日常事务 | 2026-02-12 | - |
 | Windsurf | https://windsurf.com | hackernews | Codeium 出品的 AI 代码编辑器，让开发者保持心流状态 | 2026-02-12 | - |
 | TinyWow | https://tinywow.com | web | 免费在线工具箱，涵盖 AI 写作、PDF 编辑、图片处理等数十种功能 | 2026-02-12 | - |
-| SimpleLogin | https://simplelogin.io | reddit | 开源邮箱别名服务，用匿名邮箱保护真实收件箱隐私 | 2026-02-12 | - |
+| SimpleLogin | https://simplelogin.io | reddit | 开源邮箱别名服务，用匿名邮箱保护真实收件箱隐私 | 2026-02-12 | self-hosted-gems |
 | Colorify Rocks | https://colorify.rocks | web | AI 配色生成器，输入关键词即可生成和谐的色彩方案 | 2026-02-12 | pixel-and-handmade |
 | Zenshotz | https://www.zenshotz.com | producthunt | 截图美化工具，把普通截图变成好看的展示素材 | 2026-02-12 | - |
 | Remainders | https://remainders.vercel.app | hackernews | 生命日历壁纸生成器，用点阵可视化你的人生周数 | 2026-02-12 | pixel-and-handmade |
@@ -119,3 +119,18 @@
 | MealThinker | https://mealthinker.com | twitter | AI 膳食规划助手，记住你的口味偏好，自动生成个性化食谱 | 2026-02-12 | - |
 | ProtoPie | https://www.protopie.io | web | 高保真交互原型工具，无需代码即可创建复杂交互效果 | 2026-02-12 | - |
 | LLM Holdem | https://llmholdem.com | hackernews | 让 AI 模型打德州扑克，观看不同 LLM 之间的博弈对决 | 2026-02-12 | - |
+| MonoSketch | https://app.monosketch.io | hackernews | 浏览器内 ASCII 风格图表绘制工具，适合技术文档和系统设计图 | 2026-02-26 | - |
+| Zed | https://zed.dev | hackernews | Rust 构建的极速代码编辑器，原生支持多人实时协作和 AI 辅助编程 | 2026-02-26 | - |
+| Rork | https://rork.com | producthunt | 用自然语言对话生成可投产 iOS/Android App 的 AI 移动开发工具 | 2026-02-26 | - |
+| SuperX | https://superx.so | producthunt | X 创作者全能增长平台，含 AI 写作、数据分析和智能排期 | 2026-02-26 | - |
+| Base44 | https://base44.com | producthunt | 无需代码，用 AI 对话在几分钟内构建含后端的完整功能应用 | 2026-02-26 | - |
+| ChaChing | https://chaching.io | producthunt | 替代 Stripe Billing 的订阅计费平台，同等功能下费率降低 50% | 2026-02-26 | - |
+| Bazaar | https://bazaar.it | producthunt | AI 动态图形生成工具，专为软件产品演示视频而设计 | 2026-02-26 | - |
+| memories.sh | https://memories.sh | producthunt | 跨 AI 编程工具统一同步记忆、技能与规则的基础设施层 | 2026-02-26 | - |
+| Ask Ellie | https://askellie.ai | producthunt | 在 Slack 中直接聚合 GitHub、Jira、Linear 工程上下文的 AI 工程助手 | 2026-02-26 | - |
+| Sigilla | https://sigilla.net | reddit | 会自动归档未读文章的稍后阅读工具，帮你对抗数字囤积焦虑 | 2026-02-26 | - |
+| Uptime Kuma | https://uptime.kuma.pet | reddit | 颜值出众的自托管服务监控工具，支持多通道告警，Docker 一键部署 | 2026-02-26 | self-hosted-gems |
+| Stirling PDF | https://stirlingpdf.com | reddit | 自托管 PDF 全能工具箱，60+ 种操作全程本地完成，无需上传文件 | 2026-02-26 | - |
+| IT-Tools | https://it-tools.tech | reddit | 86+ 个开发者实用工具集合，开源可自托管，直接在浏览器中使用 | 2026-02-26 | self-hosted-gems |
+| Blinko | https://blinko.space | reddit | AI 驱动的自托管卡片式闪念笔记，支持 RAG 语义搜索，数据完全自主 | 2026-02-26 | self-hosted-gems |
+| Paperless-ngx | https://paperless-ngx.com | reddit | 把纸质文件扫描归档为可搜索数字档案的自托管文档管理系统 | 2026-02-26 | self-hosted-gems |
