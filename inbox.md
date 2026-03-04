@@ -38,7 +38,7 @@
 | Griply | https://griply.app | producthunt | 目标导向任务管理，长期愿景拆解到每日习惯 | 2026-02-06 | weekend-websites-worth-opening |
 | XPipe | https://xpipe.io | reddit | 服务器连接中枢，统一管理 SSH/Docker/K8s | 2026-02-06 | - |
 | 10015 Tools | https://10015.io | web | 免费在线工具箱，数百个实用小工具集合 | 2026-02-06 | swiss-army-knife-sites |
-| Neal.fun | https://neal.fun/internet-artifacts | reddit | 互动式早期互联网博物馆，57 个经典时刻 | 2026-02-06 | weekend-websites-worth-opening |
+| Neal.fun | https://neal.fun/internet-artifacts | reddit | 互动式早期互联网博物馆，57 个经典时刻 | 2026-02-06 | weekend-websites-worth-opening, internet-curiosity-museum |
 | Xikipedia | https://xikipedia.org | hackernews | 维基百科内容变成可刷的信息流，本地推荐算法 | 2026-02-06 | - |
 | Notchable | https://notchable.com | hackernews | MacBook 刘海区任务管理器，语音输入+AI 分类 | 2026-02-06 | - |
 | Hister | https://hister.org | hackernews | 浏览记录全文搜索工具，本地索引，隐私优先 | 2026-02-06 | - |
@@ -70,9 +70,9 @@
 | Consensus | https://consensus.app | web | AI 学术搜索引擎，2 亿篇论文中找答案 | 2026-02-06 | - |
 | Calmly Writer | https://www.calmlywriter.com | web | 极简无干扰写作工具，专注模式只高亮当前段落 | 2026-02-06 | pixel-and-handmade |
 | Daigest | https://daige.st | hackernews | AI 驱动的信息监控工具，主动追踪多平台重要信息变化 | 2026-02-09 | - |
-| epilog.tv | https://epilog.tv | hackernews | 电视剧版 Letterboxd，追踪和可视化你的观剧习惯 | 2026-02-09 | - |
+| epilog.tv | https://epilog.tv | hackernews | 电视剧版 Letterboxd，追踪和可视化你的观剧习惯 | 2026-02-09 | no-algorithm-sites |
 | Termux | https://termux.dev | hackernews | Android 终端模拟器和 Linux 环境，无需 root | 2026-02-09 | - |
-| moltbook | https://moltbook.com | producthunt | AI 代理专属社交网络，模仿 Reddit 界面让 AI 们自由交流 | 2026-02-09 | - |
+| moltbook | https://moltbook.com | producthunt | AI 代理专属社交网络，模仿 Reddit 界面让 AI 们自由交流 | 2026-02-09 | internet-curiosity-museum |
 | Genstore.ai | https://genstore.ai | producthunt | 一句提示词创建在线商店，AI 自动选品设计定价 | 2026-02-09 | - |
 | Dottie | https://get-dottie.com | producthunt | 100% 隐私的 AI 日记应用，所有数据本地存储 | 2026-02-09 | - |
 | VolumeHub | https://volumehub.app | producthunt | macOS 独立应用音量控制工具，无需驱动 | 2026-02-09 | - |
@@ -114,11 +114,11 @@
 | Colorify Rocks | https://colorify.rocks | web | AI 配色生成器，输入关键词即可生成和谐的色彩方案 | 2026-02-12 | pixel-and-handmade |
 | Zenshotz | https://www.zenshotz.com | producthunt | 截图美化工具，把普通截图变成好看的展示素材 | 2026-02-12 | - |
 | Remainders | https://remainders.vercel.app | hackernews | 生命日历壁纸生成器，用点阵可视化你的人生周数 | 2026-02-12 | pixel-and-handmade |
-| How Browsers Work | https://howbrowserswork.com | hackernews | 交互式教程，用动画演示浏览器从输入 URL 到渲染页面的全过程 | 2026-02-12 | - |
+| How Browsers Work | https://howbrowserswork.com | hackernews | 交互式教程，用动画演示浏览器从输入 URL 到渲染页面的全过程 | 2026-02-12 | no-algorithm-sites |
 | Beats | https://beats.lasagna.pizza | reddit | 网页版鼓机，用像素风界面创建和分享节拍 | 2026-02-12 | pixel-and-handmade |
 | MealThinker | https://mealthinker.com | twitter | AI 膳食规划助手，记住你的口味偏好，自动生成个性化食谱 | 2026-02-12 | - |
 | ProtoPie | https://www.protopie.io | web | 高保真交互原型工具，无需代码即可创建复杂交互效果 | 2026-02-12 | - |
-| LLM Holdem | https://llmholdem.com | hackernews | 让 AI 模型打德州扑克，观看不同 LLM 之间的博弈对决 | 2026-02-12 | - |
+| LLM Holdem | https://llmholdem.com | hackernews | 让 AI 模型打德州扑克，观看不同 LLM 之间的博弈对决 | 2026-02-12 | internet-curiosity-museum |
 | MonoSketch | https://app.monosketch.io | hackernews | 浏览器内 ASCII 风格图表绘制工具，适合技术文档和系统设计图 | 2026-02-26 | - |
 | Zed | https://zed.dev | hackernews | Rust 构建的极速代码编辑器，原生支持多人实时协作和 AI 辅助编程 | 2026-02-26 | - |
 | Rork | https://rork.com | producthunt | 用自然语言对话生成可投产 iOS/Android App 的 AI 移动开发工具 | 2026-02-26 | - |
@@ -134,3 +134,34 @@
 | IT-Tools | https://it-tools.tech | reddit | 86+ 个开发者实用工具集合，开源可自托管，直接在浏览器中使用 | 2026-02-26 | self-hosted-gems |
 | Blinko | https://blinko.space | reddit | AI 驱动的自托管卡片式闪念笔记，支持 RAG 语义搜索，数据完全自主 | 2026-02-26 | self-hosted-gems |
 | Paperless-ngx | https://paperless-ngx.com | reddit | 把纸质文件扫描归档为可搜索数字档案的自托管文档管理系统 | 2026-02-26 | self-hosted-gems |
+| Lofi | https://lofi.co | web | 高质量 lofi 音乐流媒体，搭配治愈系场景背景，专为专注和放松设计 | 2026-02-28 | - |
+| RetroTick | https://retrotick.com | hackernews | 在浏览器里直接运行经典 Windows 和 DOS 程序，无需安装任何东西 | 2026-02-28 | no-algorithm-sites |
+| All The Views | https://alltheviews.world | hackernews | 用算法找出地球上最长视线，45亿条可探索视角的交互式地图 | 2026-02-28 | internet-curiosity-museum |
+| happycapy | https://happycapy.ai | producthunt | 浏览器里的 AI 原生计算机，让 AI 代理 24 小时在云沙箱替你工作 | 2026-02-28 | - |
+| Stitch by Google | https://stitch.withgoogle.com | producthunt | Google 出品的 AI UI 设计工具，上传草图自动生成生产可用的前端界面代码 | 2026-02-28 | - |
+| Earth.fm | https://earth.fm | web | 来自地球各角落的自然声景流媒体，沉浸在雨林、海浪、森林的真实环境音中 | 2026-02-28 | - |
+| ProjectionLab | https://projectionlab.com | web | 可交互的财务独立模拟器，用蒙特卡洛模拟预测你的整个人生财务轨迹 | 2026-02-28 | - |
+| WindowSwap | https://window-swap.com | web | 打开陌生人家的窗户，看世界各地真实窗外风景，互联网上最平静的地方 | 2026-02-28 | no-algorithm-sites |
+| Artvee | https://artvee.com | web | 超高清公版艺术作品免费下载库，古典油画海报插图可商用 | 2026-02-28 | no-algorithm-sites |
+| Focusmate | https://focusmate.com | web | 虚拟共同工作平台，与陌生人配对开视频专注，用社交承诺对抗拖延 | 2026-02-28 | - |
+| Omni Calculator | https://omnicalculator.com | web | 3800+ 个免费在线计算器，覆盖数学金融健康物理等15大类 | 2026-02-28 | - |
+| Printable Classics | https://printableclassics.com | hackernews | 免费下载精排版公版经典书籍 PDF，专为手工装订爱好者设计 | 2026-02-28 | no-algorithm-sites |
+| Concludia | https://concludia.org | hackernews | 图形化论证探索平台，可视化逻辑图帮你梳理和检验任何结论背后的推理 | 2026-02-28 | no-algorithm-sites |
+| Inclusive Colors | https://www.inclusivecolors.com | web | 以无障碍为核心的调色板生成器，实时验证 WCAG/APCA 对比度，一键导出到 Tailwind/Figma/CSS | 2026-02-28 | - |
+| Radiooooo | https://radiooooo.com | web | 音乐时光机，在世界地图上选国家和年代，聆听那个地方那个时代的真实音乐 | 2026-02-28 | no-algorithm-sites |
+| Now I Get It | https://nowigetit.us | hackernews | 上传学术 PDF，一键转成带通俗解释的交互式网页 | 2026-03-03 | - |
+| LLM Timeline | https://llm-timeline.com | hackernews | 交互式时间轴，追踪 2017-2026 年 194+ 个大语言模型的诞生历程 | 2026-03-03 | internet-curiosity-museum |
+| Glitchy | https://glitchycam.com | hackernews | 浏览器里的实时电路破坏相机，给画面加上 glitch 艺术效果，所有处理本地完成 | 2026-03-03 | internet-curiosity-museum |
+| Rebrain.gg | https://rebrain.gg | hackernews | 用社区对话替代刷短视频的学习平台，和其他人一起讨论真正感兴趣的话题 | 2026-03-03 | - |
+| Breadboard | https://breadboards.io | hackernews | 拖拽逻辑块构建真正可用的 Web 应用，现代版 HyperCard，无需写代码 | 2026-03-03 | - |
+| Geo Racers | https://geo-racers.com | hackernews | 不坐飞机从伦敦赛到东京——真实世界地理竞速游戏，有现金奖励 | 2026-03-03 | internet-curiosity-museum |
+| Forestry Diary | https://forestrydiary.com | hackernews | 1927-1945 年美国林业局护林员手写日记的数字化档案，可全文搜索 | 2026-03-03 | internet-curiosity-museum |
+| Wirewiki | https://wirewiki.com | hackernews | 互联网基础设施浏览器，查域名、IP、DNS 记录，开发者必备诊断工具箱 | 2026-03-03 | - |
+| Poosting | https://poosting.com | web | 无算法、按时间顺序排列帖子的社交平台，透明互动模型 | 2026-03-03 | - |
+| Ideogram | https://ideogram.ai | producthunt | AI 图像生成平台，以能在图像中渲染准确文字著称，告别 AI 写字乱码 | 2026-03-03 | - |
+| Snapdrop | https://snapdrop.net | web | 浏览器版 AirDrop，在同一局域网内跨设备即时传文件，无需安装任何软件 | 2026-03-03 | - |
+| Typora | https://typora.io | web | 极简 Markdown 编辑器，所见即所得实时预览，写作和阅读合二为一 | 2026-03-03 | - |
+| Paperboat | https://paperboat.website/home/ | hackernews | 无广告、无 JS、无噪音的个人博客和作品站平台，把想法折成纸船送给世界 | 2026-03-03 | - |
+| Respectify | https://respectify.org | hackernews | AI 评论审核工具，不是简单屏蔽而是教用户怎么更好地表达——边发言边成长 | 2026-03-03 | - |
+| Durable | https://durable.com | web | 30 秒用 AI 生成企业官网，附带营销、发票和 CRM 的一体化小企业平台 | 2026-03-03 | - |
+| Knock-Knock.net | https://knock-knock.net | hackernews | 实时可视化公网服务器上的黑客攻击尝试，这就是互联网的背景辐射 | 2026-03-03 | internet-curiosity-museum |
