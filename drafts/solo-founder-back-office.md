@@ -2,7 +2,7 @@
 status: published
 slug: solo-founder-back-office
 date: "2026-05-26"
-coverImage: "images/solo-founder-back-office.png"
+coverImage: "solo-founder-back-office.png"
 ---
 
 # Solo Founder Back Office: 9 Tools to Run It All Yourself
