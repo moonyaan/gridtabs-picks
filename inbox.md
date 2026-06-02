@@ -46,8 +46,8 @@
 | Atlas | https://atlas.co | producthunt | AI 地图代理，自然语言创建地图和空间分析 | 2026-02-06 | - |
 | ChartGen AI | https://chartgen.ai | producthunt | 免费 AI 图表生成器，上传数据自然语言生成图表 | 2026-02-06 | ai-creative-studio |
 | Supaboard | https://supaboard.ai | producthunt | AI 商业分析平台，自然语言提问获取数据洞察 | 2026-02-06 | - |
-| TravelAnimator | https://www.travelanimator.com | producthunt | Google Maps 链接一键转精美旅行路线动画 | 2026-02-06 | - |
-| DaysAround | https://daysaround.app | producthunt | 隐私优先旅行追踪，用照片元数据记录去过的国家 | 2026-02-06 | - |
+| TravelAnimator | https://www.travelanimator.com | producthunt | Google Maps 链接一键转精美旅行路线动画 | 2026-02-06 | data-about-your-life |
+| DaysAround | https://daysaround.app | producthunt | 隐私优先旅行追踪，用照片元数据记录去过的国家 | 2026-02-06 | In Picks: data-about-your-life |
 | Higgsfield | https://higgsfield.ai | producthunt | AI 动效视频生成，自然语言描述生成专业级动效 | 2026-02-06 | ai-creative-studio |
 | Its Hover | https://www.itshover.com | producthunt | 开源动态图标库，React/Next.js 交互动画 SVG | 2026-02-06 | pixel-and-handmade |
 | Kilo Code | https://kilo.ai | producthunt | 开源 AI 编程代理 VS Code 扩展，多模型切换 | 2026-02-06 | - |
@@ -72,7 +72,7 @@
 | Daigest | https://daige.st | hackernews | AI 驱动的信息监控工具，主动追踪多平台重要信息变化 | 2026-02-09 | always-on-internet |
 | epilog.tv | https://epilog.tv | hackernews | 电视剧版 Letterboxd，追踪和可视化你的观剧习惯 | 2026-02-09 | no-algorithm-sites |
 | Termux | https://termux.dev | hackernews | Android 终端模拟器和 Linux 环境，无需 root | 2026-02-09 | - |
-| moltbook | https://moltbook.com | producthunt | AI 代理专属社交网络，模仿 Reddit 界面让 AI 们自由交流 | 2026-02-09 | internet-curiosity-museum |
+| moltbook | https://moltbook.com | producthunt | AI 代理专属社交网络，模仿 Reddit 界面让 AI 们自由交流 | 2026-02-09 | internet-curiosity-museum, ai-on-trial |
 | Genstore.ai | https://genstore.ai | producthunt | 一句提示词创建在线商店，AI 自动选品设计定价 | 2026-02-09 | - |
 | Dottie | https://get-dottie.com | producthunt | 100% 隐私的 AI 日记应用，所有数据本地存储 | 2026-02-09 | - |
 | VolumeHub | https://volumehub.app | producthunt | macOS 独立应用音量控制工具，无需驱动 | 2026-02-09 | - |
@@ -118,7 +118,7 @@
 | Beats | https://beats.lasagna.pizza | reddit | 网页版鼓机，用像素风界面创建和分享节拍 | 2026-02-12 | pixel-and-handmade |
 | MealThinker | https://mealthinker.com | twitter | AI 膳食规划助手，记住你的口味偏好，自动生成个性化食谱 | 2026-02-12 | - |
 | ProtoPie | https://www.protopie.io | web | 高保真交互原型工具，无需代码即可创建复杂交互效果 | 2026-02-12 | - |
-| LLM Holdem | https://llmholdem.com | hackernews | 让 AI 模型打德州扑克，观看不同 LLM 之间的博弈对决 | 2026-02-12 | internet-curiosity-museum |
+| LLM Holdem | https://llmholdem.com | hackernews | 让 AI 模型打德州扑克，观看不同 LLM 之间的博弈对决 | 2026-02-12 | internet-curiosity-museum, ai-on-trial |
 | MonoSketch | https://app.monosketch.io | hackernews | 浏览器内 ASCII 风格图表绘制工具，适合技术文档和系统设计图 | 2026-02-26 | keyboard-people |
 | Zed | https://zed.dev | hackernews | Rust 构建的极速代码编辑器，原生支持多人实时协作和 AI 辅助编程 | 2026-02-26 | keyboard-people |
 | Rork | https://rork.com | producthunt | 用自然语言对话生成可投产 iOS/Android App 的 AI 移动开发工具 | 2026-02-26 | ai-no-code-2026 |
@@ -140,7 +140,7 @@
 | happycapy | https://happycapy.ai | producthunt | 浏览器里的 AI 原生计算机，让 AI 代理 24 小时在云沙箱替你工作 | 2026-02-28 | - |
 | Stitch by Google | https://stitch.withgoogle.com | producthunt | Google 出品的 AI UI 设计工具，上传草图自动生成生产可用的前端界面代码 | 2026-02-28 | ai-no-code-2026 |
 | Earth.fm | https://earth.fm | web | 来自地球各角落的自然声景流媒体，沉浸在雨林、海浪、森林的真实环境音中 | 2026-02-28 | focused-life |
-| ProjectionLab | https://projectionlab.com | web | 可交互的财务独立模拟器，用蒙特卡洛模拟预测你的整个人生财务轨迹 | 2026-02-28 | - |
+| ProjectionLab | https://projectionlab.com | web | 可交互的财务独立模拟器，用蒙特卡洛模拟预测你的整个人生财务轨迹 | 2026-02-28 | In Picks: data-about-your-life |
 | WindowSwap | https://window-swap.com | web | 打开陌生人家的窗户，看世界各地真实窗外风景，互联网上最平静的地方 | 2026-02-28 | no-algorithm-sites |
 | Artvee | https://artvee.com | web | 超高清公版艺术作品免费下载库，古典油画海报插图可商用 | 2026-02-28 | no-algorithm-sites |
 | Focusmate | https://focusmate.com | web | 虚拟共同工作平台，与陌生人配对开视频专注，用社交承诺对抗拖延 | 2026-02-28 | focused-life |
@@ -149,8 +149,8 @@
 | Concludia | https://concludia.org | hackernews | 图形化论证探索平台，可视化逻辑图帮你梳理和检验任何结论背后的推理 | 2026-02-28 | no-algorithm-sites |
 | Inclusive Colors | https://www.inclusivecolors.com | web | 以无障碍为核心的调色板生成器，实时验证 WCAG/APCA 对比度，一键导出到 Tailwind/Figma/CSS | 2026-02-28 | - |
 | Radiooooo | https://radiooooo.com | web | 音乐时光机，在世界地图上选国家和年代，聆听那个地方那个时代的真实音乐 | 2026-02-28 | no-algorithm-sites |
-| Now I Get It | https://nowigetit.us | hackernews | 上传学术 PDF，一键转成带通俗解释的交互式网页 | 2026-03-03 | - |
-| LLM Timeline | https://llm-timeline.com | hackernews | 交互式时间轴，追踪 2017-2026 年 194+ 个大语言模型的诞生历程 | 2026-03-03 | internet-curiosity-museum |
+| Now I Get It | https://nowigetit.us | hackernews | 上传学术 PDF，一键转成带通俗解释的交互式网页 | 2026-03-03 | ai-on-trial |
+| LLM Timeline | https://llm-timeline.com | hackernews | 交互式时间轴，追踪 2017-2026 年 194+ 个大语言模型的诞生历程 | 2026-03-03 | internet-curiosity-museum, ai-on-trial |
 | Glitchy | https://glitchycam.com | hackernews | 浏览器里的实时电路破坏相机，给画面加上 glitch 艺术效果，所有处理本地完成 | 2026-03-03 | internet-curiosity-museum |
 | Rebrain.gg | https://rebrain.gg | hackernews | 用社区对话替代刷短视频的学习平台，和其他人一起讨论真正感兴趣的话题 | 2026-03-03 | always-on-internet |
 | Breadboard | https://breadboards.io | hackernews | 拖拽逻辑块构建真正可用的 Web 应用，现代版 HyperCard，无需写代码 | 2026-03-03 | ai-no-code-2026 |
@@ -164,7 +164,7 @@
 | Paperboat | https://paperboat.website/home/ | hackernews | 无广告、无 JS、无噪音的个人博客和作品站平台，把想法折成纸船送给世界 | 2026-03-03 | - |
 | Respectify | https://respectify.org | hackernews | AI 评论审核工具，不是简单屏蔽而是教用户怎么更好地表达——边发言边成长 | 2026-03-03 | - |
 | Durable | https://durable.com | web | 30 秒用 AI 生成企业官网，附带营销、发票和 CRM 的一体化小企业平台 | 2026-03-03 | ai-no-code-2026 |
-| Knock-Knock.net | https://knock-knock.net | hackernews | 实时可视化公网服务器上的黑客攻击尝试，这就是互联网的背景辐射 | 2026-03-03 | internet-curiosity-museum |
+| Knock-Knock.net | https://knock-knock.net | hackernews | 实时可视化公网服务器上的黑客攻击尝试，这就是互联网的背景辐射 | 2026-03-03 | internet-curiosity-museum, ai-on-trial |
 | Crawler.sh | https://crawler.sh | hackernews | 本地优先高速 Web 爬虫，几秒内完成爬取、SEO 分析和 Markdown 内容导出 | 2026-03-06 | - |
 | Blink | https://blink.new | producthunt | AI 全栈应用构建器，对话生成含数据库、认证和部署的生产级 Web 应用 | 2026-03-06 | ai-no-code-2026 |
 | Superdesign | https://www.superdesign.dev | hackernews | 住在 IDE 里的开源 AI 设计代理，并行生成 10 个界面方案直接输出代码 | 2026-03-06 | ai-no-code-2026 |
@@ -172,7 +172,7 @@
 | Polymo | https://www.polymo.app | hackernews | 用 AI 极速构建单页 HTML Web 应用，像拍证件照一样快速验证想法 | 2026-03-06 | ai-no-code-2026 |
 | Web Audio Studio | https://webaudio.studio | hackernews | 浏览器内 Web Audio API 可视化调试器，写代码同时实时看到交互式音频节点图 | 2026-03-06 | - |
 | Govbase | https://govbase.com | hackernews | 从法案原文到媒体偏见到社交帖子，追踪美国政策全链路的公民科技平台 | 2026-03-06 | - |
-| The Website | https://www.thewebsite.app | hackernews | AI 代理公开担任 CEO，从零透明经营真实企业，每个决策都对外可见 | 2026-03-06 | - |
+| The Website | https://www.thewebsite.app | hackernews | AI 代理公开担任 CEO，从零透明经营真实企业，每个决策都对外可见 | 2026-03-06 | ai-on-trial |
 | SitDeck | https://sitdeck.com | hackernews | 接入 180+ 数据源的实时全球 OSINT 情报仪表盘，60 秒内刷新威胁与事件 | 2026-03-06 | always-on-internet |
 | Chord Reps | https://chordreps.com | hackernews | 用间隔重复算法练耳音的免费浏览器音乐理论训练工具 | 2026-03-06 | - |
 | Hive Index | https://thehiveindex.com | web | 收录 4100+ 在线社区的精选目录，按话题和平台分类浏览 | 2026-03-06 | always-on-internet |
@@ -185,8 +185,8 @@
 | FontGen | https://fontgen.cool | hackernews | 200+ 种 Unicode 花式字体即时转换，复制粘贴到任何平台 | 2026-03-06 | - |
 | Mumpix | https://www.mumpixdb.com | hackernews | 专为 AI 应用设计的本地优先嵌入式数据库，支持混合语义搜索 | 2026-03-06 | - |
 | Settle It | https://settleit.now | hackernews | 秒速生成可分享投票链接，无需注册，解决群聊里的集体决策难题 | 2026-03-06 | - |
-| Zenodot | https://www.zenodot.app/ | hackernews | 搜任意书名，找到它在世界各语言的所有翻译版本 | 2026-03-10 | - |
-| DopaLoop | https://dopaloop.app/ | hackernews | 专为 ADHD 人群设计的习惯追踪器，无惩罚性连击，目标优先，数据本地存储 | 2026-03-10 | focused-life |
+| Zenodot | https://www.zenodot.app/ | hackernews | 搜任意书名，找到它在世界各语言的所有翻译版本 | 2026-03-10 | data-about-your-life |
+| DopaLoop | https://dopaloop.app/ | hackernews | 专为 ADHD 人群设计的习惯追踪器，无惩罚性连击，目标优先，数据本地存储 | 2026-03-10 | focused-life, data-about-your-life |
 | Kind Voice Notes | https://kindvoicenotes.com/ | hackernews | 给陌生人录一段善意语音留言，或收听别人为你留下的温暖话语 | 2026-03-10 | - |
 | TinyChart | https://tinychart.io/ | hackernews | 粘贴 CSV 数据，一秒生成可分享的图表链接，无需注册 | 2026-03-10 | - |
 | Ratschn | https://ratschn.com/ | hackernews | Mac 本地离线语音转文字工具，Rust + CoreML 构建，完全不联网 | 2026-03-10 | - |
@@ -197,7 +197,7 @@
 | Unite Pro | https://www.bzgapps.com/unite | producthunt | 把任意网站变成专属 Mac App，支持窗口/侧边栏/菜单栏三种模式 | 2026-03-10 | - |
 | Gemlet | https://www.gemlet.app/ | producthunt | 键盘优先的原生 macOS Gemini 客户端，菜单栏常驻，30+ 快捷键，买断制 | 2026-03-10 | - |
 | Cockpit | https://cockpit-project.org/ | web | 浏览器里管理 Linux 服务器的图形化界面，点击鼠标完成磁盘/网络/容器等所有操作 | 2026-03-10 | - |
-| Slop or Not | https://slop-or-not.space | hackernews | 两段文字一人写一 AI 写，你能分辨吗？测试 AI 识别能力的游戏 | 2026-03-13 | - |
+| Slop or Not | https://slop-or-not.space | hackernews | 两段文字一人写一 AI 写，你能分辨吗？测试 AI 识别能力的游戏 | 2026-03-13 | ai-on-trial |
 | Site Spy | https://sitespy.app | hackernews | 监控任意网页变化，把每个页面的改动变成 RSS 订阅或即时通知 | 2026-03-13 | - |
 | Coderank | https://coderank.me | hackernews | 把 GitHub 公开活动转化为开发者排名和项目趋势的智能分析平台 | 2026-03-13 | - |
 | Fish Audio S2 | https://fish.audio/s2/ | producthunt | 开源最强表现力 TTS 模型，用自然语言描述说话方式，150ms 延迟支持实时对话 | 2026-03-13 | - |
@@ -216,7 +216,7 @@
 | SVG Backgrounds | https://www.svgbackgrounds.com | hackernews | 48 套可定制免费 SVG 背景图案库，设计师和开发者的快速素材神器 | 2026-03-20 | make-it-beautiful |
 | Oku | https://oku.io | hackernews | 将 Reddit、YouTube、HN、RSS 聚合到无算法仪表板的信息过滤工具 | 2026-03-20 | - |
 | Dear Aliens | https://www.dearaliens.net | hackernews | 征集人类写给即将到来外星人的创意信件，最佳作品获 $2000 奖励 | 2026-03-20 | - |
-| Poppy | https://poppy-connection-keeper.netlify.app | hackernews | 用花园比喻管理人际关系的轻量提醒工具，温和无压力联系重要的人 | 2026-03-20 | - |
+| Poppy | https://poppy-connection-keeper.netlify.app | hackernews | 用花园比喻管理人际关系的轻量提醒工具，温和无压力联系重要的人 | 2026-03-20 | data-about-your-life |
 | Prism.Tools | https://blgardner.github.io/prism.tools/ | hackernews | 浏览器内 38+ 开发者工具合集，数据本地处理，零追踪零广告完全免费 | 2026-03-20 | - |
 | HTMLPub | https://htmlpub.com | producthunt | 粘贴 HTML 或接入 AI 即可 10 秒发布在线页面，支持 MCP/API 直接调用 | 2026-03-20 | - |
 | Ensemble | https://ensemblewriter.com | hackernews | 现代化剧本写作工具，行业标准格式加实时协作与 AI 辅助镜头分析 | 2026-03-20 | - |
@@ -224,7 +224,7 @@
 | Snip2Img | https://snip2img.com | hackernews | 将代码片段、文本和数据转为精美可分享图片的浏览器工具 | 2026-03-24 | - |
 | Refrax | https://refrax.website | hackernews | macOS 原生 WebKit 浏览器，垂直标签页 + 隐私优先，独立开发者从零构建 | 2026-03-24 | - |
 | Pillser | https://pillser.com | web | 结合最新科研数据的补充剂研究与对比平台，帮你做出更明智的健康选择 | 2026-03-24 | - |
-| WhyThere | https://whythere.life | hackernews | 用真实数据对比全球城市，帮你决定下一站定居何处 | 2026-03-24 | - |
+| WhyThere | https://whythere.life | hackernews | 用真实数据对比全球城市，帮你决定下一站定居何处 | 2026-03-24 | data-about-your-life |
 | Quack | https://quack.sdan.io | hackernews | 像刷 TikTok 一样刷维基百科，竖屏滚动探索人类知识 | 2026-03-24 | - |
 | Zsweep | https://zsweep.com | hackernews | 用 Vim 快捷键操控的网页版扫雷，键盘党的新欢 | 2026-03-24 | - |
 | US Light Stations | https://www.lighthouses.app | hackernews | 美国 59,000+ 灯塔和导航标志的交互式地图，航海历史爱好者的宝库 | 2026-03-24 | - |
@@ -254,3 +254,30 @@
 | Re_gent | https://re-gent.dev | producthunt | AI 编程代理的版本控制系统，追踪代理对话和代码改动，支持回滚和会话重放 | 2026-05-26 | - |
 | Vivaldi | https://vivaldi.com | web | 史上最大界面重设计的浏览器更新——统一面板、6 种布局、不加任何 AI 功能 | 2026-05-26 | - |
 | Mintlify | https://mintlify.com | web | AI 原生开发者文档平台，代理自动监控代码库变更并提议更新文档，文档和代码始终同步 | 2026-05-26 | - |
+| TinyCld | https://tinycld.org | hackernews | 自托管生产力套件，邮件/日历/联系人/云存储六合一，完全开源永久免费，数据不过第三方 | 2026-05-29 | - |
+| Scrolodex | https://scrolodex.app | hackernews | macOS 极轻量窗口切换器，按住 Option 键滚动鼠标即可在窗口间流畅跳转，无需点击 | 2026-05-29 | - |
+| Reassign | https://reassign.app | hackernews | 把 24 小时可视化成圆形形状的网页日程规划工具，拖动色块安排时间，支持 AI 重组日程 | 2026-05-29 | - |
+| Hallucinate | https://hallucinate.site | hackernews | 浏览器里的大型多人在线电子音乐派对，和全球陌生人共同沉浸在迷幻虚拟 rave 体验中 | 2026-05-29 | - |
+| AudioMass | https://audiomass.co | hackernews | 免费开源的浏览器端多轨音频编辑器，无需安装，支持无缝循环、静音修剪和多轨叠加 | 2026-05-29 | - |
+| Congress Trading Monitor | https://congress.kadoa.com | hackernews | 实时追踪美国国会议员每一笔股票交易的公民监督平台，数据透明可查 | 2026-05-29 | data-about-your-life |
+| own.page | https://own.page | producthunt | 无需代码的 link-in-bio 网站构建器，bento 瓦片布局打造专属个人主页，内置分析工具 | 2026-05-29 | - |
+| Unabyss | https://unabyss.com | producthunt | MCP 原生上下文管理层，连接 40+ 工具让 Claude/Cursor 等 AI 始终拥有最新项目上下文 | 2026-05-29 | - |
+| Orchestria | https://orchestria.tech | producthunt | 用自然语言指挥 AI 音乐家团队创作完整音轨，每个音轨单独可导出，商用免授权费 | 2026-05-29 | - |
+| tweet.md | https://tweet.md | producthunt | 把 X/Twitter 帖子一键转成干净 Markdown，专为 LLM 和 AI 代理工作流优化 | 2026-05-29 | - |
+| Tiny CV | https://tiny.cv | producthunt | 基于 Markdown 的极简一页简历生成器，实时纸张预览，支持在线分享和 PDF 导出 | 2026-05-29 | - |
+| LobeHub | https://lobehub.com | web | 开源 AI 代理协作平台，多代理组队协同完成复杂任务，内置 400+ 插件，可自托管 | 2026-05-29 | - |
+| LLMTest | https://llmtest.io | producthunt | AI API 代理层，自动追踪成本并在 LLM 提供商故障时无缝切换备用模型 | 2026-05-29 | - |
+| Google Antigravity | https://antigravity.google | web | Google I/O 2026 发布的多代理开发平台，桌面 App + CLI + SDK，编排 AI 代理做复杂任务 | 2026-05-29 | - |
+| Continue? Y/N | https://llmgame.scalex.dev | hackernews | 60 秒小游戏，测试你是否真的仔细读 AI 代理的权限请求——关于权限疲劳的思考实验 | 2026-05-29 | ai-on-trial |
+| Typeahead | https://typeahead.ai | producthunt | Mac 全局 AI 文字补全工具，所有应用中一键接受 AI 续写，完全本地运行保护隐私，买断制 $79 | 2026-06-02 | - |
+| fuguUX | https://www.fuguux.com | hackernews | AI 驱动的 UX 自动化测试平台，几分钟内生成带严重等级的可用性报告和改进路线图 | 2026-06-02 | - |
+| Ouijit | https://ouijit.com | hackernews | 开源 AI 代理任务与终端会话管理器，支持 git 工作树隔离、Kanban 看板和 VM 沙箱执行 | 2026-06-02 | - |
+| TV Explorer | https://tvexplorer.live | hackernews | 为免费在线电视频道添加高级浏览界面，一键探索全球 10,000+ 个直播频道 | 2026-06-02 | - |
+| Helios | https://helios.southlondonscientific.com/ | hackernews | 输入英国邮编，用 LIDAR 遮蔽分析算出阳台太阳能板发电量和投资回报周期 | 2026-06-02 | data-about-your-life |
+| Quantum Mechanics from Scratch | https://quantum.schols.io/intro | hackernews | 从基础算术到量子力学的完整自学指南，UCLA 在校生撰写，每个概念从第一原理推导 | 2026-06-02 | - |
+| Mina | https://getmina.ai | producthunt | AI 会议代理，在通话进行中实时回答问题、执行任务、生成摘要并更新 CRM 和工单系统 | 2026-06-02 | - |
+| Databox MCP | https://databox.com/mcp | producthunt | MCP 服务器让你在 Claude、ChatGPT 或 Cursor 里直接用自然语言查询 Databox 业务数据 | 2026-06-02 | - |
+| Textile | https://www.gettextile.app | hackernews | macOS 桌面应用，像织布一样拼接和重用文本片段，支持键盘快捷键和命令执行，本地优先 | 2026-06-02 | - |
+| TapToyPia | https://memalign.github.io/m/taptoypia/index.html | hackernews | 浏览器里的星球殖民点击游戏，探索动植物并建立人类新家园，无需安装即玩 | 2026-06-02 | - |
+| Open Envelope | https://openenvelope.org | hackernews | 定义 AI 代理团队的开放标准，一次编写，部署到任意编排平台并追踪每次执行 | 2026-06-02 | - |
+| Zot | https://www.zot.sh | hackernews | 单一静态 Go 二进制的轻量编程代理，连接 25+ LLM 供应商，自带文件读写和 Telegram 桥接 | 2026-06-02 | - |

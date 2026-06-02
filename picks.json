@@ -1026,5 +1026,44 @@
         }
       }
     ]
+  },
+  {
+    "slug": "data-about-your-life",
+    "title": {
+      "en": "Data About Your Life: 3 Tools to Build Your AI-Ready Dataset",
+      "zh-CN": "关于你自己的数据：3 个工具，越早开始记录，AI 给你的越多"
+    },
+    "description": {
+      "en": "The AI insights you'll get in 2030 depend on the data you start collecting today. Three tools to build your dataset: finances, relationships, travel.",
+      "zh-CN": "2030 年 AI 能给你多深的洞察，取决于你今天开始记录什么。三个工具，帮你把最重要的人生数据积累起来：财务、人际、旅行。"
+    },
+    "date": "2026-06-02",
+    "coverImage": "coverImage12.jpg",
+    "sites": [
+      {
+        "name": "ProjectionLab",
+        "url": "https://projectionlab.com",
+        "description": {
+          "en": "Most financial apps show you where your money is. ProjectionLab shows you where your money is going — across your entire life, modeled probabilistically, with every assumption made explicit and auditable. This isn't a budgeting tool. It's a simulation engine. You feed it your income, expenses, assets, debts, and planned milestones — buying a house, having kids, retiring early, taking a sabbatical — and it runs Monte Carlo simulations across thousands of possible futures to calculate your probability of success for each scenario. The Sankey diagrams alone are worth the price of admission: for the first time, you can see exactly where every dollar of your working life will flow, from paycheck to final resting place. But the deeper value is what happens after years of use. ProjectionLab doesn't just model your future — it builds an auditable record of how your financial assumptions have evolved. You can look back and see what you believed about your spending in 2026, your income growth in 2028, your retirement date in 2030. That longitudinal record of financial thinking is exactly the kind of structured data that will make AI financial planning genuinely powerful. When AI can reason over a decade of your assumptions, scenarios, and outcomes, it stops being a generic calculator and starts being something that actually knows your financial life. Privacy-first: no bank connections required, all calculations run locally, your data never leaves your device.",
+          "zh-CN": ""
+        }
+      },
+      {
+        "name": "Monica",
+        "url": "https://www.monicahq.com",
+        "description": {
+          "en": "Most people believe they maintain their relationships. They remember birthdays, reply to messages, show up when it matters. But memory is selective and attention is finite — and the data tells a different story. Monica is an open-source personal CRM that turns the vague intention of \"staying in touch\" into a structured, searchable, analyzable record of your social life. For every person in your network, you can log how you met, what matters to them, life events (a new job, a health scare, a move), the substance of your last conversation, personal details that help you be a better friend. Monica tracks when you last made contact and quietly surfaces who you've been neglecting before the gap becomes an eight-month silence you feel guilty about. The immediate value is obvious: you become the person who remembers, who follows up, who actually stays connected. But the longer-term value — the AI value — is more interesting. A relationship dataset built over five or ten years becomes a rich context layer for any AI assistant you work with. Imagine asking an AI to help you reconnect with an old colleague and having it draw on three years of interaction history: what you talked about, what was happening in their life, how the relationship has evolved. That kind of contextual assistance is already possible with the right data underneath it. Monica is how you build that data. Self-hostable, fully open-source, your data stays where you put it.",
+          "zh-CN": ""
+        }
+      },
+      {
+        "name": "DaysAround",
+        "url": "https://daysaround.app",
+        "description": {
+          "en": "You've already been building this dataset for years — you just haven't extracted it yet. DaysAround reconstructs your travel history automatically from the EXIF metadata embedded in your existing photo library: timestamps, locations, the quiet record your camera has been keeping of everywhere you've been. No GPS tracking required, no account to create, no data uploaded anywhere. Everything stays on your phone, and what it builds is something surprisingly complete: a country-level record of your life's geography, assembled from photos you already have. For frequent travelers and digital nomads, the value shows up fast. The built-in Schengen Zone calculator tracks your 90/180-day allowance in real time. The tax residency tracker helps you understand where you actually lived each year — not where you thought you lived, but where the data says you were. These are compliance tools with real stakes. But the deeper value is something else: a structured, accurate, private map of where you've been and when. That record becomes more useful as AI travel planning, tax advisory, and life-review tools mature. The person who's been quietly building this dataset for five years will have something qualitatively different to offer an AI assistant than someone starting from scratch. Your photos have already done the work. DaysAround just reads them.",
+          "zh-CN": ""
+        }
+      }
+    ]
   }
 ]
