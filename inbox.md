@@ -28,7 +28,7 @@
 | Lovable | https://lovable.dev | twitter | AI 全栈开发平台，自然语言生成可部署代码 | 2026-02-06 | weekend-websites-worth-opening |
 | Dify | https://dify.ai | twitter | 开源 LLM 应用开发平台，可视化搭建 AI Agent 工作流 | 2026-02-06 | swiss-army-knife-sites |
 | Bruno | https://www.usebruno.com | twitter | 开源 API 客户端，Postman 的轻量本地替代品 | 2026-02-06 | keyboard-people |
-| Granola | https://www.granola.ai | web | AI 会议笔记，不以机器人加入会议，本地转录 | 2026-02-06 | solo-founder-back-office |
+| Granola | https://www.granola.ai | web | AI 会议笔记，不以机器人加入会议，本地转录 | 2026-02-06 | solo-founder-back-office, inbox-zero-for-everything |
 | Wispr Flow | https://wisprflow.ai | reddit | AI 语音输入工具，任何应用中语音转文字 | 2026-02-06 | ai-creative-studio, sound-possibilities |
 | BentoPDF | https://www.bentopdf.com | reddit | 开源浏览器端 PDF 工具箱，无需上传文件 | 2026-02-06 | swiss-army-knife-sites |
 | GummySearch | https://gummysearch.com | reddit | Reddit 受众研究工具，自动发现用户痛点 | 2026-02-06 | weekend-websites-worth-opening |
@@ -69,7 +69,7 @@
 | Pika | https://pika.style | web | 截图美化工具，一键把截图变精美展示图 | 2026-02-06 | ai-creative-studio, make-it-beautiful |
 | Consensus | https://consensus.app | web | AI 学术搜索引擎，2 亿篇论文中找答案 | 2026-02-06 | - |
 | Calmly Writer | https://www.calmlywriter.com | web | 极简无干扰写作工具，专注模式只高亮当前段落 | 2026-02-06 | pixel-and-handmade, focused-life |
-| Daigest | https://daige.st | hackernews | AI 驱动的信息监控工具，主动追踪多平台重要信息变化 | 2026-02-09 | always-on-internet |
+| Daigest | https://daige.st | hackernews | AI 驱动的信息监控工具，主动追踪多平台重要信息变化 | 2026-02-09 | always-on-internet, inbox-zero-for-everything |
 | epilog.tv | https://epilog.tv | hackernews | 电视剧版 Letterboxd，追踪和可视化你的观剧习惯 | 2026-02-09 | no-algorithm-sites |
 | Termux | https://termux.dev | hackernews | Android 终端模拟器和 Linux 环境，无需 root | 2026-02-09 | - |
 | moltbook | https://moltbook.com | producthunt | AI 代理专属社交网络，模仿 Reddit 界面让 AI 们自由交流 | 2026-02-09 | internet-curiosity-museum, ai-on-trial |
@@ -107,10 +107,10 @@
 | Atlas Obscura | https://www.atlasobscura.com | reddit | 发现世界各地独特旅行地点和奇特景点的平台 | 2026-02-09 | - |
 | TinEye | https://tineye.com | reddit | 强大的反向图片搜索引擎，检测图片修改和来源 | 2026-02-09 | - |
 | Photoroom | https://www.photoroom.com | producthunt | AI 驱动的产品摄影编辑工具，一键去背景、换场景、批量处理 | 2026-02-12 | make-it-beautiful |
-| Lindy | https://www.lindy.ai | producthunt | AI 工作助理平台，自动处理邮件、日程、通话记录等日常事务 | 2026-02-12 | solo-founder-back-office |
+| Lindy | https://www.lindy.ai | producthunt | AI 工作助理平台，自动处理邮件、日程、通话记录等日常事务 | 2026-02-12 | solo-founder-back-office, inbox-zero-for-everything |
 | Windsurf | https://windsurf.com | hackernews | Codeium 出品的 AI 代码编辑器，让开发者保持心流状态 | 2026-02-12 | keyboard-people |
 | TinyWow | https://tinywow.com | web | 免费在线工具箱，涵盖 AI 写作、PDF 编辑、图片处理等数十种功能 | 2026-02-12 | - |
-| SimpleLogin | https://simplelogin.io | reddit | 开源邮箱别名服务，用匿名邮箱保护真实收件箱隐私 | 2026-02-12 | self-hosted-gems |
+| SimpleLogin | https://simplelogin.io | reddit | 开源邮箱别名服务，用匿名邮箱保护真实收件箱隐私 | 2026-02-12 | self-hosted-gems, inbox-zero-for-everything |
 | Colorify Rocks | https://colorify.rocks | web | AI 配色生成器，输入关键词即可生成和谐的色彩方案 | 2026-02-12 | pixel-and-handmade |
 | Zenshotz | https://www.zenshotz.com | producthunt | 截图美化工具，把普通截图变成好看的展示素材 | 2026-02-12 | - |
 | Remainders | https://remainders.vercel.app | hackernews | 生命日历壁纸生成器，用点阵可视化你的人生周数 | 2026-02-12 | pixel-and-handmade |
@@ -229,7 +229,7 @@
 | Zsweep | https://zsweep.com | hackernews | 用 Vim 快捷键操控的网页版扫雷，键盘党的新欢 | 2026-03-24 | - |
 | US Light Stations | https://www.lighthouses.app | hackernews | 美国 59,000+ 灯塔和导航标志的交互式地图，航海历史爱好者的宝库 | 2026-03-24 | - |
 | Revise | https://revise.io | hackernews | 内置 AI 的文档编辑器，具备一流的修订历史和视觉差异对比功能 | 2026-03-24 | - |
-| Littlebird | https://littlebird.ai | hackernews | 自动追踪你跨应用工作内容的 AI 助手，随时回忆、总结会议并生成内容 | 2026-03-24 | - |
+| Littlebird | https://littlebird.ai | hackernews | 自动追踪你跨应用工作内容的 AI 助手，随时回忆、总结会议并生成内容 | 2026-03-24 | inbox-zero-for-everything |
 | Pipenet | https://pipenet.dev | hackernews | 现代开源隧道工具，将本地服务暴露到互联网，Localtunnel 的替代品 | 2026-03-24 | - |
 | CORE MBA | https://www.core-mba.pro | web | 16 门课程、80+ 课时的在线 MBA 平台，用文字交互替代视频，高效学商业 | 2026-03-24 | - |
 | Visdiff | https://visdiff.com | producthunt | AI 自动验证代码是否与 Figma 设计像素级匹配，关掉"差不多对但就是不对"的烦恼 | 2026-03-24 | - |
@@ -269,7 +269,7 @@
 | LLMTest | https://llmtest.io | producthunt | AI API 代理层，自动追踪成本并在 LLM 提供商故障时无缝切换备用模型 | 2026-05-29 | - |
 | Google Antigravity | https://antigravity.google | web | Google I/O 2026 发布的多代理开发平台，桌面 App + CLI + SDK，编排 AI 代理做复杂任务 | 2026-05-29 | - |
 | Continue? Y/N | https://llmgame.scalex.dev | hackernews | 60 秒小游戏，测试你是否真的仔细读 AI 代理的权限请求——关于权限疲劳的思考实验 | 2026-05-29 | ai-on-trial |
-| Typeahead | https://typeahead.ai | producthunt | Mac 全局 AI 文字补全工具，所有应用中一键接受 AI 续写，完全本地运行保护隐私，买断制 $79 | 2026-06-02 | - |
+| Typeahead | https://typeahead.ai | producthunt | Mac 全局 AI 文字补全工具，所有应用中一键接受 AI 续写，完全本地运行保护隐私，买断制 $79 | 2026-06-02 | inbox-zero-for-everything |
 | fuguUX | https://www.fuguux.com | hackernews | AI 驱动的 UX 自动化测试平台，几分钟内生成带严重等级的可用性报告和改进路线图 | 2026-06-02 | - |
 | Ouijit | https://ouijit.com | hackernews | 开源 AI 代理任务与终端会话管理器，支持 git 工作树隔离、Kanban 看板和 VM 沙箱执行 | 2026-06-02 | - |
 | TV Explorer | https://tvexplorer.live | hackernews | 为免费在线电视频道添加高级浏览界面，一键探索全球 10,000+ 个直播频道 | 2026-06-02 | - |
@@ -281,3 +281,13 @@
 | TapToyPia | https://memalign.github.io/m/taptoypia/index.html | hackernews | 浏览器里的星球殖民点击游戏，探索动植物并建立人类新家园，无需安装即玩 | 2026-06-02 | - |
 | Open Envelope | https://openenvelope.org | hackernews | 定义 AI 代理团队的开放标准，一次编写，部署到任意编排平台并追踪每次执行 | 2026-06-02 | - |
 | Zot | https://www.zot.sh | hackernews | 单一静态 Go 二进制的轻量编程代理，连接 25+ LLM 供应商，自带文件读写和 Telegram 桥接 | 2026-06-02 | - |
+| Wallflower | https://thewallflower.app | hackernews | 专为慢速阅读设计的 Mastodon/Bluesky 联合客户端，衬线字体、手动刷新、零算法干扰 | 2026-06-05 | - |
+| Franz | https://meetfranz.com | producthunt | 把 WhatsApp、Slack、Gmail 等 75+ 消息平台聚合到一个桌面应用，内置 AI 总结助手 | 2026-06-05 | inbox-zero-for-everything |
+| Presentify | https://presentifyapp.com | producthunt | macOS 菜单栏工具，在屏幕上实时画圈标注、高亮光标、放大局部，直播和录屏神器 | 2026-06-05 | - |
+| Paste | https://pasteapp.io | producthunt | Mac/iPhone 上的隐私优先剪贴板管理器，无限历史记录、跨设备同步、敏感数据过滤 | 2026-06-05 | inbox-zero-for-everything |
+| Town | https://town.com | producthunt | AI 助手学习你的工作习惯，用你的语气起草邮件、管理日程，整合 50+ 工作工具 | 2026-06-05 | inbox-zero-for-everything |
+| Tabstack | https://tabstack.ai | producthunt | 让 AI 代理像人类一样点击滚动搜索网页的 Web 自动化研究 API，四大核心能力端点 | 2026-06-05 | - |
+| Uselink | https://uselink.app | producthunt | 把文档转换成可视化编辑的可分享链接，内置 MCP 服务器供 Claude 等 AI 工具直接调用 | 2026-06-05 | - |
+| Controller Tester Online | https://controllertestonline.com | hackernews | 浏览器内手柄体检工具，检测摇杆漂移、触发器延迟、按键响应，数据本地处理不上传 | 2026-06-05 | - |
+| Nutrepedia | https://nutrepedia.com | hackernews | 20+ 语言的多语言营养成分数据库，查询全球食物的热量和宏量营养素，无需注册 | 2026-06-05 | - |
+| Infracost | https://cost.dev | hackernews | 把云成本意识嵌入 AI 编程代理和 IDE 的工具，部署前直接看清每行 Terraform 代码的价格 | 2026-06-05 | - |
