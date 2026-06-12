@@ -192,7 +192,7 @@
 | Ratschn | https://ratschn.com/ | hackernews | Mac 本地离线语音转文字工具，Rust + CoreML 构建，完全不联网 | 2026-03-10 | - |
 | WolfStack | https://wolfscale.org/ | hackernews | 单个 Rust 二进制文件搞定所有服务器管理，VM/Docker/存储/网络一个仪表盘全覆盖 | 2026-03-10 | - |
 | Oncode | https://oncode.tech/ | hackernews | 从真实代码库自动生成互动调试任务，帮工程团队快速理解系统架构 | 2026-03-10 | - |
-| Springfield Oracle | https://www.springfieldoracle.com/ | producthunt | 辛普森一家每一条"预言"的来源、事件引用和事实核查数据库，有据可查 | 2026-03-10 | - |
+| Springfield Oracle | https://www.springfieldoracle.com/ | producthunt | 辛普森一家每一条"预言"的来源、事件引用和事实核查数据库，有据可查 | 2026-03-10 | browser-nostalgia |
 | FasterGH | https://fastergh.com/ | producthunt | 比 GitHub 官网快得多的 GitHub 镜像浏览体验，用 Convex 做实时缓存 | 2026-03-10 | - |
 | Unite Pro | https://www.bzgapps.com/unite | producthunt | 把任意网站变成专属 Mac App，支持窗口/侧边栏/菜单栏三种模式 | 2026-03-10 | - |
 | Gemlet | https://www.gemlet.app/ | producthunt | 键盘优先的原生 macOS Gemini 客户端，菜单栏常驻，30+ 快捷键，买断制 | 2026-03-10 | - |
@@ -206,11 +206,11 @@
 | NothingHere | https://solee0524.github.io/NothingHere/ | producthunt | macOS 隐私紧急按钮：一键隐藏所有窗口、静音、打开伪装文件，免费开源 | 2026-03-13 | - |
 | Kodo | https://www.usekodo.ai | producthunt | 用文字描述想要什么，AI 直接生成可编辑的分层海报、幻灯片和社交图片 | 2026-03-13 | make-it-beautiful |
 | Codelegate | https://codelegate.dev | hackernews | 键盘驱动的终端 UI，让多个 AI 编程代理在同一个代码库里并行工作 | 2026-03-13 | keyboard-people |
-| Sure.is ANSI Viewer | https://sure.is/ansi/ | hackernews | 浏览器里重现拨号时代的 ANSI 艺术，支持模拟波特率播放，拖拽即看 | 2026-03-13 | - |
+| Sure.is ANSI Viewer | https://sure.is/ansi/ | hackernews | 浏览器里重现拨号时代的 ANSI 艺术，支持模拟波特率播放，拖拽即看 | 2026-03-13 | browser-nostalgia |
 | Fueling Curiosity | https://fuelingcuriosity.com/game.html | hackernews | 交互式浏览器游戏，带你从采油到消费者完整走一遍石油精炼流程 | 2026-03-13 | - |
 | Chronicle | https://chroniclehq.com | producthunt | AI 演示文稿工具，从笔记或提示词出发，生成有设计品味的专业幻灯片 | 2026-03-13 | make-it-beautiful |
 | Krisp | https://krisp.ai | producthunt | 实时降噪 + AI 口音转换 + 会议记录，远程会议清晰度全面提升 | 2026-03-13 | - |
-| Channel Surfer | https://channelsurfer.tv | hackernews | 把 YouTube 订阅变成复古有线电视节目表，随机换台重拾怀旧乐趣 | 2026-03-20 | - |
+| Channel Surfer | https://channelsurfer.tv | hackernews | 把 YouTube 订阅变成复古有线电视节目表，随机换台重拾怀旧乐趣 | 2026-03-20 | browser-nostalgia |
 | DynamicLake | https://www.dynamiclake.com | producthunt | 将 iPhone Dynamic Island 动态通知体验带到 Mac 的系统增强工具 | 2026-03-20 | - |
 | Cardboard | https://usecardboard.com | hackernews | AI 驱动的浏览器视频编辑器，用自然语言指令剪辑，被称为"视频的 Cursor" | 2026-03-20 | make-it-beautiful |
 | SVG Backgrounds | https://www.svgbackgrounds.com | hackernews | 48 套可定制免费 SVG 背景图案库，设计师和开发者的快速素材神器 | 2026-03-20 | make-it-beautiful |
@@ -291,3 +291,47 @@
 | Controller Tester Online | https://controllertestonline.com | hackernews | 浏览器内手柄体检工具，检测摇杆漂移、触发器延迟、按键响应，数据本地处理不上传 | 2026-06-05 | - |
 | Nutrepedia | https://nutrepedia.com | hackernews | 20+ 语言的多语言营养成分数据库，查询全球食物的热量和宏量营养素，无需注册 | 2026-06-05 | - |
 | Infracost | https://cost.dev | hackernews | 把云成本意识嵌入 AI 编程代理和 IDE 的工具，部署前直接看清每行 Terraform 代码的价格 | 2026-06-05 | - |
+| NoSuggest | https://www.nosuggest.com | hackernews | 无算法 YouTube 频道播放器，手动添加最多 25 个频道，零推荐零自动播放，本地存储数据 | 2026-06-09 | - |
+| Bored Spreadsheet | https://boredspreadsheet.com/workbook | hackernews | 把扫雷、2048、纸牌等经典游戏伪装成 Excel 工作簿，让办公室摸鱼更加从容 | 2026-06-09 | browser-nostalgia |
+| Gitdot | https://gitdot.io | hackernews | 用 Rust 构建的开源 GitHub 替代平台，自带社区排行和每周建设挑战机制 | 2026-06-09 | - |
+| Command Center | https://www.cc.dev | hackernews | 为代码质量把关的 AI 编程代理环境，Code Walkthrough + 自动重构 + 多代理并行不混乱 | 2026-06-09 | - |
+| WebAIM | https://www.webaim.xyz | hackernews | 在现代浏览器里完整重现 AOL Instant Messenger，包括 Windows 98 界面和经典 ding 音效 | 2026-06-09 | browser-nostalgia |
+| Background Be Gone | https://bgbgone.franzai.com | hackernews | 免费 macOS 本地抠图工具，Apple Vision 驱动，支持批量处理和命令行调用，无需联网 | 2026-06-09 | - |
+| Kyushu | https://kyushu.dev | hackernews | 把 JS/TS 编译成独立 WASM 二进制的自托管沙箱，无需 Node.js 或 Docker 即可部署 | 2026-06-09 | - |
+| Web Speed | https://www.getwebspeed.io | hackernews | AI 代理共享的开放 Web 地图注册表（MCP），让代理不再重复"发现"同一网站结构 | 2026-06-09 | - |
+| Fundraisly | https://fundraisly.com | producthunt | AI 代理帮初创公司分析 30 万+投资人并自动约好会议，90 天内保证 10-50 个 VC 会议 | 2026-06-09 | - |
+| Vokal | https://vokal.team | producthunt | 初创团队和 AI 代理的协作操作层，共享频道内所有代理行为全透明可审查可回溯 | 2026-06-09 | - |
+| InsForge | https://insforge.dev | producthunt | 代理原生云基础设施平台，AI 编程代理通过 CLI 直接驱动数据库、存储、函数和部署 | 2026-06-09 | - |
+| FloatPic | https://floatpic.app | producthunt | macOS 极简无边框浮动图片查看器，原生手势 + EXIF + OCR + AI 配色分析，支持 100MB+ 大图 | 2026-06-09 | - |
+| Moodloom | https://moodloom.xyz | producthunt | 无广告的 Pinterest 替代品，AI 过滤内容专注家居和时尚灵感，内置购物功能 | 2026-06-09 | - |
+| QWERTYS | https://smartkeys.so/qwertys | producthunt | 键盘主题俄罗斯方块——让 26 个字母键落到 QWERTY 布局的正确位置，有排行榜 | 2026-06-09 | - |
+| WC2026 Fixtures | https://wc2026.bisheshtiwaree.com | web | 独立开发者做的极简 2026 FIFA 世界杯赛程网站，无广告无注册，赛程小组积分一目了然 | 2026-06-09 | - |
+| FablePool | https://fablepool.com | hackernews | 众筹 AI 开发请求平台，集资支持某个 prompt，社区协作驱动 AI 产品构建 | 2026-06-12 | - |
+| Eyeball | https://eyeball.rory.codes | hackernews | 精准点击训练小游戏，锻炼鼠标精度 | 2026-06-12 | - |
+| Prism.Tools | https://prism.tools | hackernews | 40+ 个隐私优先的开发者实用工具，全部在浏览器本地运行，无追踪 | 2026-06-12 | - |
+| GitHuman | https://githuman.dev | hackernews | 在 git commit 前提供 GitHub 风格 diff 审查界面，让人类把关 AI 代码 | 2026-06-12 | - |
+| Apitally | https://apitally.io | hackernews | 简洁的 API 监控与分析工具，支持 Python/Node.js，几行代码接入 | 2026-06-12 | - |
+| Minimi | https://projectminimi.com | producthunt | Mac 端 Claude 环境记忆层，静默捕获所有标签页/文档/通话并注入上下文 | 2026-06-12 | - |
+| Honen | https://honen.com | producthunt | AI 课程基础设施平台，上传文档即自动生成结构化课程，支持多种学习格式 | 2026-06-12 | - |
+| Browse.sh | https://browse.sh | producthunt | 浏览器自动化技能目录，100+ 可复用网站操作技能，CLI 一键安装给 AI Agent | 2026-06-12 | - |
+| Publora | https://publora.com | producthunt | Agent 时代的发布 API，一次 API 调用同步发布到 X/LinkedIn 等 10+ 平台 | 2026-06-12 | - |
+| ZoomQuilt | https://zoomquilt.org | reddit | 无限缩放的协作艺术画作，视觉催眠体验 | 2026-06-12 | - |
+| Patatap | https://patatap.com | reddit | 按键盘触发独特动画和音效，创意互动键盘体验 | 2026-06-12 | - |
+| This Is Sand | https://thisissand.com | reddit | 用鼠标倒彩色数字沙，创作分层艺术画，极简解压 | 2026-06-12 | - |
+| Koalas to the Max | https://koalastothemax.com | reddit | 悬停时圆圈层层分裂，最终揭开隐藏图像 | 2026-06-12 | - |
+| Windows 93 | https://windows93.net | reddit | 浏览器里完整运行的虚假 Windows 93 操作系统，极具怀旧感 | 2026-06-12 | browser-nostalgia |
+| GifCities | https://gifcities.org | reddit | 搜索 160 万+ 来自 GeoCities 时代的复古动态 GIF | 2026-06-12 | browser-nostalgia |
+| A Soft Murmur | https://asoftmurmur.com | reddit | 自由混合雨声/雷声/海浪等环境音，专注助眠神器 | 2026-06-12 | - |
+| Pointer Pointer | https://pointerpointer.com | reddit | 把鼠标放任意位置，自动找到一张有人指着该位置的照片 | 2026-06-12 | - |
+| Scream Into the Void | https://screamintothevoid.com | reddit | 输入文字，网站帮你对虚空大声呐喊，解压神器 | 2026-06-12 | - |
+| Gnoosic | https://gnoosic.com | reddit | 输入喜欢的乐队，智能推荐可能喜欢的新音乐 | 2026-06-12 | - |
+| Pixel Thoughts | https://pixelthoughts.co | reddit | 60秒冥想工具，把烦恼写下来看它消失在宇宙中 | 2026-06-12 | - |
+| OpenCode | https://opencode.ai | twitter | 开源 AI 编程 agent，终端原生，支持任意 IDE 集成 | 2026-06-12 | - |
+| Locu | https://locu.app | twitter | 开发者专用专注计时 + 任务管理 + 笔记一体工具，90 分钟深度工作制 | 2026-06-12 | - |
+| Cartesia Sonic | https://cartesia.ai | twitter | 实时 TTS API，延迟 <90ms，42 种语言，专为 AI voice agent 打造 | 2026-06-12 | - |
+| Ladybird Browser | https://ladybird.org | twitter | 从零构建的开源独立浏览器引擎（非 Chromium 分支），2026 年发布 alpha | 2026-06-12 | - |
+| Unicorn Studio | https://unicorn.studio | web | 无代码 WebGL 动效设计工具，可直接嵌入 Framer/Webflow，顶级视觉特效 | 2026-06-12 | - |
+| Postiz | https://postiz.app | web | 开源社媒发布平台，支持 30+ 平台自动调度，可自托管，独立创作者首选 | 2026-06-12 | - |
+| CodeRabbit | https://coderabbit.ai | web | AI 代码审查工具，自动分析 PR、抓 Bug 与安全漏洞，2 分钟接入 | 2026-06-12 | - |
+| Perchance | https://perchance.org | web | 免注册无限量 AI 图像/故事/角色生成器，最隐私友好的创作平台 | 2026-06-12 | - |
+| Poolsuite | https://poolsuite.net | web | 永恒夏日氛围网络电台，复古 Mac 界面风格，7 个频道纯享夏日 | 2026-06-12 | browser-nostalgia |
