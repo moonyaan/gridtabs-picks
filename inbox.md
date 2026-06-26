@@ -241,7 +241,7 @@
 | MindMup | https://www.mindmup.com | web | 免费在线思维导图工具，无需注册，支持实时协作并可与 Google Drive 同步 | 2026-03-24 | - |
 | Homelabinator | https://homelabinator.com | hackernews | 基于 NixOS+K3s 的傻瓜式家庭服务器搭建平台，U 盘启动即开始 homelab | 2026-03-24 | - |
 | Upstract | https://upstract.com | web | 把 Reddit、HN、NYT 等数十个来源聚合到一个页面，无算法、按时间顺序阅读 | 2026-03-24 | - |
-| Is It a Pint? | https://isitapint.com | hackernews | 用数据调查酒吧是否真的给足一品脱，草根消费者权益运动 + 幽默数据可视化 | 2026-03-24 | - |
+| Is It a Pint? | https://isitapint.com | hackernews | 用数据调查酒吧是否真的给足一品脱，草根消费者权益运动 + 幽默数据可视化 | 2026-03-24 | internet-absurdism |
 | Flowstep | https://flowstep.ai | producthunt | AI 驱动的 UI 设计工具，输入文字描述即可生成可编辑的生产级 React 界面 | 2026-05-26 | - |
 | Emdash | https://emdash.sh | hackernews | 开源桌面应用，在同一代码库里并行运行多个 AI 编程代理（Claude Code、Codex 等） | 2026-05-26 | - |
 | TrainBot | https://trainbot.eu | hackernews | 搜索欧洲夜间火车最低票价的专属搜索引擎，支持筛选路线、时长和座位类型 | 2026-05-26 | - |
@@ -304,10 +304,10 @@
 | InsForge | https://insforge.dev | producthunt | 代理原生云基础设施平台，AI 编程代理通过 CLI 直接驱动数据库、存储、函数和部署 | 2026-06-09 | - |
 | FloatPic | https://floatpic.app | producthunt | macOS 极简无边框浮动图片查看器，原生手势 + EXIF + OCR + AI 配色分析，支持 100MB+ 大图 | 2026-06-09 | - |
 | Moodloom | https://moodloom.xyz | producthunt | 无广告的 Pinterest 替代品，AI 过滤内容专注家居和时尚灵感，内置购物功能 | 2026-06-09 | - |
-| QWERTYS | https://smartkeys.so/qwertys | producthunt | 键盘主题俄罗斯方块——让 26 个字母键落到 QWERTY 布局的正确位置，有排行榜 | 2026-06-09 | - |
+| QWERTYS | https://smartkeys.so/qwertys | producthunt | 键盘主题俄罗斯方块——让 26 个字母键落到 QWERTY 布局的正确位置，有排行榜 | 2026-06-09 | browser-playground |
 | WC2026 Fixtures | https://wc2026.bisheshtiwaree.com | web | 独立开发者做的极简 2026 FIFA 世界杯赛程网站，无广告无注册，赛程小组积分一目了然 | 2026-06-09 | - |
 | FablePool | https://fablepool.com | hackernews | 众筹 AI 开发请求平台，集资支持某个 prompt，社区协作驱动 AI 产品构建 | 2026-06-12 | - |
-| Eyeball | https://eyeball.rory.codes | hackernews | 精准点击训练小游戏，锻炼鼠标精度 | 2026-06-12 | - |
+| Eyeball | https://eyeball.rory.codes | hackernews | 精准点击训练小游戏，锻炼鼠标精度 | 2026-06-12 | browser-playground |
 | Prism.Tools | https://prism.tools | hackernews | 40+ 个隐私优先的开发者实用工具，全部在浏览器本地运行，无追踪 | 2026-06-12 | - |
 | GitHuman | https://githuman.dev | hackernews | 在 git commit 前提供 GitHub 风格 diff 审查界面，让人类把关 AI 代码 | 2026-06-12 | - |
 | Apitally | https://apitally.io | hackernews | 简洁的 API 监控与分析工具，支持 Python/Node.js，几行代码接入 | 2026-06-12 | - |
@@ -316,16 +316,16 @@
 | Browse.sh | https://browse.sh | producthunt | 浏览器自动化技能目录，100+ 可复用网站操作技能，CLI 一键安装给 AI Agent | 2026-06-12 | - |
 | Publora | https://publora.com | producthunt | Agent 时代的发布 API，一次 API 调用同步发布到 X/LinkedIn 等 10+ 平台 | 2026-06-12 | - |
 | ZoomQuilt | https://zoomquilt.org | reddit | 无限缩放的协作艺术画作，视觉催眠体验 | 2026-06-12 | - |
-| Patatap | https://patatap.com | reddit | 按键盘触发独特动画和音效，创意互动键盘体验 | 2026-06-12 | - |
-| This Is Sand | https://thisissand.com | reddit | 用鼠标倒彩色数字沙，创作分层艺术画，极简解压 | 2026-06-12 | - |
-| Koalas to the Max | https://koalastothemax.com | reddit | 悬停时圆圈层层分裂，最终揭开隐藏图像 | 2026-06-12 | - |
+| Patatap | https://patatap.com | reddit | 按键盘触发独特动画和音效，创意互动键盘体验 | 2026-06-12 | browser-playground |
+| This Is Sand | https://thisissand.com | reddit | 用鼠标倒彩色数字沙，创作分层艺术画，极简解压 | 2026-06-12 | browser-playground |
+| Koalas to the Max | https://koalastothemax.com | reddit | 悬停时圆圈层层分裂，最终揭开隐藏图像 | 2026-06-12 | browser-playground |
 | Windows 93 | https://windows93.net | reddit | 浏览器里完整运行的虚假 Windows 93 操作系统，极具怀旧感 | 2026-06-12 | browser-nostalgia |
 | GifCities | https://gifcities.org | reddit | 搜索 160 万+ 来自 GeoCities 时代的复古动态 GIF | 2026-06-12 | browser-nostalgia |
 | A Soft Murmur | https://asoftmurmur.com | reddit | 自由混合雨声/雷声/海浪等环境音，专注助眠神器 | 2026-06-12 | - |
-| Pointer Pointer | https://pointerpointer.com | reddit | 把鼠标放任意位置，自动找到一张有人指着该位置的照片 | 2026-06-12 | - |
-| Scream Into the Void | https://screamintothevoid.com | reddit | 输入文字，网站帮你对虚空大声呐喊，解压神器 | 2026-06-12 | - |
+| Pointer Pointer | https://pointerpointer.com | reddit | 把鼠标放任意位置，自动找到一张有人指着该位置的照片 | 2026-06-12 | browser-playground |
+| Scream Into the Void | https://screamintothevoid.com | reddit | 输入文字，网站帮你对虚空大声呐喊，解压神器 | 2026-06-12 | internet-absurdism |
 | Gnoosic | https://gnoosic.com | reddit | 输入喜欢的乐队，智能推荐可能喜欢的新音乐 | 2026-06-12 | - |
-| Pixel Thoughts | https://pixelthoughts.co | reddit | 60秒冥想工具，把烦恼写下来看它消失在宇宙中 | 2026-06-12 | - |
+| Pixel Thoughts | https://pixelthoughts.co | reddit | 60秒冥想工具，把烦恼写下来看它消失在宇宙中 | 2026-06-12 | browser-playground |
 | OpenCode | https://opencode.ai | twitter | 开源 AI 编程 agent，终端原生，支持任意 IDE 集成 | 2026-06-12 | - |
 | Locu | https://locu.app | twitter | 开发者专用专注计时 + 任务管理 + 笔记一体工具，90 分钟深度工作制 | 2026-06-12 | - |
 | Cartesia Sonic | https://cartesia.ai | twitter | 实时 TTS API，延迟 <90ms，42 种语言，专为 AI voice agent 打造 | 2026-06-12 | - |
@@ -335,3 +335,77 @@
 | CodeRabbit | https://coderabbit.ai | web | AI 代码审查工具，自动分析 PR、抓 Bug 与安全漏洞，2 分钟接入 | 2026-06-12 | - |
 | Perchance | https://perchance.org | web | 免注册无限量 AI 图像/故事/角色生成器，最隐私友好的创作平台 | 2026-06-12 | - |
 | Poolsuite | https://poolsuite.net | web | 永恒夏日氛围网络电台，复古 Mac 界面风格，7 个频道纯享夏日 | 2026-06-12 | browser-nostalgia |
+| putt.day | https://putt.day | hackernews | 每天一个新球洞的浏览器迷你高尔夫日游戏，用最少杆数完成挑战 | 2026-06-19 | browser-playground |
+| Gerrymandle | https://gerrymandle.cc | hackernews | 每日谜题：重画选区边界让你的政党赢得更多席位，亲身体验选区操控机制 | 2026-06-19 | browser-playground |
+| Wario Synthesis Engine | https://wario.style | hackernews | 把任意 MIDI 文件转成 Game Boy 8-bit 芯片音乐，全程在浏览器内完成 | 2026-06-19 | - |
+| fata | https://fata.dev | hackernews | 专为开发者设计的手机端间隔重复学习平台，用碎片时间巩固全栈工程基础 | 2026-06-19 | - |
+| Tilde | https://tilde.run | hackernews | 让 AI 代理在生产数据上安全运行的沙箱平台，每次执行都可回滚 | 2026-06-19 | - |
+| VoiceDraw | https://voicedraw.com | hackernews | 说出你的想法，AI 实时将语言转化为可视化图表和系统架构图 | 2026-06-19 | - |
+| Stage | https://stagereview.app | hackernews | 把 AI 生成的 PR 组织成逻辑章节的代码审查平台，让人类更高效把关 | 2026-06-19 | - |
+| Palette Inspiration | https://paletteinspiration.com | hackernews | 从 2.3 万幅大师名画中提取配色方案，用艺术史驱动设计灵感 | 2026-06-19 | - |
+| BlitzGraph | https://blitzgraph.com | hackernews | AI 原生图数据库后端，用 JSON 查询替代 SQL，让 AI 代理直接操作图结构数据 | 2026-06-19 | - |
+| Overslash | https://overslash.com | hackernews | AI 代理与所有外部服务之间的统一权限网关，管理 OAuth、密钥和人工审批 | 2026-06-19 | - |
+| Bond | https://bondapp.io | producthunt | AI 首席幕僚，自动聚合邮件、日历、Slack 中的承诺与任务，帮创始人不漏一件事 | 2026-06-19 | - |
+| Shadow | https://shadow.do | producthunt | AI 会议助手，不以机器人形式入会，本地捕获音频并自动完成所有会后任务 | 2026-06-19 | - |
+| Spellar | https://spellar.ai | producthunt | 具备跨会议记忆的 AI 会议笔记工具，用历史会议上下文生成更智能的摘要 | 2026-06-19 | - |
+| AudioPen | https://audiopen.ai | web | 把杂乱的语音碎片转化为结构清晰的书面文字，像人一样说话像专家一样写作 | 2026-06-19 | - |
+| Brie | https://brie.io | hackernews | 一键生成包含截图、会话回放、控制台错误和网络数据的完整 bug 报告 | 2026-06-19 | - |
+| AnotherWrapper | https://anotherwrapper.com | web | 含 8 个 AI 应用模板的 Next.js SaaS 起手包，跳过基础设施搭建直奔产品发布 | 2026-06-19 | - |
+| VC Boom | https://vcboom.com | producthunt | AI 融资平台：给 pitch deck 打分、匹配 4.7 万投资人、生成个性化冷邮件，买断制无佣金 | 2026-06-19 | - |
+| Microlandia | https://microlandia.city | hackernews | 复古像素风城市建设游戏，内置深度社会经济模拟和真实政策机制 | 2026-06-23 | - |
+| Upstream | https://upstream.do | producthunt | AI 原生邮件客户端，自动分类、起草回复、安排跟进，让收件箱自己管自己 | 2026-06-23 | - |
+| Goldfish | https://goldfish.sh | producthunt | Mac/Windows AI 记忆工具，按 Option 键即可用完整上下文和你的语气起草任意消息 | 2026-06-23 | - |
+| jfsendit | https://jfsendit.com | producthunt | 浏览器直连端对端加密文件传输，无需账号无需服务器存储，打开即用 | 2026-06-23 | - |
+| Trails | https://trails.pieterma.es | hackernews | AI 发现 100 部文学作品之间的主题关联，把书籍变成可漫游的思想网络 | 2026-06-23 | - |
+| boringBar | https://boringbar.app | hackernews | macOS Dock 替代品，用 Windows 任务栏风格管理多桌面窗口，一目了然不混乱 | 2026-06-23 | - |
+| API to MCP | https://apitomcp.ai | producthunt | 把任意 REST/GraphQL API 一键转成托管 MCP 服务器，让 Claude、Cursor 等 AI 直接调用 | 2026-06-23 | - |
+| VidStudio | https://vidstudio.app | hackernews | 免费浏览器端视频编辑器，无需上传无需注册，视频全程本地处理保护隐私 | 2026-06-23 | - |
+| Upkeep Nest | https://upkeepnest.com | hackernews | 房屋维护任务追踪器，智能排期季节性任务，多房产共享，不再忘记换滤芯清理天沟 | 2026-06-23 | - |
+| Blogosphere | https://text.blogosphere.app | hackernews | 独立博客聚合器，按时间顺序展示个人博主的最新文章，找回独立 Web 的阅读感 | 2026-06-23 | - |
+| OpenWorkers | https://openworkers.com | hackernews | 开源自托管 Cloudflare Workers 运行时，用 V8 隔离在自己的基础设施上执行 JavaScript | 2026-06-23 | - |
+| Mailwarm | https://mailwarm.com | producthunt | 邮件发件信誉热身工具，通过 5 万个真实收件箱的自动互动，避免邮件落入垃圾箱 | 2026-06-23 | - |
+| Is Hormuz Open Yet? | https://www.ishormuzopenyet.com | hackernews | 实时追踪霍尔木兹海峡通航状态的单问题网站，极简设计答是否题 | 2026-06-23 | internet-absurdism |
+| HackerTyper | https://hackertyper.net | web | 打字就变身好莱坞黑客，随机代码滚屏配合键盘敲击，超逼真装入侵系统体验 | 2026-06-26 | internet-absurdism |
+| FutureMe | https://www.futureme.org | web | 给未来自己写信的时间胶囊服务，设定日期让邮件在若干年后送达 | 2026-06-26 | - |
+| The True Size Of | https://www.thetruesize.com | web | 拖动国家到不同纬度对比真实面积，揭穿墨卡托投影造成的大小错觉 | 2026-06-26 | - |
+| GeoGuessr | https://www.geoguessr.com | web | 随机掉落到 Google 街景，猜测你在世界哪个角落的地理侦探游戏 | 2026-06-26 | - |
+| Quick, Draw! | https://quickdraw.withgoogle.com | web | Google 神经网络猜画游戏，20 秒内看 AI 能否识别你的涂鸦 | 2026-06-26 | - |
+| The Wiki Game | https://www.thewikigame.com | web | 从一个维基百科页面出发，通过点击内链到达目标页面，越少步骤越好 | 2026-06-26 | - |
+| Passweird | https://www.passweird.com | web | 生成奇葩但好记的密码，把安全要求变成一门艺术 | 2026-06-26 | internet-absurdism |
+| Find the Invisible Cow | https://findtheinvisiblecow.com | web | 移动鼠标寻找隐形奶牛，声音越大越近，极简纯粹的找东西游戏 | 2026-06-26 | internet-absurdism |
+| Zombo.com | https://zombo.com | web | 互联网著名梗站，庄重告诉你"你能做任何事"，永恒的网络迷你迷因 | 2026-06-26 | internet-absurdism |
+| Immersive Garden | https://immersive-g.com | web | 法国创意工作室的沉浸式数字体验，顶级 WebGL 视觉艺术 | 2026-06-26 | - |
+| NeonFlames | https://neonflames.com | web | 在黑色画布上绘制霓虹火焰艺术，鼠标轨迹化为迷幻光流 | 2026-06-26 | internet-absurdism |
+| The Useless Web | https://theuselessweb.com | web | 一键传送到互联网上最没用但最好玩的网站，随机探索的门户 | 2026-06-26 | - |
+| Stumbled | https://stumbled.to | reddit | 随机发现互联网有趣内容的探索平台，无算法纯靠点击"下一个" | 2026-06-26 | - |
+| Conserve the Sound | https://www.conservethesound.de | reddit | 收集即将消失日常声音的档案馆，卡式录音机快进声/老式拨号音等 | 2026-06-26 | - |
+| WhoDB | https://whodb.clidey.com | reddit | 开源数据库浏览器，支持多种数据库，现代化界面替代 Adminer | 2026-06-26 | - |
+| PdfDing | https://pdfding.com | reddit | 自托管 PDF 管理平台，标注书签分享，数据完全自主 | 2026-06-26 | - |
+| Docmost | https://docmost.com | reddit | 开源实时协作文档与 Wiki，Notion/Confluence 的自托管替代 | 2026-06-26 | - |
+| LeafWiki | https://leafwiki.com | reddit | 极轻量自托管个人 Wiki，单文件部署，Markdown 优先，无数据库依赖 | 2026-06-26 | - |
+| Caldera Music | https://caldera.homes/music | reddit | 独立音乐人自制的极简环境音乐听歌页面，只有音乐本身 | 2026-06-26 | - |
+| Pangolin | https://pangolin.net | reddit | 开源自托管隧道代理，内网穿透 + 零信任访问，Cloudflare Tunnel 替代 | 2026-06-26 | - |
+| Wave | https://wave.mxv.sh | twitter | 极简浏览器内音频可视化工具，本地音频文件生成美丽动态波形 | 2026-06-26 | - |
+| Supaste | https://supaste.com | twitter | 开源代码片段分享平台，可自托管，干净简洁 | 2026-06-26 | - |
+| Smmall Cloud | https://smmall.cloud | twitter | 个人托管平台，用最小化服务器跑你的应用，专注小而精 | 2026-06-26 | - |
+| OpenKnowledge | https://openknowledge.ai | hackernews | 开放知识 AI 平台，连接学术研究和实用问答 | 2026-06-26 | - |
+| HackerNews Trends | https://hackernewstrends.com | hackernews | 可视化追踪 HN 上话题热度随时间变化的趋势分析工具 | 2026-06-26 | - |
+| LingoChunk | https://lingochunk.com/try | hackernews | 碎片时间语言学习，每次只练一小块内容，零门槛入门 | 2026-06-26 | - |
+| Replyt | https://replyt.co | hackernews | AI 辅助邮件回复工具，快速生成个性化回复草稿 | 2026-06-26 | - |
+| BrainFrog | https://brainfrog.lol | hackernews | 脑洞大开的益智谜题游戏，每天一题，挑战你的思维边界 | 2026-06-26 | - |
+| Letterphile | https://letterphile.com | hackernews | 专为字体爱好者设计的字体发现与配对工具 | 2026-06-26 | - |
+| Firma.dev | https://firma.dev | producthunt | 开发者签名基础设施，文档电子签名 API，SaaS 内置合同签署 | 2026-06-26 | - |
+| Qursor | https://qursor.xyz | producthunt | 光标样式设计工具，为网站创建自定义 CSS 鼠标指针 | 2026-06-26 | - |
+| WorkClaw | https://www.workclaw.com | producthunt | 独立开发者任务管理工具，专注项目状态追踪和时间管理 | 2026-06-26 | - |
+| pumaDB | https://pumadb.ai | producthunt | AI 原生数据库，自然语言查询替代 SQL，让非技术用户分析数据 | 2026-06-26 | - |
+| ReleaseDock | https://www.releasedock.co | producthunt | 产品发布管理平台，协调 changelog/发布节奏/团队沟通 | 2026-06-26 | - |
+| Cotypist | https://cotypist.app | producthunt | AI 打字辅助工具，实时学习你的写作风格，所有应用中提供个性化补全 | 2026-06-26 | - |
+| HyperSleep | https://hypersleep.app | producthunt | Mac 休眠管理工具，精细控制 Mac 何时休眠及唤醒条件 | 2026-06-26 | - |
+| Elentaria | https://elentaria.ai | producthunt | AI 驱动的奇幻世界构建平台，生成完整的奇幻设定、地图和故事 | 2026-06-26 | - |
+| superlog | https://superlog.sh | producthunt | 开发者日志可视化平台，实时流式日志加智能过滤和告警 | 2026-06-26 | - |
+| Replicas | https://tryreplicas.com | producthunt | AI 角色扮演平台，创建并与个性化 AI 角色深度对话 | 2026-06-26 | - |
+| SocialEcho 2.0 | https://www.socialecho.net | producthunt | 社交媒体内容日历和跨平台发布工具，适合个人创作者 | 2026-06-26 | - |
+| Honestly | https://usehonestly.com | producthunt | 匿名团队反馈工具，用结构化问卷收集真实内部意见 | 2026-06-26 | - |
+| BrowserAct | https://www.browseract.com | producthunt | AI 浏览器自动化平台，用自然语言让 AI 控制浏览器完成任务 | 2026-06-26 | - |
+| Jesse | https://agentjesse.ai | producthunt | 具有持久记忆的个人 AI 助手，跨会话记住你的偏好和工作习惯 | 2026-06-26 | - |
+| Vaani | https://vaani.media | producthunt | 多语言 AI 语音内容平台，将文字内容转化为播客级音频 | 2026-06-26 | - |
