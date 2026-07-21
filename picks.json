@@ -1776,5 +1776,85 @@
         }
       }
     ]
+  },
+  {
+    "slug": "things-that-teach-themselves",
+    "title": {
+      "en": "Things That Teach Themselves",
+      "zh-CN": "自己会教你的网站"
+    },
+    "description": {
+      "en": "8 interactive sites that teach you by doing — drag gears, fly through 3 million research papers, trace history's cause-and-effect chains.",
+      "zh-CN": "8 个靠"动手"而非"读说明"来传递知识的网站——拖动齿轮、飞越三百万篇论文、追溯历史因果链。"
+    },
+    "date": "2026-07-21",
+    "coverImage": "coverImage23.jpg",
+    "status": "published",
+    "sites": [
+      {
+        "name": "Mechanical Watch",
+        "url": "https://ciechanow.ski/mechanical-watch",
+        "description": {
+          "en": "A masterclass in learning by touching — drag the gears, spin the balance wheel, feel the escapement click into place. You don't read about how a watch works; you operate one.",
+          "zh-CN": "拖动发条、转动游丝、感受擒纵机构的咬合——你不是在"学"机械表，你是在亲手拆开和重组它。Bartosz Ciechanowski 出品，每一帧交互都是精心设计的理解时刻。"
+        }
+      },
+      {
+        "name": "How Browsers Work",
+        "url": "https://howbrowserswork.com",
+        "description": {
+          "en": "Every time you type a URL, a hundred invisible steps happen before a pixel hits your screen. This site makes them all visible — animated, interactive, and in order.",
+          "zh-CN": "每次输入网址，屏幕亮起之前发生了一百个你看不见的步骤。这个网站把它们全部动画化、交互化，一步步摊开在你面前。不只是前端工程师的专属——任何对浏览器原理感到好奇的人，都能在这里第一次真正看懂它。"
+        }
+      },
+      {
+        "name": "Going from 1+1=2 to Quantum Mechanics",
+        "url": "https://quantum.schols.io/intro",
+        "description": {
+          "en": "A UCLA student built the guide they wished existed — no skipped steps, no assumed knowledge, every concept derived from first principles. Quantum mechanics as a thing you can actually follow.",
+          "zh-CN": "一位 UCLA 学生写的"我当初希望存在的量子力学教程"：从算术讲到量子纠缠，没有一个知识跳跃，每个公式都从头推导。被吓退过量子力学课的人专属。"
+        }
+      },
+      {
+        "name": "Cateno",
+        "url": "https://cateno.app",
+        "description": {
+          "en": "History doesn't happen in isolation — Cateno lets you trace how one event caused the next, pulling you through the chain of cause and effect that led to the world as it is.",
+          "zh-CN": "历史不是孤立的事件，Cateno 让你沿着因果链条往回追溯：这件事为什么发生？它又导致了什么？拉着你一路走进历史的纵深。"
+        }
+      },
+      {
+        "name": "Worldview Upgrader",
+        "url": "https://upgrader.gapminder.org",
+        "description": {
+          "en": "You think you know how the world works. This site respectfully disagrees — it surfaces the gaps between what most people believe and what the data actually shows.",
+          "zh-CN": "你以为你了解这个世界。Gapminder 用数据温和地戳破常见的认知泡沫：贫困在减少还是增加？人口趋势是什么走向？你的直觉有多准？"
+        }
+      },
+      {
+        "name": "Trails",
+        "url": "https://trails.pieterma.es",
+        "description": {
+          "en": "What if 100 books could map their own connections? Trails finds the invisible threads — \"useful lies,\" \"invisible fractures\" — that run between different works, and lets you follow them.",
+          "zh-CN": "如果一百本书可以自己画出彼此的联系会怎样？Trails 用 AI 发现文学作品之间的隐秘主题线索，把书变成一张可以漫游的思想地图。"
+        }
+      },
+      {
+        "name": "TomeSphere Atlas",
+        "url": "https://tomesphere.com/atlas",
+        "description": {
+          "en": "Three million arXiv papers, mapped as a galaxy you can fly through. The shape of human scientific knowledge — where topics cluster, where fields converge — becomes something you can actually see.",
+          "zh-CN": "将近三百万篇 arXiv 论文被映射成一片可以穿梭的星系。人类科学知识的形状——哪些领域聚集、哪些方向交汇——在这里变成了你可以亲眼看见的东西。"
+        }
+      },
+      {
+        "name": "ResearchRabbit",
+        "url": "https://researchrabbitapp.com",
+        "description": {
+          "en": "Drop in one paper, and the citation network blooms around it — who built on this work, what it was built on, and which papers grew up beside it. Literature review becomes a thing you explore, not endure.",
+          "zh-CN": "输入一篇论文，它的引用关系网络就在你眼前展开：谁引用了它，它引用了谁，和它同期成长的文献有哪些。文献综述从苦差事变成了一场探索。"
+        }
+      }
+    ]
   }
 ]
