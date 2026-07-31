@@ -2014,5 +2014,84 @@
         }
       }
     ]
+  },
+  {
+    "slug": "menu-bar-minimalists",
+    "title": {
+      "en": "Eight Tiny Tools Hiding in Your Menu Bar",
+      "zh-CN": "藏在菜单栏里的八个小工具"
+    },
+    "description": {
+      "en": "8 tiny menu bar apps for Mac — no dashboards, no onboarding, no accounts. Each one fixes exactly one annoyance, then disappears.",
+      "zh-CN": "这8个小工具都窝在Mac菜单栏里，体积几兆，只干一件事，干完就闭嘴。"
+    },
+    "date": "2026-07-31",
+    "coverImage": "coverImage26.jpg",
+    "sites": [
+      {
+        "name": "TouchGrass",
+        "url": "https://touchgrass.land/",
+        "description": {
+          "en": "A menu bar break reminder that senses meetings and screen recordings, then stays quiet.",
+          "zh-CN": "菜单栏休息提醒工具，能识别开会和录屏状态，自动闭嘴不打扰。"
+        }
+      },
+      {
+        "name": "Pulse Island",
+        "url": "https://www.pulseisland.club/",
+        "description": {
+          "en": "Turns your MacBook's notch into a menu bar hub for music, meetings, clipboard, and weather.",
+          "zh-CN": "把MacBook刘海变成菜单栏中心：音乐、会议、剪贴板、天气一瞥可见。"
+        }
+      },
+      {
+        "name": "Scrolodex",
+        "url": "https://scrolodex.app",
+        "description": {
+          "en": "Hold a key and scroll to jump between windows — skips the Dock and Cmd+Tab entirely.",
+          "zh-CN": "按住一个键滚动鼠标就能切换窗口，不用Dock也不用Cmd+Tab。"
+        }
+      },
+      {
+        "name": "Whim Files",
+        "url": "https://whimfiles.com",
+        "description": {
+          "en": "9MB, no Electron, no bloat — a Mac file manager that starts and searches faster than Finder itself.",
+          "zh-CN": "9MB，无Electron无臃肿，一个比Finder还快的文件管理器。"
+        }
+      },
+      {
+        "name": "FloatPic",
+        "url": "https://floatpic.app",
+        "description": {
+          "en": "Strips away the title bar and window chrome entirely — just an image floating on your desktop.",
+          "zh-CN": "没有标题栏没有边框，只有图片本身悬浮在桌面上。"
+        }
+      },
+      {
+        "name": "Presentify",
+        "url": "https://presentifyapp.com",
+        "description": {
+          "en": "A quiet menu bar icon until you're presenting — then a laser pointer, highlighter, and zoom lens.",
+          "zh-CN": "平时是菜单栏图标，演示时秒变激光笔、荧光笔和放大镜。"
+        }
+      },
+      {
+        "name": "VolumeHub",
+        "url": "https://volumehub.app",
+        "description": {
+          "en": "No kernel extension, no reboot — a menu bar dropdown giving every Mac app its own volume slider.",
+          "zh-CN": "不装内核扩展不用重启，菜单栏下拉菜单给每个App单独一根音量条。"
+        }
+      },
+      {
+        "name": "HyperPaste",
+        "url": "https://hyperpaste.io",
+        "description": {
+          "en": "An open source clipboard manager whose history never leaves your Mac — no telemetry at all.",
+          "zh-CN": "开源无遥测不需要账号，剪贴板历史永远留在你的Mac上。"
+        }
+      }
+    ]
   }
 ]

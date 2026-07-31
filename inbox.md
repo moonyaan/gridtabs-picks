@@ -75,7 +75,7 @@
 | moltbook | https://moltbook.com | producthunt | AI 代理专属社交网络，模仿 Reddit 界面让 AI 们自由交流 | 2026-02-09 | internet-curiosity-museum, ai-on-trial |
 | Genstore.ai | https://genstore.ai | producthunt | 一句提示词创建在线商店，AI 自动选品设计定价 | 2026-02-09 | - |
 | Dottie | https://get-dottie.com | producthunt | 100% 隐私的 AI 日记应用，所有数据本地存储 | 2026-02-09 | - |
-| VolumeHub | https://volumehub.app | producthunt | macOS 独立应用音量控制工具，无需驱动 | 2026-02-09 | - |
+| VolumeHub | https://volumehub.app | producthunt | macOS 独立应用音量控制工具，无需驱动 | 2026-02-09 | menu-bar-minimalists |
 | findable | https://findfindable.com | producthunt | AI 搜索优化平台，让网站在 ChatGPT 等 AI 平台上排名靠前 | 2026-02-09 | - |
 | Cursor | https://cursor.sh | twitter | AI-first 代码编辑器，深度集成 AI 进行实时结对编程 | 2026-02-09 | keyboard-people |
 | Linear | https://linear.app | twitter | 现代化项目管理工具，速度快体验好 | 2026-02-09 | - |
@@ -255,7 +255,7 @@
 | Vivaldi | https://vivaldi.com | web | 史上最大界面重设计的浏览器更新——统一面板、6 种布局、不加任何 AI 功能 | 2026-05-26 | - |
 | Mintlify | https://mintlify.com | web | AI 原生开发者文档平台，代理自动监控代码库变更并提议更新文档，文档和代码始终同步 | 2026-05-26 | - |
 | TinyCld | https://tinycld.org | hackernews | 自托管生产力套件，邮件/日历/联系人/云存储六合一，完全开源永久免费，数据不过第三方 | 2026-05-29 | - |
-| Scrolodex | https://scrolodex.app | hackernews | macOS 极轻量窗口切换器，按住 Option 键滚动鼠标即可在窗口间流畅跳转，无需点击 | 2026-05-29 | - |
+| Scrolodex | https://scrolodex.app | hackernews | macOS 极轻量窗口切换器，按住 Option 键滚动鼠标即可在窗口间流畅跳转，无需点击 | 2026-05-29 | menu-bar-minimalists |
 | Reassign | https://reassign.app | hackernews | 把 24 小时可视化成圆形形状的网页日程规划工具，拖动色块安排时间，支持 AI 重组日程 | 2026-05-29 | - |
 | Hallucinate | https://hallucinate.site | hackernews | 浏览器里的大型多人在线电子音乐派对，和全球陌生人共同沉浸在迷幻虚拟 rave 体验中 | 2026-05-29 | - |
 | AudioMass | https://audiomass.co | hackernews | 免费开源的浏览器端多轨音频编辑器，无需安装，支持无缝循环、静音修剪和多轨叠加 | 2026-05-29 | browser-art-studio |
@@ -283,7 +283,7 @@
 | Zot | https://www.zot.sh | hackernews | 单一静态 Go 二进制的轻量编程代理，连接 25+ LLM 供应商，自带文件读写和 Telegram 桥接 | 2026-06-02 | - |
 | Wallflower | https://thewallflower.app | hackernews | 专为慢速阅读设计的 Mastodon/Bluesky 联合客户端，衬线字体、手动刷新、零算法干扰 | 2026-06-05 | - |
 | Franz | https://meetfranz.com | producthunt | 把 WhatsApp、Slack、Gmail 等 75+ 消息平台聚合到一个桌面应用，内置 AI 总结助手 | 2026-06-05 | inbox-zero-for-everything |
-| Presentify | https://presentifyapp.com | producthunt | macOS 菜单栏工具，在屏幕上实时画圈标注、高亮光标、放大局部，直播和录屏神器 | 2026-06-05 | - |
+| Presentify | https://presentifyapp.com | producthunt | macOS 菜单栏工具，在屏幕上实时画圈标注、高亮光标、放大局部，直播和录屏神器 | 2026-06-05 | menu-bar-minimalists |
 | Paste | https://pasteapp.io | producthunt | Mac/iPhone 上的隐私优先剪贴板管理器，无限历史记录、跨设备同步、敏感数据过滤 | 2026-06-05 | inbox-zero-for-everything |
 | Town | https://town.com | producthunt | AI 助手学习你的工作习惯，用你的语气起草邮件、管理日程，整合 50+ 工作工具 | 2026-06-05 | inbox-zero-for-everything |
 | Tabstack | https://tabstack.ai | producthunt | 让 AI 代理像人类一样点击滚动搜索网页的 Web 自动化研究 API，四大核心能力端点 | 2026-06-05 | - |
@@ -302,7 +302,7 @@
 | Fundraisly | https://fundraisly.com | producthunt | AI 代理帮初创公司分析 30 万+投资人并自动约好会议，90 天内保证 10-50 个 VC 会议 | 2026-06-09 | - |
 | Vokal | https://vokal.team | producthunt | 初创团队和 AI 代理的协作操作层，共享频道内所有代理行为全透明可审查可回溯 | 2026-06-09 | - |
 | InsForge | https://insforge.dev | producthunt | 代理原生云基础设施平台，AI 编程代理通过 CLI 直接驱动数据库、存储、函数和部署 | 2026-06-09 | - |
-| FloatPic | https://floatpic.app | producthunt | macOS 极简无边框浮动图片查看器，原生手势 + EXIF + OCR + AI 配色分析，支持 100MB+ 大图 | 2026-06-09 | - |
+| FloatPic | https://floatpic.app | producthunt | macOS 极简无边框浮动图片查看器，原生手势 + EXIF + OCR + AI 配色分析，支持 100MB+ 大图 | 2026-06-09 | menu-bar-minimalists |
 | Moodloom | https://moodloom.xyz | producthunt | 无广告的 Pinterest 替代品，AI 过滤内容专注家居和时尚灵感，内置购物功能 | 2026-06-09 | - |
 | QWERTYS | https://smartkeys.so/qwertys | producthunt | 键盘主题俄罗斯方块——让 26 个字母键落到 QWERTY 布局的正确位置，有排行榜 | 2026-06-09 | browser-playground |
 | WC2026 Fixtures | https://wc2026.bisheshtiwaree.com | web | 独立开发者做的极简 2026 FIFA 世界杯赛程网站，无广告无注册，赛程小组积分一目了然 | 2026-06-09 | - |
@@ -414,7 +414,7 @@
 | Firecrawl | https://firecrawl.dev | web | 把任意网站转成 AI 可读 Markdown 的上下文 API，LLM 应用和代理的网页数据基础设施 | 2026-06-30 | - |
 | Latitude | https://latitude.so | web | 开源 AI 代理可观测性平台，捕获完整 trace、发现行为模式、提前发现问题 | 2026-06-30 | - |
 | Statewright | https://statewright.ai | hackernews | 为 AI 编程代理设计的可视化状态机工作流构建器，让代理行为更可靠可预测 | 2026-06-30 | - |
-| HyperPaste | https://hyperpaste.io | hackernews | 免费开源的 macOS 剪贴板管理器，键盘优先，完全本地隐私，像系统原生功能一样顺滑 | 2026-06-30 | - |
+| HyperPaste | https://hyperpaste.io | hackernews | 免费开源的 macOS 剪贴板管理器，键盘优先，完全本地隐私，像系统原生功能一样顺滑 | 2026-06-30 | menu-bar-minimalists |
 | Memos | https://usememos.com | reddit | 极轻量自托管时间流笔记，无文件夹无标题，像发推一样记录想法，单 Docker 命令部署 | 2026-06-30 | - |
 | OpenPanel | https://openpanel.dev | reddit | 开源网站分析平台，结合 Mixpanel 深度功能和 Plausible 简洁隐私，可自托管 | 2026-06-30 | - |
 | Zazow | https://zazow.com | web | 浏览器里的算法生成艺术游乐场，调节参数实时生成独特数字画作，无需编程基础 | 2026-06-30 | browser-art-studio |
@@ -516,7 +516,7 @@
 | Homegames | https://homegames.io | hackernews | 开源浏览器游戏平台，网页内创作和联机，GPLv3保证游戏永久可访问 | 2026-07-17 | - |
 | Fading Maize | https://fadingmaize.com | hackernews | 2001年大学乐队在25年后用AI重新制作并发布的音乐时光机档案 | 2026-07-17 | - |
 | Jelly UI | https://jelly-ui.com | hackernews | 为原生 HTML 表单控件带来软体物理弹性效果的 UI 组件库 | 2026-07-21 | - |
-| Whim Files | https://whimfiles.com | hackernews | 极速原生 Mac 文件管理器，9MB 无 Electron，模糊搜索秒开 | 2026-07-21 | - |
+| Whim Files | https://whimfiles.com | hackernews | 极速原生 Mac 文件管理器，9MB 无 Electron，模糊搜索秒开 | 2026-07-21 | menu-bar-minimalists |
 | Lucid | https://lucid.earthpilot.ai | hackernews | 在 AI 回答前可视化并编辑其思考过程的 Web 工具 | 2026-07-21 | - |
 | Honeypot Live | https://honeypotlive.cc | hackernews | 实时观看机器人与 SSH 蜜罐交互过程的互联网安全可视化工具 | 2026-07-21 | - |
 | Mindwalk | https://mindwalk.app | hackernews | 在代码库 3D 地图上回放 AI 编程代理会话的可视化工具 | 2026-07-21 | - |
@@ -582,3 +582,39 @@
 | Wiki Spy | https://neal.fun/wiki-spy/ | reddit | 从维基百科图片里抠出物体做成的无限可搜索大家来找茬拼贴游戏 | 2026-07-28 | - |
 | GitFut | https://gitfut.com | reddit | 把 GitHub 个人资料转换成 FIFA 风格球员卡，用真实提交数据生成能力值 | 2026-07-28 | - |
 | Taylor Detector | https://www.taylordetector.com | reddit | 扫描条形码即可查询商品是否属于 Taylor Farms 品牌或其子公司 | 2026-07-28 | - |
+| TouchGrass | https://touchgrass.land/ | producthunt | 智能感知会议/录屏状态自动暂停的 macOS 休息提醒工具，无需侵入式权限 | 2026-07-31 | menu-bar-minimalists |
+| Pulse Island | https://www.pulseisland.club/ | producthunt | 把 MacBook 刘海变成灵动岛，显示音乐、会议、剪贴板、天气和系统状态 | 2026-07-31 | menu-bar-minimalists |
+| Forgeon | https://forgeon.art/en | producthunt | 创作者搭建互动分支剧情"游戏书"的平台，支持 RPG 元素、配乐和插画 | 2026-07-31 | - |
+| Scriptyard | https://thescriptyard.com/ | producthunt | 免登录无限画布编剧工具，拖拽角色/场景卡片，可导出 Fountain 或 Final Draft 格式 | 2026-07-31 | - |
+| Criblist | https://cribs.context.dev/ | producthunt | 开源的 Tinder 式滑动找房工具，聚合 SF/NYC 实时公寓房源 | 2026-07-31 | - |
+| AlterSend | https://altersend.com/ | producthunt | 开源点对点加密文件传输工具，无需云存储、无需账号、无大小限制 | 2026-07-31 | - |
+| HN Hall of Fame | https://www.orangecrumbs.com/hall | hackernews | 收录 3100+ 反复被顶上 Hacker News 首页的经典链接，按历史得分排序 | 2026-07-31 | - |
+| Grace Cathedral Tour | https://vincentwoo.com/3d/grace_cathedral | hackernews | 旧金山恩典座堂的沉浸式 3D 高斯泼溅（Gaussian Splat）漫游 | 2026-07-31 | - |
+| Q3Edit | https://q3edit.com | hackernews | 在浏览器里直接编辑和试玩 Quake 3 Arena 地图 | 2026-07-31 | - |
+| Chip Builder | https://select.supply/game/chipbuilder | hackernews | 从逻辑门开始搭建一颗可运行 CPU 的浏览器游戏 | 2026-07-31 | - |
+| Analog Watch | https://analog.watch | hackernews | 极简指针式时钟网页，适合当新标签页小工具 | 2026-07-31 | - |
+| Population Rays | https://imjasonh.github.io/playground/population-rays | hackernews | "要走多远才能遇到10万人"的互动人口密度可视化 | 2026-07-31 | - |
+| Read the Tape | https://readthetape.cc | hackernews | 每日版"炒股 Wordle"，靠盲猜五张标普500个股走势图挑战直觉 | 2026-07-31 | - |
+| Everything Timeline | https://app.everything.diena.co | hackernews | 可缩放的互动时间轴，收录400万条维基百科历史事件 | 2026-07-31 | - |
+| My Library Events | https://mylibrary-events.com | reddit | 输入美国邮编即可查找附近公共图书馆的免费儿童活动 | 2026-07-31 | - |
+| 808 Drum Machine | https://benjaminmullins.tv/808/ | reddit | 免费浏览器版 808 鼓机，做好节奏可直接发短信分享给朋友 | 2026-07-31 | - |
+| Cosmic Odometer | https://cosmicodometer.space | reddit | 计算你出生以来在太空中实际移动的距离 | 2026-07-31 | - |
+| Carsized | https://www.carsized.com/en-us/ | reddit | 并排可视化对比不同车型尺寸的互动工具 | 2026-07-31 | - |
+| Read the Places | https://readtheplaces.com | reddit | 收录 392 部小说中提及的真实地点，做成文学地图 | 2026-07-31 | - |
+| Copy N Paste | https://copynpaste.xyz/ | reddit | 转换富文本格式，让粘贴到 Slack/Discord/Notion/WhatsApp 时保持整洁 | 2026-07-31 | - |
+| The Quiet Map | https://thequietmap.org | reddit | 用地震仪测算并展示地球上最安静的地点 | 2026-07-31 | - |
+| Deepcut | https://deepcut.live/ | reddit | 轮流当 DJ 的协作听歌网站，可与朋友或陌生人实时轮播音乐 | 2026-07-31 | - |
+| Reading Pacer | https://www.readingpacer.com | reddit | 帮助家长和老师识别孩子阅读困难的"阅读障碍检测"工具 | 2026-07-31 | - |
+| Kill The Cookie Banner | https://killthecookiebanner.eu/ | reddit | 推动欧盟用浏览器级隐私信号取代恼人 cookie 弹窗的倡导行动 | 2026-07-31 | - |
+| printme.money | https://printme.money | reddit | 输入薪资数字，纯前端动画打印机实时吐出对应现金叠钞，讽刺向小玩具 | 2026-07-31 | - |
+| Jamboree | https://jamboree.space/ | twitter | 浏览器多人合成器，支持点对点联机和实时光标，可与人一起即兴演奏 | 2026-07-31 | - |
+| Overflight | https://dgrlabs.co/overflight/ | twitter | 实时天空雷达，识别头顶飞过的每一架飞机的航司、航班号和航线 | 2026-07-31 | - |
+| Prelint | https://prelint.com/ | twitter | 审查 AI Agent 编写的 PR 是否偏离产品需求文档，按次付费而非按席位 | 2026-07-31 | - |
+| Eel Slap | https://eelslap.com | web | 移动鼠标反复用鳗鱼抽打一个人的荒诞单一玩笑网站 | 2026-07-31 | - |
+| The Password Game | https://neal.fun/password-game/ | web | 设置密码要满足越来越离谱规则的喜剧向小游戏 | 2026-07-31 | - |
+| A Dark Room | https://adarkroom.web.app/ | web | 从一堆将熄的篝火开始的极简文字生存游戏，逐步展开成完整故事 | 2026-07-31 | - |
+| Little Alchemy 2 | https://littlealchemy2.com | web | 组合泥土、火等基础元素，解锁数百种新物品的合成上瘾小游戏 | 2026-07-31 | - |
+| MapCrunch | https://mapcrunch.com | web | 一键传送到地球上随机地点的 Google 街景 | 2026-07-31 | - |
+| MyNoise | https://mynoise.net | web | 可深度调节叠加的环境白噪音生成器，用于专注或睡眠 | 2026-07-31 | - |
+| Wheel of Aesthetics | https://gospinwheel.com/wheel-of-aesthetics | web | 收录100+视觉美学风格（乡村核、赛博朋克等）的转盘抽选工具 | 2026-07-31 | - |
+| Silk (WeaveSilk) | https://weavesilk.app/ | web | 用鼠标移动生成对称流动丝绸图案的生成艺术玩具 | 2026-07-31 | - |
