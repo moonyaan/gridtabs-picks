@@ -421,13 +421,13 @@
 | ABSURD.website | https://absurd.website | reddit | 每月发布一个荒诞概念网站，用讽刺科技文化的方式呈现怪诞互动艺术实验 | 2026-06-30 | - |
 | ForthWrite | https://forthwrite.ai | hackernews | 学习你写作风格后在 Gmail/Outlook 里自动起草邮件回复的 AI，声音是你的 | 2026-06-30 | - |
 | PySpur | https://pyspur.dev | web | 开源 AI 代理构建和测试 IDE，可视化工作流加测试用例，YC 支持 | 2026-06-30 | - |
-| Are You in the Weights? | https://intheweights.com | producthunt | 测试 AI 模型在训练数据中对你名字「认知程度」的交互式实验工具 | 2026-06-30 | - |
+| Are You in the Weights? | https://intheweights.com | producthunt | 测试 AI 模型在训练数据中对你名字「认知程度」的交互式实验工具 | 2026-06-30 | quizzes-that-know-too-much |
 | CertObserver | https://certobserver.com | hackernews | TLS 证书集中监控和库存管理平台，多端点实时检测，到期前多渠道告警 | 2026-06-30 | - |
 | Zanagrams | https://zanagrams.com | hackernews | 浏览器端文字字谜益智游戏，从打乱字母中尽快组出有效单词 | 2026-06-30 | daily-one-tab-games |
 | Piskel | https://www.piskelapp.com | web | 免费浏览器像素艺术和精灵动画编辑器，逐帧绘制，导出 GIF 或精灵表 | 2026-07-03 | browser-art-studio |
 | Turtletoy | https://www.turtletoy.net | web | JS 海龟指令生成 SVG/GCODE，适配绘图机和激光切割机，所有作品开源可 remix | 2026-07-03 | browser-art-studio |
 | Earth Tattoo | https://earth.tattoo | hackernews | 多人协作在互动地球仪上创作艺术的创意项目 | 2026-07-07 | - |
-| How Clanker Are You | https://howclankerareyou.com | hackernews | 反向图灵测试游戏，判断你有多像机器人 | 2026-07-07 | - |
+| How Clanker Are You | https://howclankerareyou.com | hackernews | 反向图灵测试游戏，判断你有多像机器人 | 2026-07-07 | quizzes-that-know-too-much |
 | Is This Tech Dead | https://isthistechdead.com | hackernews | 追踪各种技术栈是否已经「死亡」的状态检查器 | 2026-07-07 | the-web-is-watching-you |
 | Nomlings | https://www.nomlings.cc | hackernews | 会消耗你 Claude Code session token 的虚拟宠物创意实验 | 2026-07-07 | - |
 | Critical Window | https://criticalwindow.org | hackernews | 关于 AI 竞赛与对齐验证主题的策略游戏 | 2026-07-07 | - |
@@ -484,7 +484,7 @@
 | IsUpMap | https://isupmap.com | reddit | 实时热力图，监测80+互联网服务的在线状态 | 2026-07-14 | the-web-is-watching-you |
 | Drive & Listen | https://driveandlisten.app | reddit | 边看各城市行车录像边听当地电台，沉浸式虚拟漫游 | 2026-07-14 | the-map-is-the-point |
 | Taste.io | https://www.taste.io | reddit | 根据你的口味匹配同好，推荐你在现有流媒体上能看的影视 | 2026-07-14 | - |
-| DataGuessr | https://dataguessr.com/world-cup-2026 | reddit | 用GDP/预期寿命等数据指标猜国家排名的趣味竞猜游戏 | 2026-07-14 | - |
+| DataGuessr | https://dataguessr.com/world-cup-2026 | reddit | 用GDP/预期寿命等数据指标猜国家排名的趣味竞猜游戏 | 2026-07-14 | quizzes-that-know-too-much |
 | YC Explorer | https://exploreyc.com | reddit | 可按行业、国家、批次搜索5800+个YC孵化初创公司的交互平台 | 2026-07-14 | - |
 | Worldview Upgrader | https://upgrader.gapminder.org | reddit | 用数据纠正人们对贫困、人口、气候等议题常见认知误区的测验 | 2026-07-14 | things-that-teach-themselves, zoom-out-zoom-in |
 | US Layoffs Tracker | https://layoffs.kadoa.com | reddit | 实时追踪美国各州大规模裁员公告的开放数据看板 | 2026-07-14 | - |
@@ -580,7 +580,7 @@
 | Ohayo World | https://www.ohayoworld.com | reddit | 实时显示地球昼夜分界线，以及此刻正经历日出的人口数量的动态地球仪 | 2026-07-28 | zoom-out-zoom-in |
 | Uncovered | https://uncovered.ink | reddit | 不看书名和封面，随机滚动浏览各种书籍开篇样章 | 2026-07-28 | - |
 | Wiki Spy | https://neal.fun/wiki-spy/ | reddit | 从维基百科图片里抠出物体做成的无限可搜索大家来找茬拼贴游戏 | 2026-07-28 | - |
-| GitFut | https://gitfut.com | reddit | 把 GitHub 个人资料转换成 FIFA 风格球员卡，用真实提交数据生成能力值 | 2026-07-28 | - |
+| GitFut | https://gitfut.com | reddit | 把 GitHub 个人资料转换成 FIFA 风格球员卡，用真实提交数据生成能力值 | 2026-07-28 | quizzes-that-know-too-much |
 | Taylor Detector | https://www.taylordetector.com | reddit | 扫描条形码即可查询商品是否属于 Taylor Farms 品牌或其子公司 | 2026-07-28 | - |
 | TouchGrass | https://touchgrass.land/ | producthunt | 智能感知会议/录屏状态自动暂停的 macOS 休息提醒工具，无需侵入式权限 | 2026-07-31 | menu-bar-minimalists |
 | Pulse Island | https://www.pulseisland.club/ | producthunt | 把 MacBook 刘海变成灵动岛，显示音乐、会议、剪贴板、天气和系统状态 | 2026-07-31 | menu-bar-minimalists |
@@ -598,7 +598,7 @@
 | Everything Timeline | https://app.everything.diena.co | hackernews | 可缩放的互动时间轴，收录400万条维基百科历史事件 | 2026-07-31 | - |
 | My Library Events | https://mylibrary-events.com | reddit | 输入美国邮编即可查找附近公共图书馆的免费儿童活动 | 2026-07-31 | - |
 | 808 Drum Machine | https://benjaminmullins.tv/808/ | reddit | 免费浏览器版 808 鼓机，做好节奏可直接发短信分享给朋友 | 2026-07-31 | - |
-| Cosmic Odometer | https://cosmicodometer.space | reddit | 计算你出生以来在太空中实际移动的距离 | 2026-07-31 | - |
+| Cosmic Odometer | https://cosmicodometer.space | reddit | 计算你出生以来在太空中实际移动的距离 | 2026-07-31 | quizzes-that-know-too-much |
 | Carsized | https://www.carsized.com/en-us/ | reddit | 并排可视化对比不同车型尺寸的互动工具 | 2026-07-31 | - |
 | Read the Places | https://readtheplaces.com | reddit | 收录 392 部小说中提及的真实地点，做成文学地图 | 2026-07-31 | - |
 | Copy N Paste | https://copynpaste.xyz/ | reddit | 转换富文本格式，让粘贴到 Slack/Discord/Notion/WhatsApp 时保持整洁 | 2026-07-31 | - |
@@ -606,7 +606,7 @@
 | Deepcut | https://deepcut.live/ | reddit | 轮流当 DJ 的协作听歌网站，可与朋友或陌生人实时轮播音乐 | 2026-07-31 | - |
 | Reading Pacer | https://www.readingpacer.com | reddit | 帮助家长和老师识别孩子阅读困难的"阅读障碍检测"工具 | 2026-07-31 | - |
 | Kill The Cookie Banner | https://killthecookiebanner.eu/ | reddit | 推动欧盟用浏览器级隐私信号取代恼人 cookie 弹窗的倡导行动 | 2026-07-31 | - |
-| printme.money | https://printme.money | reddit | 输入薪资数字，纯前端动画打印机实时吐出对应现金叠钞，讽刺向小玩具 | 2026-07-31 | - |
+| printme.money | https://printme.money | reddit | 输入薪资数字，纯前端动画打印机实时吐出对应现金叠钞，讽刺向小玩具 | 2026-07-31 | quizzes-that-know-too-much |
 | Jamboree | https://jamboree.space/ | twitter | 浏览器多人合成器，支持点对点联机和实时光标，可与人一起即兴演奏 | 2026-07-31 | - |
 | Overflight | https://dgrlabs.co/overflight/ | twitter | 实时天空雷达，识别头顶飞过的每一架飞机的航司、航班号和航线 | 2026-07-31 | - |
 | Prelint | https://prelint.com/ | twitter | 审查 AI Agent 编写的 PR 是否偏离产品需求文档，按次付费而非按席位 | 2026-07-31 | - |
@@ -618,3 +618,28 @@
 | MyNoise | https://mynoise.net | web | 可深度调节叠加的环境白噪音生成器，用于专注或睡眠 | 2026-07-31 | - |
 | Wheel of Aesthetics | https://gospinwheel.com/wheel-of-aesthetics | web | 收录100+视觉美学风格（乡村核、赛博朋克等）的转盘抽选工具 | 2026-07-31 | - |
 | Silk (WeaveSilk) | https://weavesilk.app/ | web | 用鼠标移动生成对称流动丝绸图案的生成艺术玩具 | 2026-07-31 | - |
+| Elevators | https://john.fun/elevators | hackernews | 用互动模拟讲解电梯调度算法的科普长文，可亲手调整参数看电梯如何跑 | 2026-08-04 | - |
+| Bento | https://bento.page/slides/ | hackernews | 整个演示文稿工具塞进一个 HTML 文件里，本地优先、离线可用、AI 原生 | 2026-08-04 | - |
+| CheapFoodMap | https://cheapfoodmap.com/ | hackernews | 众包地图，专门收录美国各城市 10 美元以下的靠谱便宜餐食 | 2026-08-04 | - |
+| IKEA Complexity Index | https://ikea.greg.technology/ | hackernews | 给近两万件 IKEA 家具按"组装难度"打分排名的非官方粉丝项目 | 2026-08-04 | - |
+| Handwritten Blog | https://handwritten.blog/ | hackernews | 手写字迹直接发布成博客的写作平台，没有算法推荐也没有点赞数 | 2026-08-04 | - |
+| Isopolis | https://sf.isopolis.city/ | hackernews | 用等距像素风把旧金山整座城市画成复古游戏地图 | 2026-08-04 | - |
+| Vinyl for Mac | https://www.vinylformac.com/ | hackernews | 在 Mac 桌面上放一台逼真黑胶唱机，随音乐播放实时转动 | 2026-08-04 | - |
+| Orbit | https://nagylukas.github.io/orbit.html | hackernews | 用 AR 把手机变成实时卫星追踪器，抬头一扫就知道头顶飞过什么 | 2026-08-04 | - |
+| Yamanote 3D | https://yamanote-3d.com/ | producthunt | 沉浸式 3D 模拟坐一趟东京山手线，配环境音效随时间和天气变化 | 2026-08-04 | - |
+| Terminal Candy | https://terminalcandy.com/ | producthunt | 给 macOS 终端换皮肤的原生应用，任意图片一键变身终端主题 | 2026-08-04 | - |
+| AgentMicro | https://agentmicro.cc/ | producthunt | 菜单栏小工具，实时显示多个 Codex AI 编程任务的进度 | 2026-08-04 | - |
+| Port22 | https://tryport22.com/ | producthunt | 用手机远程掌控 Mac 上跑的 AI 编程 agent，随时随地批准它的操作 | 2026-08-04 | - |
+| V2Fun | https://v2fun.ai/ | producthunt | 浏览器里用 AI 把文字或图片一键变成可动画的 3D 角色模型 | 2026-08-04 | - |
+| TerminalWidget | https://terminalwidget.app/ | producthunt | 把终端命令输出变成 Mac/iPhone 桌面小组件，进度条图表应有尽有 | 2026-08-04 | - |
+| Capptivo | https://capptivo.com/ | producthunt | 开源免费的屏幕录制工具，自动跟随光标缩放，做出专业演示视频 | 2026-08-04 | - |
+| Eigendrum | https://baselashraf81.github.io/eigendrum/ | reddit | 在屏幕上画出任意形状的鼓面，就能听到它真实敲击时会发出的声音 | 2026-08-04 | - |
+| My Breed Match | https://mybreedmatch.com | reddit | 用 44 个维度的测验数据帮你匹配最适合的狗狗品种，减少弃养 | 2026-08-04 | quizzes-that-know-too-much |
+| How Poor Am I | https://howpoorami.org/ | reddit | 输入你的收入或财富，看看自己在全球贫富分布中站在哪一档 | 2026-08-04 | quizzes-that-know-too-much |
+| Findex | https://usefindex.com | reddit | 用大白话解释晦涩难懂的金融术语，让理财变得没那么高深莫测 | 2026-08-04 | - |
+| Foley | https://usefoley.dev | reddit | 无需任何音频文件，纯代码实时合成 28 种交互音效的轻量 JS 库 | 2026-08-04 | - |
+| Indo-European Explorer | https://indo-european-explorer.com/ | reddit | 互动图谱展示 400 多种语言如何从 6000 年前的一门语言分化而来 | 2026-08-04 | - |
+| S80 | https://s80.me/ | reddit | 同时测试到 Google、Amazon、Cloudflare 三大服务的网络延迟 | 2026-08-04 | - |
+| Make My Drive Fun | https://makemydrivefun.com | reddit | 规划公路旅行时自动帮你插入沿途那些"公路旁的怪东西"景点 | 2026-08-04 | - |
+| Internet Roadtrip | https://roadtrip.neal.fun | web | 全网友一起投票操控一辆真车做环球公路旅行的集体社交实验 | 2026-08-04 | - |
+| Hunted.space | https://hunted.space | web | 实时追踪 Product Hunt 产品排名和点赞速度的看板 | 2026-08-04 | - |

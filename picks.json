@@ -2093,5 +2093,84 @@
         }
       }
     ]
+  },
+  {
+    "slug": "quizzes-that-know-too-much",
+    "title": {
+      "en": "8 Quizzes That Know Too Much About You",
+      "zh-CN": "一堆看似无聊的小测验"
+    },
+    "description": {
+      "en": "Eight bored-looking calculators that turn a few numbers — income, birthday, GitHub handle — into an uncomfortably specific truth about you.",
+      "zh-CN": "一堆看起来无聊到不行的小测验，你以为随便玩玩，结果输入几个数字，它们就把你的真相扒得明明白白。"
+    },
+    "date": "2026-08-04",
+    "coverImage": "coverImage27.jpg",
+    "sites": [
+      {
+        "name": "How Poor Am I",
+        "url": "https://howpoorami.org/",
+        "description": {
+          "en": "Type in your income and get plotted on the real global wealth curve — your percentile, and how many years it'd take to catch a billionaire.",
+          "zh-CN": "输入收入，直接把你摆上全球财富分布曲线——精确到百分位，还能算出追上亿万富翁要多少年。"
+        }
+      },
+      {
+        "name": "Cosmic Odometer",
+        "url": "https://cosmicodometer.space",
+        "description": {
+          "en": "Enter your birth date and it stacks up Earth's spin, orbit, and the galaxy's crawl to show exactly how far you've traveled since you were born.",
+          "zh-CN": "输入出生日期，叠加地球自转、公转、银河系运动，算出你从出生到现在实际移动了多远。"
+        }
+      },
+      {
+        "name": "printme.money",
+        "url": "https://printme.money",
+        "description": {
+          "en": "Punch in your salary and watch an animated printer spit out cash at your exact earning rate — hourly, by the second, whatever stings most.",
+          "zh-CN": "输入薪资，一台动画打印机就按你的真实赚钱速度吐钞票——按小时、按秒随便切换，扎心程度自选。"
+        }
+      },
+      {
+        "name": "Are You in the Weights?",
+        "url": "https://intheweights.com",
+        "description": {
+          "en": "Type your name and see how deep it's baked into AI training data — whether the models have \"heard of you,\" and how strongly.",
+          "zh-CN": "输入你的名字，看它在 AI 训练数据里被\"记住\"多深——模型到底认不认识你，认识到什么份上。"
+        }
+      },
+      {
+        "name": "How Clanker Are You",
+        "url": "https://howclankerareyou.com",
+        "description": {
+          "en": "Paste a social handle or finish five sentences, and this reverse Turing test scores how \"AI-like\" your own writing is. Green is human, red is clanker.",
+          "zh-CN": "粘贴社交账号或补完五句话，这个反向图灵测试给你的文字打分，看你写得有多像 AI。绿色是人类，红色是 clanker。"
+        }
+      },
+      {
+        "name": "GitFut",
+        "url": "https://gitfut.com",
+        "description": {
+          "en": "Type in any GitHub username and get a FIFA-style player card rated out of 99, built from real commit data — pace, dribbling, defense, all mapped from your habits.",
+          "zh-CN": "输入 GitHub 用户名，生成一张满分 99 的 FIFA 球员卡，速度盘带防守全部映射自真实提交记录。"
+        }
+      },
+      {
+        "name": "My Breed Match",
+        "url": "https://mybreedmatch.com",
+        "description": {
+          "en": "Answer questions across 44 lifestyle dimensions and it matches you to dog breeds you're actually compatible with — not just the ones you think are cute.",
+          "zh-CN": "回答 44 个维度的生活方式问题，匹配出真正适合你的狗狗品种——不是你觉得可爱的那些。"
+        }
+      },
+      {
+        "name": "DataGuessr",
+        "url": "https://dataguessr.com/world-cup-2026",
+        "description": {
+          "en": "A World Cup you didn't see coming: rank countries by GDP or life expectancy instead of goals scored. Every wrong guess exposes how skewed your mental map really is.",
+          "zh-CN": "一届没想到的\"世界杯\"：用 GDP、预期寿命等真实数据给各国排名，而非进球数。每猜错一次，都提醒你脑中的世界地图有多歪。"
+        }
+      }
+    ]
   }
 ]
