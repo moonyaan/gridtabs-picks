@@ -433,7 +433,7 @@
 | Critical Window | https://criticalwindow.org | hackernews | 关于 AI 竞赛与对齐验证主题的策略游戏 | 2026-07-07 | - |
 | Declaw Arena | https://declaw.ai/arena | hackernews | 攻击和破解 AI agent 的 CTF 竞技挑战平台 | 2026-07-07 | - |
 | Experiments with Google | https://experiments.withgoogle.com | web | Google 持续更新的创意技术实验合集，涵盖 AI、WebGL、AR 等前沿浏览器互动体验 | 2026-07-07 | - |
-| zkGolf | https://zk.golf | hackernews | 通过竞技优化零知识证明电路来学习密码学的游戏化挑战平台 | 2026-07-07 | - |
+| zkGolf | https://zk.golf | hackernews | 通过竞技优化零知识证明电路来学习密码学的游戏化挑战平台 | 2026-07-07 | learn-by-poking-it |
 | Cleanup.pictures | https://cleanup.pictures | web | AI 魔法橡皮擦工具，用画笔涂抹即可从照片删除任何物体并智能填充背景 | 2026-07-07 | - |
 | Digga | https://digga.dev | hackernews | DNS、RDAP/WHOIS 和子域名查询一站式开发者诊断工具 | 2026-07-07 | - |
 | ScreenCI | https://screenci.com | hackernews | 从 E2E 测试自动生成产品演示视频的工具 | 2026-07-07 | - |
@@ -549,11 +549,11 @@
 | Vozo.ai | https://vozo.ai | web | AI 视频多语言翻译工具，同步处理配音/字幕/口型同步/屏幕文字 | 2026-07-21 | - |
 | Physically Accurate Black Hole | https://blackhole.plav.in | hackernews | 浏览器里实时渲染的物理精确黑洞可视化，可以放进房间场景里 | 2026-07-28 | zoom-out-zoom-in |
 | Golf Course Browser | https://golfcoursebrowser.com | hackernews | 一位高尔夫爱好者独立绘制的美国及加拿大 18000+ 高尔夫球场交互地图 | 2026-07-28 | - |
-| Sunflowers | https://sunflowersgame.com | hackernews | 把经典扫雷逻辑反过来玩的解谜游戏，靠数字线索种向日葵而非避雷 | 2026-07-28 | - |
+| Sunflowers | https://sunflowersgame.com | hackernews | 把经典扫雷逻辑反过来玩的解谜游戏，靠数字线索种向日葵而非避雷 | 2026-07-28 | learn-by-poking-it |
 | Brolly | https://brolly.sh | hackernews | 全世界任意地点的天气预报，纯文字不用图表 | 2026-07-28 | - |
 | The Election Dashboard | https://theelectiondashboard.com | hackernews | 538 风格的以色列议会选举数据可视化仪表盘 | 2026-07-28 | - |
 | Dozenal | https://dozenal.game | hackernews | 以十二进制运算为核心玩法的每日数字解谜游戏 | 2026-07-28 | - |
-| Transistor Animations | https://brandonli.net | hackernews | 用交互式动画直观演示晶体管工作原理的教育向可视化网站 | 2026-07-28 | zoom-out-zoom-in |
+| Transistor Animations | https://brandonli.net | hackernews | 用交互式动画直观演示晶体管工作原理的教育向可视化网站 | 2026-07-28 | zoom-out-zoom-in, learn-by-poking-it |
 | HIIT Me Up | https://hiitmeup.fit | hackernews | 免费的浏览器端 HIIT 间歇训练计时器，带语音指导 | 2026-07-28 | - |
 | PumpProof | https://pumpproof.com | hackernews | 通过分析 SEC 文件为热门股票打割韭菜风险分的教育型工具 | 2026-07-28 | - |
 | Gitwig | https://gitwig.dev | hackernews | 用 Rust 编写的现代终端 Git 界面，支持鼠标操作和多仓库管理 | 2026-07-28 | - |
@@ -591,9 +591,9 @@
 | HN Hall of Fame | https://www.orangecrumbs.com/hall | hackernews | 收录 3100+ 反复被顶上 Hacker News 首页的经典链接，按历史得分排序 | 2026-07-31 | - |
 | Grace Cathedral Tour | https://vincentwoo.com/3d/grace_cathedral | hackernews | 旧金山恩典座堂的沉浸式 3D 高斯泼溅（Gaussian Splat）漫游 | 2026-07-31 | - |
 | Q3Edit | https://q3edit.com | hackernews | 在浏览器里直接编辑和试玩 Quake 3 Arena 地图 | 2026-07-31 | - |
-| Chip Builder | https://select.supply/game/chipbuilder | hackernews | 从逻辑门开始搭建一颗可运行 CPU 的浏览器游戏 | 2026-07-31 | - |
+| Chip Builder | https://select.supply/game/chipbuilder | hackernews | 从逻辑门开始搭建一颗可运行 CPU 的浏览器游戏 | 2026-07-31 | learn-by-poking-it |
 | Analog Watch | https://analog.watch | hackernews | 极简指针式时钟网页，适合当新标签页小工具 | 2026-07-31 | - |
-| Population Rays | https://imjasonh.github.io/playground/population-rays | hackernews | "要走多远才能遇到10万人"的互动人口密度可视化 | 2026-07-31 | - |
+| Population Rays | https://imjasonh.github.io/playground/population-rays | hackernews | "要走多远才能遇到10万人"的互动人口密度可视化 | 2026-07-31 | learn-by-poking-it |
 | Read the Tape | https://readthetape.cc | hackernews | 每日版"炒股 Wordle"，靠盲猜五张标普500个股走势图挑战直觉 | 2026-07-31 | - |
 | Everything Timeline | https://app.everything.diena.co | hackernews | 可缩放的互动时间轴，收录400万条维基百科历史事件 | 2026-07-31 | - |
 | My Library Events | https://mylibrary-events.com | reddit | 输入美国邮编即可查找附近公共图书馆的免费儿童活动 | 2026-07-31 | - |
@@ -618,7 +618,7 @@
 | MyNoise | https://mynoise.net | web | 可深度调节叠加的环境白噪音生成器，用于专注或睡眠 | 2026-07-31 | - |
 | Wheel of Aesthetics | https://gospinwheel.com/wheel-of-aesthetics | web | 收录100+视觉美学风格（乡村核、赛博朋克等）的转盘抽选工具 | 2026-07-31 | - |
 | Silk (WeaveSilk) | https://weavesilk.app/ | web | 用鼠标移动生成对称流动丝绸图案的生成艺术玩具 | 2026-07-31 | - |
-| Elevators | https://john.fun/elevators | hackernews | 用互动模拟讲解电梯调度算法的科普长文，可亲手调整参数看电梯如何跑 | 2026-08-04 | - |
+| Elevators | https://john.fun/elevators | hackernews | 用互动模拟讲解电梯调度算法的科普长文，可亲手调整参数看电梯如何跑 | 2026-08-04 | learn-by-poking-it |
 | Bento | https://bento.page/slides/ | hackernews | 整个演示文稿工具塞进一个 HTML 文件里，本地优先、离线可用、AI 原生 | 2026-08-04 | - |
 | CheapFoodMap | https://cheapfoodmap.com/ | hackernews | 众包地图，专门收录美国各城市 10 美元以下的靠谱便宜餐食 | 2026-08-04 | - |
 | IKEA Complexity Index | https://ikea.greg.technology/ | hackernews | 给近两万件 IKEA 家具按"组装难度"打分排名的非官方粉丝项目 | 2026-08-04 | - |
@@ -638,8 +638,41 @@
 | How Poor Am I | https://howpoorami.org/ | reddit | 输入你的收入或财富，看看自己在全球贫富分布中站在哪一档 | 2026-08-04 | quizzes-that-know-too-much |
 | Findex | https://usefindex.com | reddit | 用大白话解释晦涩难懂的金融术语，让理财变得没那么高深莫测 | 2026-08-04 | - |
 | Foley | https://usefoley.dev | reddit | 无需任何音频文件，纯代码实时合成 28 种交互音效的轻量 JS 库 | 2026-08-04 | - |
-| Indo-European Explorer | https://indo-european-explorer.com/ | reddit | 互动图谱展示 400 多种语言如何从 6000 年前的一门语言分化而来 | 2026-08-04 | - |
+| Indo-European Explorer | https://indo-european-explorer.com/ | reddit | 互动图谱展示 400 多种语言如何从 6000 年前的一门语言分化而来 | 2026-08-04 | learn-by-poking-it |
 | S80 | https://s80.me/ | reddit | 同时测试到 Google、Amazon、Cloudflare 三大服务的网络延迟 | 2026-08-04 | - |
 | Make My Drive Fun | https://makemydrivefun.com | reddit | 规划公路旅行时自动帮你插入沿途那些"公路旁的怪东西"景点 | 2026-08-04 | - |
 | Internet Roadtrip | https://roadtrip.neal.fun | web | 全网友一起投票操控一辆真车做环球公路旅行的集体社交实验 | 2026-08-04 | - |
 | Hunted.space | https://hunted.space | web | 实时追踪 Product Hunt 产品排名和点赞速度的看板 | 2026-08-04 | - |
+| Silo | https://silo.pgsty.com | hackernews | 社区维护的 MinIO 分支，恢复完整 Web 控制台并持续发布安全补丁的 S3 兼容对象存储 | 2026-08-07 | - |
+| Vaytric Google Ads Lookup | https://vaytric.com/google-ads-lookup/ | hackernews | 免注册查询任意公司在 Google 广告透明中心投放的所有广告 | 2026-08-07 | - |
+| VeriSky Scoreboard | https://nickleenders.github.io/verisky-scoreboard/ | hackernews | 按过去30天温度、风力、降雨预测准确度给各大天气模型打分排名的看板 | 2026-08-07 | - |
+| Skyline Co-op | https://intergalacticrobots.app/skyline-coop/ | hackernews | 类 SimTower 的高楼建造模拟游戏，玩家是被选举出的管理者而非逐利房东 | 2026-08-07 | - |
+| HN without AI | https://hn-without-ai.vercel.app/ | hackernews | 对 Hacker News 内容做降权处理，减少 AI 相关内容曝光的替代前端 | 2026-08-07 | - |
+| Laugh Labs | https://laugh.so | hackernews | 让多个前沿大模型比拼谁更幽默的竞技榜单 | 2026-08-07 | - |
+| VoiceDuel | https://voiceduel.com/ | hackernews | 盲测形式的语音大模型竞技场，用户与不同语音 AI 实时对话并投票 | 2026-08-07 | - |
+| ScaleQuest | https://scalequest.io/ | hackernews | 用闯关式任务学习系统设计的教育平台 | 2026-08-07 | - |
+| Draw.How | https://draw.how/ | hackernews | 免注册的在线学画教程，内置画布配合虚线引导和个性化反馈 | 2026-08-07 | - |
+| Noah AI | https://heynoah.io/ | producthunt | AI 私人执行助理，帮创始人管理日程、人脉跟进和邮件回复 | 2026-08-07 | - |
+| AgentSky | https://agentsky.dev | producthunt | 托管式 AI 智能体平台，一键启动7x24运行的智能体，可跨多渠道调用 | 2026-08-07 | - |
+| Ctruh Studio | https://www.ctruh.com/products/studio | producthunt | 无代码平台，用于创建交互式 3D 和 AR 电商购物体验 | 2026-08-07 | - |
+| NextDoor.Company | https://www.nextdoor.company/ | producthunt | 用交互地图展示创业公司招聘信息，帮助求职者发现附近正在招聘的公司 | 2026-08-07 | - |
+| Wondering | https://wondering.app | producthunt | 把复杂知识拆解成互动课程的个性化学习平台 | 2026-08-07 | - |
+| Acti | https://www.openacti.com | producthunt | 能理解你意图并主动触发跨应用操作的智能体键盘 | 2026-08-07 | - |
+| Fypro | https://www.fypro.ai | producthunt | 把 TikTok 粉丝转化为付费用户的 AI 增长引擎 | 2026-08-07 | - |
+| Pinggy | https://pinggy.io | twitter | 一键把本地服务映射成公网 HTTPS 链接，无需安装任何客户端 | 2026-08-07 | - |
+| Kinu | https://kinu.care | twitter | 私密的人际关系记录本，帮你记住亲友的生日、重要时刻 | 2026-08-07 | - |
+| Beamtrace | https://www.beamtrace.com | twitter | 追踪 AI 搜索引擎和聊天机器人是否提及、推荐你的品牌 | 2026-08-07 | - |
+| Assay | https://runassay.app | twitter | 个人版 CRM，帮独立开发者和创作者维系人脉、不错过跟进 | 2026-08-07 | - |
+| Mocktomer | https://www.mocktomer.ai | twitter | 用 AI 模拟顾客身份逛你的网站，找出流失点并检测 AI 可见度 | 2026-08-07 | - |
+| StateTakeHome | https://statetakehome.com | twitter | 基于最新联邦和各州税率，精确计算美国50州税后到手工资 | 2026-08-07 | - |
+| CalcBoxer | https://www.calcboxer.com | twitter | 数百个免费在线计算器合集，涵盖金融、健康、工程、数学等场景 | 2026-08-07 | - |
+| Countly | https://www.endlessriver.xyz/countly | twitter | 帮跨境生活/工作者追踪各国停留天数，用于报税、签证合规 | 2026-08-07 | - |
+| I Am Bored | https://iambored.blog | twitter | 纯浏览器小游戏和趣味短读合集网站，无需下载和注册 | 2026-08-07 | - |
+| ScreenOtter | https://screenotter.com | twitter | 自动为每次点击添加缩放效果的录屏工具，无需后期剪辑 | 2026-08-07 | - |
+| PCjs Machines | https://pcjs.org | web | 用 JavaScript 模拟经典电脑硬件，可在浏览器体验70-90年代老系统 | 2026-08-07 | learn-by-poking-it |
+| Dither It | https://ditherit.com | web | 免费在线图片抖动化工具，支持多种算法转换复古像素风格 | 2026-08-07 | - |
+| The Idea Machine | https://the-idea-machine.com | web | 随机生成项目/产品创意的组合生成器 | 2026-08-07 | - |
+| ShaderPad | https://misery.co/shaderpad | web | 轻量无依赖的片元着色器开发库，减少写 WebGL shader 的样板代码 | 2026-08-07 | - |
+| Drawesome | https://benji.org/drawesome | web | React 绘图工具栏组件，内置七种画笔和橡皮擦，支持导出 SVG/PNG | 2026-08-07 | - |
+| Anthropeum | https://anthropeum.com | web | 每日文化猜谜游戏，玩家需在10件文物中判断其来源地区与年代 | 2026-08-07 | - |
+| Originkit | https://originkit.dev | web | 免费的动画组件库，用于快速搭建带动效的现代网站 | 2026-08-07 | - |
