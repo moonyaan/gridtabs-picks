@@ -205,7 +205,7 @@
 | Notra | https://www.usenotra.com | producthunt | 接入 GitHub/Linear/Slack，把团队每天 ship 的代码自动变成更新日志和博客草稿 | 2026-03-13 | solo-founder-back-office |
 | NothingHere | https://solee0524.github.io/NothingHere/ | producthunt | macOS 隐私紧急按钮：一键隐藏所有窗口、静音、打开伪装文件，免费开源 | 2026-03-13 | - |
 | Kodo | https://www.usekodo.ai | producthunt | 用文字描述想要什么，AI 直接生成可编辑的分层海报、幻灯片和社交图片 | 2026-03-13 | make-it-beautiful |
-| Codelegate | https://codelegate.dev | hackernews | 键盘驱动的终端 UI，让多个 AI 编程代理在同一个代码库里并行工作 | 2026-03-13 | keyboard-people |
+| Codelegate | https://codelegate.dev | hackernews | 键盘驱动的终端 UI，让多个 AI 编程代理在同一个代码库里并行工作 | 2026-03-13 | keyboard-people, one-person-agent-army |
 | Sure.is ANSI Viewer | https://sure.is/ansi/ | hackernews | 浏览器里重现拨号时代的 ANSI 艺术，支持模拟波特率播放，拖拽即看 | 2026-03-13 | browser-nostalgia |
 | Fueling Curiosity | https://fuelingcuriosity.com/game.html | hackernews | 交互式浏览器游戏，带你从采油到消费者完整走一遍石油精炼流程 | 2026-03-13 | - |
 | Chronicle | https://chroniclehq.com | producthunt | AI 演示文稿工具，从笔记或提示词出发，生成有设计品味的专业幻灯片 | 2026-03-13 | make-it-beautiful |
@@ -243,7 +243,7 @@
 | Upstract | https://upstract.com | web | 把 Reddit、HN、NYT 等数十个来源聚合到一个页面，无算法、按时间顺序阅读 | 2026-03-24 | - |
 | Is It a Pint? | https://isitapint.com | hackernews | 用数据调查酒吧是否真的给足一品脱，草根消费者权益运动 + 幽默数据可视化 | 2026-03-24 | internet-absurdism |
 | Flowstep | https://flowstep.ai | producthunt | AI 驱动的 UI 设计工具，输入文字描述即可生成可编辑的生产级 React 界面 | 2026-05-26 | - |
-| Emdash | https://emdash.sh | hackernews | 开源桌面应用，在同一代码库里并行运行多个 AI 编程代理（Claude Code、Codex 等） | 2026-05-26 | - |
+| Emdash | https://emdash.sh | hackernews | 开源桌面应用，在同一代码库里并行运行多个 AI 编程代理（Claude Code、Codex 等） | 2026-05-26 | one-person-agent-army |
 | TrainBot | https://trainbot.eu | hackernews | 搜索欧洲夜间火车最低票价的专属搜索引擎，支持筛选路线、时长和座位类型 | 2026-05-26 | - |
 | FileFlan | https://fileflan.com | producthunt | 无账号无 Cookie 端对端加密的浏览器直连文件传输，文件从不经过服务器存储 | 2026-05-26 | - |
 | Only EU | https://only-eu.eu/en | web | 欧洲软件替代品目录，30+ 品类收录欧洲本土产品，强调隐私和数字主权 | 2026-05-26 | - |
@@ -279,7 +279,7 @@
 | Databox MCP | https://databox.com/mcp | producthunt | MCP 服务器让你在 Claude、ChatGPT 或 Cursor 里直接用自然语言查询 Databox 业务数据 | 2026-06-02 | - |
 | Textile | https://www.gettextile.app | hackernews | macOS 桌面应用，像织布一样拼接和重用文本片段，支持键盘快捷键和命令执行，本地优先 | 2026-06-02 | - |
 | TapToyPia | https://memalign.github.io/m/taptoypia/index.html | hackernews | 浏览器里的星球殖民点击游戏，探索动植物并建立人类新家园，无需安装即玩 | 2026-06-02 | - |
-| Open Envelope | https://openenvelope.org | hackernews | 定义 AI 代理团队的开放标准，一次编写，部署到任意编排平台并追踪每次执行 | 2026-06-02 | - |
+| Open Envelope | https://openenvelope.org | hackernews | 定义 AI 代理团队的开放标准，一次编写，部署到任意编排平台并追踪每次执行 | 2026-06-02 | one-person-agent-army |
 | Zot | https://www.zot.sh | hackernews | 单一静态 Go 二进制的轻量编程代理，连接 25+ LLM 供应商，自带文件读写和 Telegram 桥接 | 2026-06-02 | - |
 | Wallflower | https://thewallflower.app | hackernews | 专为慢速阅读设计的 Mastodon/Bluesky 联合客户端，衬线字体、手动刷新、零算法干扰 | 2026-06-05 | - |
 | Franz | https://meetfranz.com | producthunt | 把 WhatsApp、Slack、Gmail 等 75+ 消息平台聚合到一个桌面应用，内置 AI 总结助手 | 2026-06-05 | inbox-zero-for-everything |
@@ -465,7 +465,7 @@
 | Hackney | https://hackney.app/ | hackernews | 实时比较Uber、Lyft、Waymo等打车平台价格 | 2026-07-14 | - |
 | Worker Owned Directory | https://www.workerowned.info/ | hackernews | 收录2.2万+工人合作社产品的可搜索商品目录 | 2026-07-14 | - |
 | FixBugs | https://fixbugs.ai | hackernews | AI代理自动分类、检测并修复生产环境Bug | 2026-07-14 | - |
-| Abralo | https://abralo.com/ | hackernews | 在单一窗口内同时运行并监控多个Claude Code代理 | 2026-07-14 | - |
+| Abralo | https://abralo.com/ | hackernews | 在单一窗口内同时运行并监控多个Claude Code代理 | 2026-07-14 | one-person-agent-army |
 | Nobie | https://nobie.com | hackernews | 本地运行的Mac端Excel兼容表格应用，数据不上云 | 2026-07-14 | the-web-is-watching-you |
 | Signum | https://signumaiapp.com | - | 网站安全验证工具，通过域名分析识别潜在诈骗网站 | 2026-07-14 | the-web-is-watching-you |
 | Papel | https://andreaturchet.github.io/website/index.html | hackernews | 像刷TikTok一样用算法推荐发现感兴趣的学术论文 | 2026-07-14 | - |
@@ -530,7 +530,7 @@
 | Metal | https://metal.so | producthunt | 面向创始人的 AI 融资 OS，覆盖投资人发现、关系图谱、融资轮次副驾驶 | 2026-07-21 | - |
 | Mainichi | https://mainichiapp.com | producthunt | 通过解锁日本 47 个都道府县来学日语的 SRS 闪卡应用，每天 5 分钟 | 2026-07-21 | - |
 | Detourmap | https://detourmap.com | producthunt | 全球 71,763 个值得绕路一去的冷门景点地图，完全免费无广告 | 2026-07-21 | - |
-| Pazi | https://pazi.ai | producthunt | AI 创业协作 OS，说出想法后自动组建 AI 员工团队并推进落地 | 2026-07-21 | - |
+| Pazi | https://pazi.ai | producthunt | AI 创业协作 OS，说出想法后自动组建 AI 员工团队并推进落地 | 2026-07-21 | one-person-agent-army |
 | Stigg | https://stigg.io | producthunt | AI 产品专用用量运行时，5ms 内实时决策每个请求的配额/预算/权限 | 2026-07-21 | - |
 | Mechanical Watch | https://ciechanow.ski/mechanical-watch | reddit | 可拖拽交互式动画，逐层拆解机械表每个零件原理的极精美科普体验 | 2026-07-21 | things-that-teach-themselves, zoom-out-zoom-in |
 | Nature This Week | https://naturethisweek.com | reddit | 按地点、季节、时间过滤，显示当地动植物活动的互动地图 | 2026-07-21 | - |
@@ -628,7 +628,7 @@
 | Orbit | https://nagylukas.github.io/orbit.html | hackernews | 用 AR 把手机变成实时卫星追踪器，抬头一扫就知道头顶飞过什么 | 2026-08-04 | - |
 | Yamanote 3D | https://yamanote-3d.com/ | producthunt | 沉浸式 3D 模拟坐一趟东京山手线，配环境音效随时间和天气变化 | 2026-08-04 | - |
 | Terminal Candy | https://terminalcandy.com/ | producthunt | 给 macOS 终端换皮肤的原生应用，任意图片一键变身终端主题 | 2026-08-04 | - |
-| AgentMicro | https://agentmicro.cc/ | producthunt | 菜单栏小工具，实时显示多个 Codex AI 编程任务的进度 | 2026-08-04 | - |
+| AgentMicro | https://agentmicro.cc/ | producthunt | 菜单栏小工具，实时显示多个 Codex AI 编程任务的进度 | 2026-08-04 | one-person-agent-army |
 | Port22 | https://tryport22.com/ | producthunt | 用手机远程掌控 Mac 上跑的 AI 编程 agent，随时随地批准它的操作 | 2026-08-04 | - |
 | V2Fun | https://v2fun.ai/ | producthunt | 浏览器里用 AI 把文字或图片一键变成可动画的 3D 角色模型 | 2026-08-04 | - |
 | TerminalWidget | https://terminalwidget.app/ | producthunt | 把终端命令输出变成 Mac/iPhone 桌面小组件，进度条图表应有尽有 | 2026-08-04 | - |
@@ -676,3 +676,30 @@
 | Drawesome | https://benji.org/drawesome | web | React 绘图工具栏组件，内置七种画笔和橡皮擦，支持导出 SVG/PNG | 2026-08-07 | - |
 | Anthropeum | https://anthropeum.com | web | 每日文化猜谜游戏，玩家需在10件文物中判断其来源地区与年代 | 2026-08-07 | - |
 | Originkit | https://originkit.dev | web | 免费的动画组件库，用于快速搭建带动效的现代网站 | 2026-08-07 | - |
+| Coldtea | https://www.coldtea.ai | producthunt | AI原生软件交付平台，编码/QA/监控智能体协同自动化开发流程 | 2026-08-11 | - |
+| AgentGrid | https://agentgrid.sh | producthunt | 无限画布管理多个AI编码智能体，可视化跟踪终端和会话状态 | 2026-08-11 | one-person-agent-army |
+| Murmell | https://murmell.com | producthunt | 多人共享云端画布，让多个AI编码智能体在同一项目里协同工作 | 2026-08-11 | one-person-agent-army |
+| Omniwork | https://www.omniwork.ai | twitter | 常驻桌面的创意代理操作系统，自动完成脚本/视觉/视频到发布全流程 | 2026-08-11 | - |
+| TrustMRR | https://trustmrr.com | twitter | 买卖SaaS/独立项目的交易市场，营收经Stripe验证 | 2026-08-11 | - |
+| Uneed | https://www.uneed.best | twitter | 面向独立开发者的产品发布目录平台，长期曝光不限24小时窗口 | 2026-08-11 | - |
+| StackScope | https://stackscope.dev | web | 抓取分析独立开发者产品的技术栈、托管、SEO等信息的目录工具 | 2026-08-11 | - |
+| Webcam Motion Capture | https://webcammotioncapture.info | web | 用普通摄像头驱动3D虚拟形象的动作捕捉工具 | 2026-08-11 | - |
+| Sandboxels | https://sandboxels.r74n.com | web | 网页版物理粒子沙盒模拟器，可组合上百种元素观察化学反应 | 2026-08-11 | - |
+| SkillTrade | https://www.hackquest.io/projects/Skill-Trade | web | 点对点技能交换平台，AI智能匹配，教学换学习机会 | 2026-08-11 | - |
+| ssh.place | https://ssh.place | hackernews | 通过SSH连接就能一起画画的协作像素画布，无需安装客户端 | 2026-08-11 | - |
+| textlog | https://textlog.cc/about | hackernews | 纯文本、无JavaScript的极简微博客平台 | 2026-08-11 | - |
+| Every Cube | https://everycube.alen.is | hackernews | 魔方所有排列组合的交互式可视化网站 | 2026-08-11 | - |
+| CostPerPrompt | https://costperprompt.com | hackernews | AI API调用成本对比计算器，覆盖各大模型定价 | 2026-08-11 | - |
+| PicBurn | https://picburn.xyz | hackernews | 阅后即焚的图片托管服务，链接查看后自动销毁 | 2026-08-11 | - |
+| Tectonic Globe | https://douwe.com/projects/tectonic_globe | hackernews | 叠加现代城市位置的地质年代板块运动可视化地球仪 | 2026-08-11 | - |
+| New Old Computer | https://newold.computer | hackernews | 复古电脑升级配件与工具的精选目录，人工核实无商业化 | 2026-08-11 | - |
+| Alphabet Soup | https://alphabetsoup.club | hackernews | 多人在线组词竞技小游戏 | 2026-08-11 | - |
+| Vocab Top | https://www.vocab.top | hackernews | AI自适应的词汇学习平台 | 2026-08-11 | - |
+| Number Garden | https://number-garden.com | hackernews | 数学格点可视化探索工具 | 2026-08-11 | - |
+| Consciousness Library | https://consciousnesslibrary.org | hackernews | 致幻剂研究论文开放数据库 | 2026-08-11 | - |
+| Sound Tone Generator | https://soundtonegenerator.com | hackernews | 简洁在线音频音调生成与测试工具 | 2026-08-11 | - |
+| Read the Water | https://read-the-water.netlify.app | hackernews | 用互动小游戏教授飞钓读水技巧的教育项目 | 2026-08-11 | - |
+| Glass Bottles | https://glassbottles.app | reddit | 匿名漂流瓶网站，写一条消息投入数字海洋，随机收到陌生人回信 | 2026-08-11 | - |
+| IndiePilot | https://indiepilot.app | reddit | 24小时监控Reddit帖子，AI打分匹配并生成回复草稿助独立开发者获客 | 2026-08-11 | - |
+| DefineYourDollars | https://defineyourdollars.com | reddit | 免费记账/预算管理工具 | 2026-08-11 | - |
+| Pug's Hunt | https://www.sanderdesnaijer.com/projects/pug-s-hunt-a-webcam-controlled-duck-hunt-built-with-hand-tracking | web | 摄像头手势追踪的浏览器版打鸭子游戏，手指比枪瞄准射击 | 2026-08-11 | - |

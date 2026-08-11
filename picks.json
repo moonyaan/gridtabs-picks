@@ -2251,5 +2251,84 @@
         }
       }
     ]
+  },
+  {
+    "slug": "one-person-agent-army",
+    "title": {
+      "en": "One Person, a Whole Army of AI Agents",
+      "zh-CN": "一人分饰多角：8 个 AI 代理团队指挥台"
+    },
+    "description": {
+      "en": "It's not one developer plus one assistant anymore — it's one developer directing a dozen coding agents at once. Eight command decks built for that.",
+      "zh-CN": "现在的新玩法不是一个人配一个 AI 助手，而是一个人同时指挥十几个代理干活。这八个网站就是给这种\"一人军团\"打造的指挥台。"
+    },
+    "date": "2026-08-11",
+    "coverImage": "coverImage29.jpg",
+    "sites": [
+      {
+        "name": "Emdash",
+        "url": "https://emdash.sh",
+        "description": {
+          "en": "Open source and free — no per-seat pricing standing between you and running twenty agents at once.",
+          "zh-CN": "开源免费，不用为每加一个代理多付一份钱，想开二十个就开二十个。"
+        }
+      },
+      {
+        "name": "AgentGrid",
+        "url": "https://agentgrid.sh",
+        "description": {
+          "en": "An infinite canvas for \"one person, many agents\" — nine harnesses side by side, nothing hidden.",
+          "zh-CN": "\"一人管一群\"落到屏幕上的样子——九种代理并排跑在无限画布上，没有哪个被藏在标签页里。"
+        }
+      },
+      {
+        "name": "Murmell",
+        "url": "https://murmell.com",
+        "description": {
+          "en": "Solo doesn't mean alone — Murmell puts the session on a shareable canvas your team can watch live.",
+          "zh-CN": "一个人指挥不代表闷头干——Murmell 把会话搬上可分享画布，团队能一起围观。"
+        }
+      },
+      {
+        "name": "Abralo",
+        "url": "https://abralo.com/",
+        "description": {
+          "en": "The commander's real job is triage — one window shows which Claude Code agent needs you now.",
+          "zh-CN": "指挥官真正要做的是分诊——一个窗口告诉你哪个 Claude Code 代理在等你。"
+        }
+      },
+      {
+        "name": "AgentMicro",
+        "url": "https://agentmicro.cc",
+        "description": {
+          "en": "Lives in the menu bar, not a window — glance up, see which of your five Codex tasks needs you.",
+          "zh-CN": "不占窗口，挂在菜单栏——抬头一看，五个 Codex 任务里哪个在等你，一目了然。"
+        }
+      },
+      {
+        "name": "Open Envelope",
+        "url": "https://openenvelope.org",
+        "description": {
+          "en": "Today's platform, tomorrow's different one — a portable format keeps your roster vendor-agnostic.",
+          "zh-CN": "今天用一个平台，明天可能想换——Open Envelope 的团队格式可移植，不被某一家锁死。"
+        }
+      },
+      {
+        "name": "Pazi",
+        "url": "https://pazi.ai",
+        "description": {
+          "en": "Takes the metaphor furthest — describe a business, get agents staffed as developer, marketer, ops.",
+          "zh-CN": "把比喻推到极致：描述一个生意，Pazi 就配上开发、市场、运营角色的代理团队。"
+        }
+      },
+      {
+        "name": "Codelegate",
+        "url": "https://codelegate.dev",
+        "description": {
+          "en": "For developers who never touch a mouse — the command deck can live entirely in the terminal.",
+          "zh-CN": "给不想碰鼠标的开发者：这套指挥台也能完全活在终端里，全靠键盘。"
+        }
+      }
+    ]
   }
 ]
