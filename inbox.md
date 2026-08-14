@@ -317,8 +317,8 @@
 | Publora | https://publora.com | producthunt | Agent 时代的发布 API，一次 API 调用同步发布到 X/LinkedIn 等 10+ 平台 | 2026-06-12 | - |
 | ZoomQuilt | https://zoomquilt.org | reddit | 无限缩放的协作艺术画作，视觉催眠体验 | 2026-06-12 | - |
 | Patatap | https://patatap.com | reddit | 按键盘触发独特动画和音效，创意互动键盘体验 | 2026-06-12 | browser-playground, daily-one-tab-games, browser-art-studio |
-| This Is Sand | https://thisissand.com | reddit | 用鼠标倒彩色数字沙，创作分层艺术画，极简解压 | 2026-06-12 | browser-playground |
-| Koalas to the Max | https://koalastothemax.com | reddit | 悬停时圆圈层层分裂，最终揭开隐藏图像 | 2026-06-12 | browser-playground |
+| This Is Sand | https://thisissand.com | reddit | 用鼠标倒彩色数字沙，创作分层艺术画，极简解压 | 2026-06-12 | browser-playground, mouse-made-magic |
+| Koalas to the Max | https://koalastothemax.com | reddit | 悬停时圆圈层层分裂，最终揭开隐藏图像 | 2026-06-12 | browser-playground, mouse-made-magic |
 | Windows 93 | https://windows93.net | reddit | 浏览器里完整运行的虚假 Windows 93 操作系统，极具怀旧感 | 2026-06-12 | browser-nostalgia |
 | GifCities | https://gifcities.org | reddit | 搜索 160 万+ 来自 GeoCities 时代的复古动态 GIF | 2026-06-12 | browser-nostalgia |
 | A Soft Murmur | https://asoftmurmur.com | reddit | 自由混合雨声/雷声/海浪等环境音，专注助眠神器 | 2026-06-12 | sound-travel |
@@ -369,7 +369,7 @@
 | FutureMe | https://www.futureme.org | web | 给未来自己写信的时间胶囊服务，设定日期让邮件在若干年后送达 | 2026-06-26 | - |
 | The True Size Of | https://www.thetruesize.com | web | 拖动国家到不同纬度对比真实面积，揭穿墨卡托投影造成的大小错觉 | 2026-06-26 | the-map-is-the-point, zoom-out-zoom-in |
 | GeoGuessr | https://www.geoguessr.com | web | 随机掉落到 Google 街景，猜测你在世界哪个角落的地理侦探游戏 | 2026-06-26 | daily-one-tab-games |
-| Quick, Draw! | https://quickdraw.withgoogle.com | web | Google 神经网络猜画游戏，20 秒内看 AI 能否识别你的涂鸦 | 2026-06-26 | - |
+| Quick, Draw! | https://quickdraw.withgoogle.com | web | Google 神经网络猜画游戏，20 秒内看 AI 能否识别你的涂鸦 | 2026-06-26 | mouse-made-magic |
 | The Wiki Game | https://www.thewikigame.com | web | 从一个维基百科页面出发，通过点击内链到达目标页面，越少步骤越好 | 2026-06-26 | daily-one-tab-games |
 | Passweird | https://www.passweird.com | web | 生成奇葩但好记的密码，把安全要求变成一门艺术 | 2026-06-26 | internet-absurdism |
 | Find the Invisible Cow | https://findtheinvisiblecow.com | web | 移动鼠标寻找隐形奶牛，声音越大越近，极简纯粹的找东西游戏 | 2026-06-26 | internet-absurdism |
@@ -576,7 +576,7 @@
 | Babel | https://babel.reppie.org | reddit | 把维基百科每一次编辑变成一块砖，每天生成一座不断长高的摩天大楼 | 2026-07-28 | - |
 | Firewood Splitting Simulator | https://screen.toys/firewood/ | reddit | 一个纯粹解压的劈柴模拟器网页小游戏 | 2026-07-28 | - |
 | Lowtein | https://lowtein.com | reddit | 用政府数据核实超市促销价是否真的低于当地历史均价 | 2026-07-28 | - |
-| Escherllate | http://escherllate.app | reddit | 一个镶嵌图案素描本，在一块瓷砖上画画会自动同步到所有拼接瓷砖上 | 2026-07-28 | - |
+| Escherllate | http://escherllate.app | reddit | 一个镶嵌图案素描本，在一块瓷砖上画画会自动同步到所有拼接瓷砖上 | 2026-07-28 | mouse-made-magic |
 | Ohayo World | https://www.ohayoworld.com | reddit | 实时显示地球昼夜分界线，以及此刻正经历日出的人口数量的动态地球仪 | 2026-07-28 | zoom-out-zoom-in |
 | Uncovered | https://uncovered.ink | reddit | 不看书名和封面，随机滚动浏览各种书籍开篇样章 | 2026-07-28 | - |
 | Wiki Spy | https://neal.fun/wiki-spy/ | reddit | 从维基百科图片里抠出物体做成的无限可搜索大家来找茬拼贴游戏 | 2026-07-28 | - |
@@ -633,7 +633,7 @@
 | V2Fun | https://v2fun.ai/ | producthunt | 浏览器里用 AI 把文字或图片一键变成可动画的 3D 角色模型 | 2026-08-04 | - |
 | TerminalWidget | https://terminalwidget.app/ | producthunt | 把终端命令输出变成 Mac/iPhone 桌面小组件，进度条图表应有尽有 | 2026-08-04 | - |
 | Capptivo | https://capptivo.com/ | producthunt | 开源免费的屏幕录制工具，自动跟随光标缩放，做出专业演示视频 | 2026-08-04 | - |
-| Eigendrum | https://baselashraf81.github.io/eigendrum/ | reddit | 在屏幕上画出任意形状的鼓面，就能听到它真实敲击时会发出的声音 | 2026-08-04 | - |
+| Eigendrum | https://baselashraf81.github.io/eigendrum/ | reddit | 在屏幕上画出任意形状的鼓面，就能听到它真实敲击时会发出的声音 | 2026-08-04 | mouse-made-magic |
 | My Breed Match | https://mybreedmatch.com | reddit | 用 44 个维度的测验数据帮你匹配最适合的狗狗品种，减少弃养 | 2026-08-04 | quizzes-that-know-too-much |
 | How Poor Am I | https://howpoorami.org/ | reddit | 输入你的收入或财富，看看自己在全球贫富分布中站在哪一档 | 2026-08-04 | quizzes-that-know-too-much |
 | Findex | https://usefindex.com | reddit | 用大白话解释晦涩难懂的金融术语，让理财变得没那么高深莫测 | 2026-08-04 | - |
@@ -670,10 +670,10 @@
 | I Am Bored | https://iambored.blog | twitter | 纯浏览器小游戏和趣味短读合集网站，无需下载和注册 | 2026-08-07 | - |
 | ScreenOtter | https://screenotter.com | twitter | 自动为每次点击添加缩放效果的录屏工具，无需后期剪辑 | 2026-08-07 | - |
 | PCjs Machines | https://pcjs.org | web | 用 JavaScript 模拟经典电脑硬件，可在浏览器体验70-90年代老系统 | 2026-08-07 | learn-by-poking-it |
-| Dither It | https://ditherit.com | web | 免费在线图片抖动化工具，支持多种算法转换复古像素风格 | 2026-08-07 | - |
+| Dither It | https://ditherit.com | web | 免费在线图片抖动化工具，支持多种算法转换复古像素风格 | 2026-08-07 | mouse-made-magic |
 | The Idea Machine | https://the-idea-machine.com | web | 随机生成项目/产品创意的组合生成器 | 2026-08-07 | - |
 | ShaderPad | https://misery.co/shaderpad | web | 轻量无依赖的片元着色器开发库，减少写 WebGL shader 的样板代码 | 2026-08-07 | - |
-| Drawesome | https://benji.org/drawesome | web | React 绘图工具栏组件，内置七种画笔和橡皮擦，支持导出 SVG/PNG | 2026-08-07 | - |
+| Drawesome | https://benji.org/drawesome | web | React 绘图工具栏组件，内置七种画笔和橡皮擦，支持导出 SVG/PNG | 2026-08-07 | mouse-made-magic |
 | Anthropeum | https://anthropeum.com | web | 每日文化猜谜游戏，玩家需在10件文物中判断其来源地区与年代 | 2026-08-07 | - |
 | Originkit | https://originkit.dev | web | 免费的动画组件库，用于快速搭建带动效的现代网站 | 2026-08-07 | - |
 | Coldtea | https://www.coldtea.ai | producthunt | AI原生软件交付平台，编码/QA/监控智能体协同自动化开发流程 | 2026-08-11 | - |
@@ -684,7 +684,7 @@
 | Uneed | https://www.uneed.best | twitter | 面向独立开发者的产品发布目录平台，长期曝光不限24小时窗口 | 2026-08-11 | - |
 | StackScope | https://stackscope.dev | web | 抓取分析独立开发者产品的技术栈、托管、SEO等信息的目录工具 | 2026-08-11 | - |
 | Webcam Motion Capture | https://webcammotioncapture.info | web | 用普通摄像头驱动3D虚拟形象的动作捕捉工具 | 2026-08-11 | - |
-| Sandboxels | https://sandboxels.r74n.com | web | 网页版物理粒子沙盒模拟器，可组合上百种元素观察化学反应 | 2026-08-11 | - |
+| Sandboxels | https://sandboxels.r74n.com | web | 网页版物理粒子沙盒模拟器，可组合上百种元素观察化学反应 | 2026-08-11 | mouse-made-magic |
 | SkillTrade | https://www.hackquest.io/projects/Skill-Trade | web | 点对点技能交换平台，AI智能匹配，教学换学习机会 | 2026-08-11 | - |
 | ssh.place | https://ssh.place | hackernews | 通过SSH连接就能一起画画的协作像素画布，无需安装客户端 | 2026-08-11 | - |
 | textlog | https://textlog.cc/about | hackernews | 纯文本、无JavaScript的极简微博客平台 | 2026-08-11 | - |
@@ -703,3 +703,51 @@
 | IndiePilot | https://indiepilot.app | reddit | 24小时监控Reddit帖子，AI打分匹配并生成回复草稿助独立开发者获客 | 2026-08-11 | - |
 | DefineYourDollars | https://defineyourdollars.com | reddit | 免费记账/预算管理工具 | 2026-08-11 | - |
 | Pug's Hunt | https://www.sanderdesnaijer.com/projects/pug-s-hunt-a-webcam-controlled-duck-hunt-built-with-hand-tracking | web | 摄像头手势追踪的浏览器版打鸭子游戏，手指比枪瞄准射击 | 2026-08-11 | - |
+| Woxi | https://woxi.ad-si.com | hackernews | 开源的 Mathematica/Wolfram 语言重新实现网页版 | 2026-08-14 | - |
+| FrontFamily | https://www.frontfamily.com/ | hackernews | 在 React、Vue、Angular、Svelte 等框架间转换 UI 组件的工具 | 2026-08-14 | - |
+| Ballet | https://www.ballet.dev/ | hackernews | 用自然语言描述生成可审查代码来自动化跨系统业务工作流的平台 | 2026-08-14 | - |
+| Stackdome | https://stackdome.com | hackernews | 开源可自托管的 Railway 替代品，基于 Kubernetes | 2026-08-14 | - |
+| UTC Time | https://utctime.app/ | hackernews | 实时显示 UTC 时间、ISO 8601 和 Unix 时间戳的简洁网页工具 | 2026-08-14 | - |
+| Timer | https://timer.jotaen.net | hackernews | 可编程的健身或拉伸训练计时器网页应用 | 2026-08-14 | - |
+| OJCP | https://ojcp.dev/ | hackernews | 面向 AI Agent 可读取职位数据的开放协议 | 2026-08-14 | - |
+| KidScreen | https://kidscreen.app | hackernews | 家长精选的有限 YouTube 内容频道，控制孩子观看范围 | 2026-08-14 | - |
+| Needle2 | https://cactuscompute.com/needle | hackernews | 仅 14MB 可在手机穿戴设备智能家居机器人上运行的智能体大模型 | 2026-08-14 | - |
+| Photosynthesis | https://photosynthesis.camera | hackernews | 用手机双镜头同时拍摄并融合成一张高细节照片的 iPhone 应用 | 2026-08-14 | - |
+| Inclusive Color Space | https://toneyalexander.github.io/inclusive-color-space/ | hackernews | 生成多样化肤色的简单算法与色彩空间工具 | 2026-08-14 | - |
+| Snippety | https://snippety.app | hackernews | macOS 上的代码文本片段管理器 | 2026-08-14 | - |
+| Dograh | https://www.dograh.com | producthunt | 开源的语音AI客服电话机器人平台，对标VAPI的开源替代方案 | 2026-08-14 | - |
+| BetterClaw | https://www.betterclaw.io/ | producthunt | 无代码AI智能体搭建平台，可在Slack、Telegram、Discord和Gmail上按计划自动执行任务 | 2026-08-14 | - |
+| Unsloth Desktop | https://unsloth.ai | producthunt | 可在本地桌面运行和训练AI模型的桌面应用 | 2026-08-14 | - |
+| Tines | https://tines.com | producthunt | 面向AI智能体应用和自动化流程的安全运行环境 | 2026-08-14 | - |
+| bb | https://getbb.app | producthunt | 可自我控制、自定义和自动化的AI编程IDE，支持多个AI模型协同工作 | 2026-08-14 | - |
+| Continuum | https://roland.leth.ro/projects/continuum | producthunt | 面向管理者的macOS私密笔记应用，记录团队成员观察并追踪成长轨迹 | 2026-08-14 | - |
+| Vizard Agent | https://agent.vizard.ai | producthunt | 一站式AI视频智能体，可完成剪辑生成与本地化多语言配音 | 2026-08-14 | - |
+| Bullet | https://codewithbullet.com | producthunt | 主打速度的YC背景编程智能体，通过路由分级模型和并行执行大幅提速 | 2026-08-14 | - |
+| Capacity | https://capacity.so | producthunt | 用自然语言描述即可生成可上线运营的完整应用的无代码搭建平台 | 2026-08-14 | - |
+| Kubit | https://www.kubit.ai | producthunt | 将AI智能体行为与用户实际活动关联分析的产品分析平台 | 2026-08-14 | - |
+| Cerenovus | https://cerenovus.ai | producthunt | 自动识别企业工作流低效环节和资金损失的AI分析系统 | 2026-08-14 | - |
+| AdAnt AI | https://adant.ai/ | producthunt | 面向社交媒体的高转化率广告创意自动生成智能体 | 2026-08-14 | - |
+| Stowaway | https://stowaway.live/ | reddit | 实时查看头顶飞过的飞机或卫星，模拟坐在窗边俯瞰地面 | 2026-08-14 | - |
+| Bingebuster | https://bingebuster.net/ | reddit | 把订阅的流媒体片库重新排列成复古录像店货架的样子 | 2026-08-14 | - |
+| Luna Space Simulator | https://luna.watermelonson.com/ | reddit | 浏览器里运行的太空探索模拟器，持续更新 | 2026-08-14 | - |
+| ShadeMap | https://shademap.app/ | reddit | 模拟任意时间地点的太阳阴影分布，可用于选房或规划 | 2026-08-14 | - |
+| CSS Radar | https://cssradar.com | reddit | 扫描网站代码，找出可以用现代CSS替代的旧写法 | 2026-08-14 | - |
+| SocialClaw | https://getsocialclaw.com/ | reddit | 帮助SaaS在TikTok投放广告和内容运营的营销工具 | 2026-08-14 | - |
+| FilexAI | https://filexai.com | reddit | 创始人在r/SaaS分享的AI文件处理类工具，靠Reddit meme获得首笔收入 | 2026-08-14 | - |
+| Screen Charm | https://screencharm.com/ | reddit | Mac端带自动缩放效果的屏幕录制与视频分享工具 | 2026-08-14 | - |
+| BearDrive | https://beardrive.ai/ | twitter | 开源的团队AI智能体共享文件夹，产出文件自动同步可被团队复用 | 2026-08-14 | - |
+| Lettertrace | https://lettertrace.com/ | twitter | 免费开源的AI品牌可见度监测工具 | 2026-08-14 | - |
+| Dashi Metrics | https://www.dashimetrics.com/ | twitter | 把网站访客和付款实时可视化在3D地球仪上的分析工具 | 2026-08-14 | - |
+| GrowthBook | https://www.growthbook.io/ | twitter | 开源的A/B测试和特性开关平台 | 2026-08-14 | - |
+| Wispr Flow | https://wispr.ai/ | twitter | 语音输入替代打字的效率工具，比打字快4倍 | 2026-08-14 | - |
+| Forkcade | https://forkcade.com | web | 在线制作试玩fork小型浏览器游戏的平台 | 2026-08-14 | - |
+| Referee.Chat | https://referee.chat/ | web | 让多个 AI 互相辩论、由裁判 AI 仲裁得出结论的严谨决策工具 | 2026-08-14 | - |
+| Mirage Browser | https://miragebrowser.xyz/ | web | 主打独特界面交互设计的实验性网页浏览器 | 2026-08-14 | - |
+| Session Recorder | https://sessionrecorder.com/ | web | 为音乐制作人持续录制电脑音频的"永不错过灵感"工具 | 2026-08-14 | - |
+| TasmoShelf | https://tasmoshelf.app | web | 面向智能家居爱好者的可视化管理与监控工具 | 2026-08-14 | - |
+| Cadre.rocks | https://cadre.rocks/ | web | 团队协作社区工具产品，偏向小型团队组织管理 | 2026-08-14 | - |
+| Blaze Money | https://blaze.money | web | 用 AI Agent 自动管理个人财务的理财工具 | 2026-08-14 | - |
+| Recoverflow Retry Waste Calculator | https://recoverflow.org/tools/retry-waste-calculator/ | web | 帮企业审计 Stripe 支付重试造成的浪费成本，纯前端无需上传数据 | 2026-08-14 | - |
+| AI Slop Kitchen | https://play-kitchen.netlify.app/ | web | 围绕 AI 生成内容主题的讽刺趣味互动网页玩具 | 2026-08-14 | - |
+| Run Log | https://runlogapp.com/ | web | 简洁的跑步日志记录应用 | 2026-08-14 | - |
+| Hatch Index | https://hatchindex.com/ | reddit | 帮你查询哪家孵化场有你想要的特定家禽品种现货 | 2026-08-14 | - |
