@@ -140,7 +140,7 @@
 | happycapy | https://happycapy.ai | producthunt | 浏览器里的 AI 原生计算机，让 AI 代理 24 小时在云沙箱替你工作 | 2026-02-28 | - |
 | Stitch by Google | https://stitch.withgoogle.com | producthunt | Google 出品的 AI UI 设计工具，上传草图自动生成生产可用的前端界面代码 | 2026-02-28 | ai-no-code-2026 |
 | Earth.fm | https://earth.fm | web | 来自地球各角落的自然声景流媒体，沉浸在雨林、海浪、森林的真实环境音中 | 2026-02-28 | focused-life, sound-travel |
-| ProjectionLab | https://projectionlab.com | web | 可交互的财务独立模拟器，用蒙特卡洛模拟预测你的整个人生财务轨迹 | 2026-02-28 | In Picks: data-about-your-life |
+| ProjectionLab | https://projectionlab.com | web | 可交互的财务独立模拟器，用蒙特卡洛模拟预测你的整个人生财务轨迹 | 2026-02-28 | data-about-your-life, money-tools-for-finance-haters |
 | WindowSwap | https://window-swap.com | web | 打开陌生人家的窗户，看世界各地真实窗外风景，互联网上最平静的地方 | 2026-02-28 | no-algorithm-sites |
 | Artvee | https://artvee.com | web | 超高清公版艺术作品免费下载库，古典油画海报插图可商用 | 2026-02-28 | no-algorithm-sites |
 | Focusmate | https://focusmate.com | web | 虚拟共同工作平台，与陌生人配对开视频专注，用社交承诺对抗拖延 | 2026-02-28 | focused-life |
@@ -555,7 +555,7 @@
 | Dozenal | https://dozenal.game | hackernews | 以十二进制运算为核心玩法的每日数字解谜游戏 | 2026-07-28 | - |
 | Transistor Animations | https://brandonli.net | hackernews | 用交互式动画直观演示晶体管工作原理的教育向可视化网站 | 2026-07-28 | zoom-out-zoom-in, learn-by-poking-it |
 | HIIT Me Up | https://hiitmeup.fit | hackernews | 免费的浏览器端 HIIT 间歇训练计时器，带语音指导 | 2026-07-28 | - |
-| PumpProof | https://pumpproof.com | hackernews | 通过分析 SEC 文件为热门股票打割韭菜风险分的教育型工具 | 2026-07-28 | - |
+| PumpProof | https://pumpproof.com | hackernews | 通过分析 SEC 文件为热门股票打割韭菜风险分的教育型工具 | 2026-07-28 | money-tools-for-finance-haters |
 | Gitwig | https://gitwig.dev | hackernews | 用 Rust 编写的现代终端 Git 界面，支持鼠标操作和多仓库管理 | 2026-07-28 | - |
 | Watch Random Code on MS-DOS IDE | https://specr.net | hackernews | 模拟 MS-DOS 风格 IDE 实时打字生成随机代码的怀旧可视化网站 | 2026-07-28 | - |
 | PlugThis | https://plugthis.ai | producthunt | 用自然语言描述想法，AI 自动生成可上架 Chrome 商店的浏览器扩展 | 2026-07-28 | - |
@@ -568,7 +568,7 @@
 | Endless Horse | https://endlesshorse.com | web | 一匹 ASCII 字符画的马，双腿随着滚动永无止境地延伸 | 2026-07-28 | - |
 | Down For Everyone Or Just Me | https://downforeveryoneorjustme.com | web | 输入网址即可判断该网站是全网宕机还是只有你自己连不上 | 2026-07-28 | - |
 | Cito | https://cito.fim.ai | twitter | 面向学术论文的语义搜索引擎，按含义而非关键词匹配检索文献 | 2026-07-28 | - |
-| Wealtii | https://wealtii.com | twitter | 面向普通用户的数字资产指数基金投资平台，最低10美元起投 | 2026-07-28 | - |
+| Wealtii | https://wealtii.com | twitter | 面向普通用户的数字资产指数基金投资平台，最低10美元起投 | 2026-07-28 | money-tools-for-finance-haters |
 | WebImage Maker '97 | https://pieter.com/~pieter/ | twitter | Pieter Levels 用复古 Windows 3.11/Netscape 风格打造的个人怀旧实验乐园 | 2026-07-28 | - |
 | sleepscroll | https://sleepscroll.tiiny.site | reddit | 反向刷手机体验，无尽滚动的夜空，没有点赞没有通知没有算法 | 2026-07-28 | - |
 | Internet History Roulette | https://internethistoryroulette.com | reddit | 转动轮盘随机跳转到 Wayback Machine 存档的 90-2000 年代老网站 | 2026-07-28 | - |
@@ -594,7 +594,7 @@
 | Chip Builder | https://select.supply/game/chipbuilder | hackernews | 从逻辑门开始搭建一颗可运行 CPU 的浏览器游戏 | 2026-07-31 | learn-by-poking-it |
 | Analog Watch | https://analog.watch | hackernews | 极简指针式时钟网页，适合当新标签页小工具 | 2026-07-31 | - |
 | Population Rays | https://imjasonh.github.io/playground/population-rays | hackernews | "要走多远才能遇到10万人"的互动人口密度可视化 | 2026-07-31 | learn-by-poking-it |
-| Read the Tape | https://readthetape.cc | hackernews | 每日版"炒股 Wordle"，靠盲猜五张标普500个股走势图挑战直觉 | 2026-07-31 | - |
+| Read the Tape | https://readthetape.cc | hackernews | 每日版"炒股 Wordle"，靠盲猜五张标普500个股走势图挑战直觉 | 2026-07-31 | money-tools-for-finance-haters |
 | Everything Timeline | https://app.everything.diena.co | hackernews | 可缩放的互动时间轴，收录400万条维基百科历史事件 | 2026-07-31 | - |
 | My Library Events | https://mylibrary-events.com | reddit | 输入美国邮编即可查找附近公共图书馆的免费儿童活动 | 2026-07-31 | - |
 | 808 Drum Machine | https://benjaminmullins.tv/808/ | reddit | 免费浏览器版 808 鼓机，做好节奏可直接发短信分享给朋友 | 2026-07-31 | - |
@@ -636,7 +636,7 @@
 | Eigendrum | https://baselashraf81.github.io/eigendrum/ | reddit | 在屏幕上画出任意形状的鼓面，就能听到它真实敲击时会发出的声音 | 2026-08-04 | mouse-made-magic |
 | My Breed Match | https://mybreedmatch.com | reddit | 用 44 个维度的测验数据帮你匹配最适合的狗狗品种，减少弃养 | 2026-08-04 | quizzes-that-know-too-much |
 | How Poor Am I | https://howpoorami.org/ | reddit | 输入你的收入或财富，看看自己在全球贫富分布中站在哪一档 | 2026-08-04 | quizzes-that-know-too-much |
-| Findex | https://usefindex.com | reddit | 用大白话解释晦涩难懂的金融术语，让理财变得没那么高深莫测 | 2026-08-04 | - |
+| Findex | https://usefindex.com | reddit | 用大白话解释晦涩难懂的金融术语，让理财变得没那么高深莫测 | 2026-08-04 | money-tools-for-finance-haters |
 | Foley | https://usefoley.dev | reddit | 无需任何音频文件，纯代码实时合成 28 种交互音效的轻量 JS 库 | 2026-08-04 | - |
 | Indo-European Explorer | https://indo-european-explorer.com/ | reddit | 互动图谱展示 400 多种语言如何从 6000 年前的一门语言分化而来 | 2026-08-04 | learn-by-poking-it |
 | S80 | https://s80.me/ | reddit | 同时测试到 Google、Amazon、Cloudflare 三大服务的网络延迟 | 2026-08-04 | - |
@@ -664,8 +664,8 @@
 | Beamtrace | https://www.beamtrace.com | twitter | 追踪 AI 搜索引擎和聊天机器人是否提及、推荐你的品牌 | 2026-08-07 | - |
 | Assay | https://runassay.app | twitter | 个人版 CRM，帮独立开发者和创作者维系人脉、不错过跟进 | 2026-08-07 | - |
 | Mocktomer | https://www.mocktomer.ai | twitter | 用 AI 模拟顾客身份逛你的网站，找出流失点并检测 AI 可见度 | 2026-08-07 | - |
-| StateTakeHome | https://statetakehome.com | twitter | 基于最新联邦和各州税率，精确计算美国50州税后到手工资 | 2026-08-07 | - |
-| CalcBoxer | https://www.calcboxer.com | twitter | 数百个免费在线计算器合集，涵盖金融、健康、工程、数学等场景 | 2026-08-07 | - |
+| StateTakeHome | https://statetakehome.com | twitter | 基于最新联邦和各州税率，精确计算美国50州税后到手工资 | 2026-08-07 | money-tools-for-finance-haters |
+| CalcBoxer | https://www.calcboxer.com | twitter | 数百个免费在线计算器合集，涵盖金融、健康、工程、数学等场景 | 2026-08-07 | money-tools-for-finance-haters |
 | Countly | https://www.endlessriver.xyz/countly | twitter | 帮跨境生活/工作者追踪各国停留天数，用于报税、签证合规 | 2026-08-07 | - |
 | I Am Bored | https://iambored.blog | twitter | 纯浏览器小游戏和趣味短读合集网站，无需下载和注册 | 2026-08-07 | - |
 | ScreenOtter | https://screenotter.com | twitter | 自动为每次点击添加缩放效果的录屏工具，无需后期剪辑 | 2026-08-07 | - |
@@ -701,7 +701,7 @@
 | Read the Water | https://read-the-water.netlify.app | hackernews | 用互动小游戏教授飞钓读水技巧的教育项目 | 2026-08-11 | - |
 | Glass Bottles | https://glassbottles.app | reddit | 匿名漂流瓶网站，写一条消息投入数字海洋，随机收到陌生人回信 | 2026-08-11 | - |
 | IndiePilot | https://indiepilot.app | reddit | 24小时监控Reddit帖子，AI打分匹配并生成回复草稿助独立开发者获客 | 2026-08-11 | - |
-| DefineYourDollars | https://defineyourdollars.com | reddit | 免费记账/预算管理工具 | 2026-08-11 | - |
+| DefineYourDollars | https://defineyourdollars.com | reddit | 免费记账/预算管理工具 | 2026-08-11 | money-tools-for-finance-haters |
 | Pug's Hunt | https://www.sanderdesnaijer.com/projects/pug-s-hunt-a-webcam-controlled-duck-hunt-built-with-hand-tracking | web | 摄像头手势追踪的浏览器版打鸭子游戏，手指比枪瞄准射击 | 2026-08-11 | - |
 | Woxi | https://woxi.ad-si.com | hackernews | 开源的 Mathematica/Wolfram 语言重新实现网页版 | 2026-08-14 | - |
 | FrontFamily | https://www.frontfamily.com/ | hackernews | 在 React、Vue、Angular、Svelte 等框架间转换 UI 组件的工具 | 2026-08-14 | - |
@@ -746,8 +746,28 @@
 | Session Recorder | https://sessionrecorder.com/ | web | 为音乐制作人持续录制电脑音频的"永不错过灵感"工具 | 2026-08-14 | - |
 | TasmoShelf | https://tasmoshelf.app | web | 面向智能家居爱好者的可视化管理与监控工具 | 2026-08-14 | - |
 | Cadre.rocks | https://cadre.rocks/ | web | 团队协作社区工具产品，偏向小型团队组织管理 | 2026-08-14 | - |
-| Blaze Money | https://blaze.money | web | 用 AI Agent 自动管理个人财务的理财工具 | 2026-08-14 | - |
+| Blaze Money | https://blaze.money | web | 已转型为面向企业/开发者的跨境代理支付平台（Money Without Borders），不再是个人理财工具，2026-08-18 复核时排除 | 2026-08-14 | - |
 | Recoverflow Retry Waste Calculator | https://recoverflow.org/tools/retry-waste-calculator/ | web | 帮企业审计 Stripe 支付重试造成的浪费成本，纯前端无需上传数据 | 2026-08-14 | - |
 | AI Slop Kitchen | https://play-kitchen.netlify.app/ | web | 围绕 AI 生成内容主题的讽刺趣味互动网页玩具 | 2026-08-14 | - |
 | Run Log | https://runlogapp.com/ | web | 简洁的跑步日志记录应用 | 2026-08-14 | - |
 | Hatch Index | https://hatchindex.com/ | reddit | 帮你查询哪家孵化场有你想要的特定家禽品种现货 | 2026-08-14 | - |
+| Desktopcolors | https://desktopcolors.com | hackernews | 收录经典操作系统自带纯色桌面背景的怀旧色板归档站 | 2026-08-18 | - |
+| Wild Static | https://wildstatic.com/ | hackernews | 共享型 AI 实验，所有用户与同一个具有跨会话记忆的 AI 实体对话 | 2026-08-18 | - |
+| Statuslin.es | https://statuslin.es | hackernews | Claude Code 状态栏脚本的社区画廊，可浏览预览分享自定义样式 | 2026-08-18 | - |
+| Write.md | https://writemd.app/ | hackernews | 可高度自定义外观的 macOS 本地 Markdown 编辑器，支持 Vim 模式不追踪数据 | 2026-08-18 | - |
+| Mic Drop | https://www.micdrop.gg/ | hackernews | 实时多人在线卡拉OK游戏网页版 | 2026-08-18 | - |
+| LuaCAD | https://luacad.ad-si.com | hackernews | 用 Lua 脚本编写参数化 CAD 模型的在线工具 | 2026-08-18 | - |
+| ThoughtDAG | https://chenxiachan.github.io/thoughtdag/ | hackernews | 可编辑的上下文有向图工具，整理可视化 LLM 对话思路分支 | 2026-08-18 | - |
+| Orbit Quote | https://orbitquote.com/ | hackernews | 简洁的在线报价单/合同生成工具，面向自由职业者和小型团队 | 2026-08-18 | - |
+| CoachAI | https://coachai.tech/ | producthunt | AI健身教练，用iPhone摄像头实时监测动作姿势和计数，设备端处理 | 2026-08-18 | - |
+| ModelHub | https://studio.consciousengines.com/ | producthunt | Mac菜单栏应用，一站式发现和管理本地LLM模型 | 2026-08-18 | - |
+| Zetik | https://zetik.ai | producthunt | AI 智能体团队 24/7 追踪播客论文代码推文，只推有价值的信号 | 2026-08-18 | - |
+| Hansel | https://hansel.so/ | twitter | 本地运行的Mac生产力工具，自动记录一天工作时间线帮助回忆 | 2026-08-18 | - |
+| Noyzzi | https://noyzzi.com/ | twitter | 互动设计效果与配套提示词的免费合集，可直接复制到 AI 工具复用 | 2026-08-18 | - |
+| Kane CLI | https://www.testmuai.com/kane-cli/ | twitter | 终端里用自然语言描述测试用例，在真实 Chrome 浏览器里验证 | 2026-08-18 | - |
+| Readeck | https://readeck.org | web | 极简自托管稍后读工具，Go 编写轻量快速，Pocket 开源替代品 | 2026-08-18 | - |
+| apps.fish | https://apps.fish | web | 波兰团队手工精选的独立小型网页应用清单，只收录回访率高的工具 | 2026-08-18 | - |
+| Hoppscotch | https://hoppscotch.io | web | 开源轻量级 API 调试工具，支持 REST/GraphQL/WebSocket | 2026-08-18 | - |
+| SubTrends | https://subtrends.io/ | reddit | 分析和追踪 10 万多个 subreddit 趋势数据的分析工具 | 2026-08-18 | - |
+| Energy Maps | https://energy-maps.com | reddit | 交互式地图展示美国各州 25 年家庭电费天然气费用变化 | 2026-08-18 | - |
+| Where the Shadow Fell | https://eclipses.bogachev.fr | reddit | 交互式可视化工具，展示跨越五千年近 1.2 万次日食的轨迹与规律 | 2026-08-18 | - |
