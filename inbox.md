@@ -259,7 +259,7 @@
 | Reassign | https://reassign.app | hackernews | 把 24 小时可视化成圆形形状的网页日程规划工具，拖动色块安排时间，支持 AI 重组日程 | 2026-05-29 | - |
 | Hallucinate | https://hallucinate.site | hackernews | 浏览器里的大型多人在线电子音乐派对，和全球陌生人共同沉浸在迷幻虚拟 rave 体验中 | 2026-05-29 | - |
 | AudioMass | https://audiomass.co | hackernews | 免费开源的浏览器端多轨音频编辑器，无需安装，支持无缝循环、静音修剪和多轨叠加 | 2026-05-29 | browser-art-studio |
-| Congress Trading Monitor | https://congress.kadoa.com | hackernews | 实时追踪美国国会议员每一笔股票交易的公民监督平台，数据透明可查 | 2026-05-29 | data-about-your-life |
+| Congress Trading Monitor | https://congress.kadoa.com | hackernews | 实时追踪美国国会议员每一笔股票交易的公民监督平台，数据透明可查 | 2026-05-29 | data-about-your-life, right-now |
 | own.page | https://own.page | producthunt | 无需代码的 link-in-bio 网站构建器，bento 瓦片布局打造专属个人主页，内置分析工具 | 2026-05-29 | - |
 | Unabyss | https://unabyss.com | producthunt | MCP 原生上下文管理层，连接 40+ 工具让 Claude/Cursor 等 AI 始终拥有最新项目上下文 | 2026-05-29 | - |
 | Orchestria | https://orchestria.tech | producthunt | 用自然语言指挥 AI 音乐家团队创作完整音轨，每个音轨单独可导出，商用免授权费 | 2026-05-29 | machines-that-make-stuff |
@@ -518,7 +518,7 @@
 | Jelly UI | https://jelly-ui.com | hackernews | 为原生 HTML 表单控件带来软体物理弹性效果的 UI 组件库 | 2026-07-21 | - |
 | Whim Files | https://whimfiles.com | hackernews | 极速原生 Mac 文件管理器，9MB 无 Electron，模糊搜索秒开 | 2026-07-21 | menu-bar-minimalists |
 | Lucid | https://lucid.earthpilot.ai | hackernews | 在 AI 回答前可视化并编辑其思考过程的 Web 工具 | 2026-07-21 | - |
-| Honeypot Live | https://honeypotlive.cc | hackernews | 实时观看机器人与 SSH 蜜罐交互过程的互联网安全可视化工具 | 2026-07-21 | - |
+| Honeypot Live | https://honeypotlive.cc | hackernews | 实时观看机器人与 SSH 蜜罐交互过程的互联网安全可视化工具 | 2026-07-21 | right-now |
 | Mindwalk | https://mindwalk.app | hackernews | 在代码库 3D 地图上回放 AI 编程代理会话的可视化工具 | 2026-07-21 | - |
 | Context.dev | https://context.dev | producthunt | 一站式网页数据 API，抓取任意 URL 为干净 Markdown 并提取品牌资产 | 2026-07-21 | - |
 | AgentKey | https://agentkey.app | producthunt | AI Agent 数据市场网关，单个 MCP 接入搜索/社媒/链上等 ~1800 个工具 | 2026-07-21 | - |
@@ -551,7 +551,7 @@
 | Golf Course Browser | https://golfcoursebrowser.com | hackernews | 一位高尔夫爱好者独立绘制的美国及加拿大 18000+ 高尔夫球场交互地图 | 2026-07-28 | - |
 | Sunflowers | https://sunflowersgame.com | hackernews | 把经典扫雷逻辑反过来玩的解谜游戏，靠数字线索种向日葵而非避雷 | 2026-07-28 | learn-by-poking-it |
 | Brolly | https://brolly.sh | hackernews | 全世界任意地点的天气预报，纯文字不用图表 | 2026-07-28 | - |
-| The Election Dashboard | https://theelectiondashboard.com | hackernews | 538 风格的以色列议会选举数据可视化仪表盘 | 2026-07-28 | - |
+| The Election Dashboard | https://theelectiondashboard.com | hackernews | 538 风格的以色列议会选举数据可视化仪表盘 | 2026-07-28 | right-now |
 | Dozenal | https://dozenal.game | hackernews | 以十二进制运算为核心玩法的每日数字解谜游戏 | 2026-07-28 | - |
 | Transistor Animations | https://brandonli.net | hackernews | 用交互式动画直观演示晶体管工作原理的教育向可视化网站 | 2026-07-28 | zoom-out-zoom-in, learn-by-poking-it |
 | HIIT Me Up | https://hiitmeup.fit | hackernews | 免费的浏览器端 HIIT 间歇训练计时器，带语音指导 | 2026-07-28 | - |
@@ -608,7 +608,7 @@
 | Kill The Cookie Banner | https://killthecookiebanner.eu/ | reddit | 推动欧盟用浏览器级隐私信号取代恼人 cookie 弹窗的倡导行动 | 2026-07-31 | - |
 | printme.money | https://printme.money | reddit | 输入薪资数字，纯前端动画打印机实时吐出对应现金叠钞，讽刺向小玩具 | 2026-07-31 | quizzes-that-know-too-much |
 | Jamboree | https://jamboree.space/ | twitter | 浏览器多人合成器，支持点对点联机和实时光标，可与人一起即兴演奏 | 2026-07-31 | - |
-| Overflight | https://dgrlabs.co/overflight/ | twitter | 实时天空雷达，识别头顶飞过的每一架飞机的航司、航班号和航线 | 2026-07-31 | - |
+| Overflight | https://dgrlabs.co/overflight/ | twitter | 实时天空雷达，识别头顶飞过的每一架飞机的航司、航班号和航线 | 2026-07-31 | right-now |
 | Prelint | https://prelint.com/ | twitter | 审查 AI Agent 编写的 PR 是否偏离产品需求文档，按次付费而非按席位 | 2026-07-31 | - |
 | Eel Slap | https://eelslap.com | web | 移动鼠标反复用鳗鱼抽打一个人的荒诞单一玩笑网站 | 2026-07-31 | - |
 | The Password Game | https://neal.fun/password-game/ | web | 设置密码要满足越来越离谱规则的喜剧向小游戏 | 2026-07-31 | - |
@@ -645,7 +645,7 @@
 | Hunted.space | https://hunted.space | web | 实时追踪 Product Hunt 产品排名和点赞速度的看板 | 2026-08-04 | - |
 | Silo | https://silo.pgsty.com | hackernews | 社区维护的 MinIO 分支，恢复完整 Web 控制台并持续发布安全补丁的 S3 兼容对象存储 | 2026-08-07 | - |
 | Vaytric Google Ads Lookup | https://vaytric.com/google-ads-lookup/ | hackernews | 免注册查询任意公司在 Google 广告透明中心投放的所有广告 | 2026-08-07 | - |
-| VeriSky Scoreboard | https://nickleenders.github.io/verisky-scoreboard/ | hackernews | 按过去30天温度、风力、降雨预测准确度给各大天气模型打分排名的看板 | 2026-08-07 | - |
+| VeriSky Scoreboard | https://nickleenders.github.io/verisky-scoreboard/ | hackernews | 按过去30天温度、风力、降雨预测准确度给各大天气模型打分排名的看板 | 2026-08-07 | right-now |
 | Skyline Co-op | https://intergalacticrobots.app/skyline-coop/ | hackernews | 类 SimTower 的高楼建造模拟游戏，玩家是被选举出的管理者而非逐利房东 | 2026-08-07 | - |
 | HN without AI | https://hn-without-ai.vercel.app/ | hackernews | 对 Hacker News 内容做降权处理，减少 AI 相关内容曝光的替代前端 | 2026-08-07 | - |
 | Laugh Labs | https://laugh.so | hackernews | 让多个前沿大模型比拼谁更幽默的竞技榜单 | 2026-08-07 | - |
@@ -727,7 +727,7 @@
 | Kubit | https://www.kubit.ai | producthunt | 将AI智能体行为与用户实际活动关联分析的产品分析平台 | 2026-08-14 | - |
 | Cerenovus | https://cerenovus.ai | producthunt | 自动识别企业工作流低效环节和资金损失的AI分析系统 | 2026-08-14 | - |
 | AdAnt AI | https://adant.ai/ | producthunt | 面向社交媒体的高转化率广告创意自动生成智能体 | 2026-08-14 | - |
-| Stowaway | https://stowaway.live/ | reddit | 实时查看头顶飞过的飞机或卫星，模拟坐在窗边俯瞰地面 | 2026-08-14 | - |
+| Stowaway | https://stowaway.live/ | reddit | 实时查看头顶飞过的飞机或卫星，模拟坐在窗边俯瞰地面 | 2026-08-14 | right-now |
 | Bingebuster | https://bingebuster.net/ | reddit | 把订阅的流媒体片库重新排列成复古录像店货架的样子 | 2026-08-14 | - |
 | Luna Space Simulator | https://luna.watermelonson.com/ | reddit | 浏览器里运行的太空探索模拟器，持续更新 | 2026-08-14 | - |
 | ShadeMap | https://shademap.app/ | reddit | 模拟任意时间地点的太阳阴影分布，可用于选房或规划 | 2026-08-14 | - |
@@ -771,3 +771,28 @@
 | SubTrends | https://subtrends.io/ | reddit | 分析和追踪 10 万多个 subreddit 趋势数据的分析工具 | 2026-08-18 | - |
 | Energy Maps | https://energy-maps.com | reddit | 交互式地图展示美国各州 25 年家庭电费天然气费用变化 | 2026-08-18 | - |
 | Where the Shadow Fell | https://eclipses.bogachev.fr | reddit | 交互式可视化工具，展示跨越五千年近 1.2 万次日食的轨迹与规律 | 2026-08-18 | - |
+| ScrollToll | https://getscrolltoll.app/ | producthunt | AI 运动验证型 App 拦截器，做完俯卧撑深蹲才能解锁刷手机时间 | 2026-08-21 | - |
+| Linforge | https://learn.aurakl.ai/ | producthunt | 把 Anki 单词卡变成真人感 AI 英语口语对话练习工具 | 2026-08-21 | - |
+| Equitybee Benchmark | https://equitybee.com/startup-equity-benchmark | producthunt | 免费查询 9000+ 创业公司真实股权授予数据的对比基准工具 | 2026-08-21 | - |
+| envfix | https://www.producthunt.com/products/envfix | producthunt | 一条命令诊断修复 Node.js 项目 .env 配置问题的 CLI 小工具 | 2026-08-21 | - |
+| Aegisora | https://aegisora-ai.vercel.app/ | producthunt | 面向 AI Agent 的安全控制平面，实时拦截工具调用防越权与数据泄露 | 2026-08-21 | - |
+| Blender Agent Bridge | https://www.producthunt.com/products/blender-agent-bridge | producthunt | 开源 MCP 桥接工具，让 AI 助手操作 Blender 三维场景 | 2026-08-21 | - |
+| soupof.life | https://soupof.life | reddit | 持续演化的数字生态系统，观察虚拟生物自主诞生、适应与消亡 | 2026-08-21 | - |
+| Travel Visa Stack | https://travelvisastack.com | reddit | 全球签证要求查询平台，含申根 90/180 天计算器 | 2026-08-21 | - |
+| Epstein Files Explorer | https://epsteinalysis.com | reddit | AI 解析百万页 Epstein 案卷宗，可视化交叉检索档案数据库 | 2026-08-21 | - |
+| Attention Worth | https://attentionworth.com | reddit | 计算你一生中被广告行业花费瞄准注意力的金额 | 2026-08-21 | - |
+| PlagScan Pro | https://plagscanpro.com | reddit | 免费无字数限制的在线抄袭检测工具 | 2026-08-21 | - |
+| BackendKit | https://backendkit.maheshpawar.me | reddit | 纯浏览器端运行的后端开发者工具箱，8 合 1 隐私优先 | 2026-08-21 | - |
+| MoveNumbers | https://movenumbers.com | reddit | 美国各城市生活成本对比工具，用真实数字评估搬家决策 | 2026-08-21 | - |
+| Impostiq | https://impostiq.github.io | reddit | 免费浏览器社交推理游戏，玩法类似"谁是卧底"找出隐藏间谍 | 2026-08-21 | - |
+| Timeslicer | https://www.timeslicer.app | reddit | AI 自动追踪任务并按实际内容而非网址智能拦截注意力分散 | 2026-08-21 | - |
+| Creabl | https://creabl.com/ | twitter | 一体化用户行为分析平台，整合热图、会话回放与转化优化 | 2026-08-21 | - |
+| Snackeet | https://www.snackeet.com/ | twitter | 仿 Instagram 故事形式打造互动网页内容，提升电商转化 | 2026-08-21 | - |
+| UpLink | https://www.producthunt.com/products/uplink-2 | twitter | AI 驱动的批量文件收集工具，服务会计师、律师和放贷机构 | 2026-08-21 | - |
+| Cloudhiker | https://cloudhiker.net | web | 随机发现互联网上小众有趣冷门网站的浏览器书签工具 | 2026-08-21 | - |
+| Rooms | https://rooms.xyz | web | 3D 互动房间创作平台，可创建、探索和 remix 他人作品 | 2026-08-21 | - |
+| Refind | https://refind.com | web | 每日精选深度好文，AI 算法加人工双重筛选的阅读推荐 | 2026-08-21 | - |
+| HN Arcade | https://hnarcade.com | web | 收录 Hacker News 上出现过的独立小游戏合集发现平台 | 2026-08-21 | - |
+| hckr news | https://hckrnews.com | web | 按时间顺序展示热帖的 Hacker News 非官方简洁替代界面 | 2026-08-21 | - |
+| National Grid: Live | https://grid.iamkate.com | web | 实时展示英国电网电价、碳排放和发电结构的可视化仪表盘 | 2026-08-21 | right-now |
+| Blitzortung Lightning Map | https://lightningmaps.org | web | 志愿者众包运营的全球实时闪电打击地图 | 2026-08-21 | right-now |
