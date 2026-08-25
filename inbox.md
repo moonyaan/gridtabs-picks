@@ -187,7 +187,7 @@
 | Settle It | https://settleit.now | hackernews | 秒速生成可分享投票链接，无需注册，解决群聊里的集体决策难题 | 2026-03-06 | - |
 | Zenodot | https://www.zenodot.app/ | hackernews | 搜任意书名，找到它在世界各语言的所有翻译版本 | 2026-03-10 | data-about-your-life |
 | DopaLoop | https://dopaloop.app/ | hackernews | 专为 ADHD 人群设计的习惯追踪器，无惩罚性连击，目标优先，数据本地存储 | 2026-03-10 | focused-life, data-about-your-life |
-| Kind Voice Notes | https://kindvoicenotes.com/ | hackernews | 给陌生人录一段善意语音留言，或收听别人为你留下的温暖话语 | 2026-03-10 | - |
+| Kind Voice Notes | https://kindvoicenotes.com/ | hackernews | 给陌生人录一段善意语音留言，或收听别人为你留下的温暖话语 | 2026-03-10 | say-it-let-it-go |
 | TinyChart | https://tinychart.io/ | hackernews | 粘贴 CSV 数据，一秒生成可分享的图表链接，无需注册 | 2026-03-10 | - |
 | Ratschn | https://ratschn.com/ | hackernews | Mac 本地离线语音转文字工具，Rust + CoreML 构建，完全不联网 | 2026-03-10 | - |
 | WolfStack | https://wolfscale.org/ | hackernews | 单个 Rust 二进制文件搞定所有服务器管理，VM/Docker/存储/网络一个仪表盘全覆盖 | 2026-03-10 | - |
@@ -215,7 +215,7 @@
 | Cardboard | https://usecardboard.com | hackernews | AI 驱动的浏览器视频编辑器，用自然语言指令剪辑，被称为"视频的 Cursor" | 2026-03-20 | make-it-beautiful |
 | SVG Backgrounds | https://www.svgbackgrounds.com | hackernews | 48 套可定制免费 SVG 背景图案库，设计师和开发者的快速素材神器 | 2026-03-20 | make-it-beautiful |
 | Oku | https://oku.io | hackernews | 将 Reddit、YouTube、HN、RSS 聚合到无算法仪表板的信息过滤工具 | 2026-03-20 | - |
-| Dear Aliens | https://www.dearaliens.net | hackernews | 征集人类写给即将到来外星人的创意信件，最佳作品获 $2000 奖励 | 2026-03-20 | - |
+| Dear Aliens | https://www.dearaliens.net | hackernews | 征集人类写给即将到来外星人的创意信件，最佳作品获 $2000 奖励 | 2026-03-20 | say-it-let-it-go |
 | Poppy | https://poppy-connection-keeper.netlify.app | hackernews | 用花园比喻管理人际关系的轻量提醒工具，温和无压力联系重要的人 | 2026-03-20 | data-about-your-life |
 | Prism.Tools | https://blgardner.github.io/prism.tools/ | hackernews | 浏览器内 38+ 开发者工具合集，数据本地处理，零追踪零广告完全免费 | 2026-03-20 | - |
 | HTMLPub | https://htmlpub.com | producthunt | 粘贴 HTML 或接入 AI 即可 10 秒发布在线页面，支持 MCP/API 直接调用 | 2026-03-20 | - |
@@ -323,9 +323,9 @@
 | GifCities | https://gifcities.org | reddit | 搜索 160 万+ 来自 GeoCities 时代的复古动态 GIF | 2026-06-12 | browser-nostalgia |
 | A Soft Murmur | https://asoftmurmur.com | reddit | 自由混合雨声/雷声/海浪等环境音，专注助眠神器 | 2026-06-12 | sound-travel |
 | Pointer Pointer | https://pointerpointer.com | reddit | 把鼠标放任意位置，自动找到一张有人指着该位置的照片 | 2026-06-12 | browser-playground |
-| Scream Into the Void | https://screamintothevoid.com | reddit | 输入文字，网站帮你对虚空大声呐喊，解压神器 | 2026-06-12 | internet-absurdism |
+| Scream Into the Void | https://screamintothevoid.com | reddit | 输入文字，网站帮你对虚空大声呐喊，解压神器 | 2026-06-12 | internet-absurdism, say-it-let-it-go |
 | Gnoosic | https://gnoosic.com | reddit | 输入喜欢的乐队，智能推荐可能喜欢的新音乐 | 2026-06-12 | - |
-| Pixel Thoughts | https://pixelthoughts.co | reddit | 60秒冥想工具，把烦恼写下来看它消失在宇宙中 | 2026-06-12 | browser-playground |
+| Pixel Thoughts | https://pixelthoughts.co | reddit | 60秒冥想工具，把烦恼写下来看它消失在宇宙中 | 2026-06-12 | browser-playground, say-it-let-it-go |
 | OpenCode | https://opencode.ai | twitter | 开源 AI 编程 agent，终端原生，支持任意 IDE 集成 | 2026-06-12 | - |
 | Locu | https://locu.app | twitter | 开发者专用专注计时 + 任务管理 + 笔记一体工具，90 分钟深度工作制 | 2026-06-12 | - |
 | Cartesia Sonic | https://cartesia.ai | twitter | 实时 TTS API，延迟 <90ms，42 种语言，专为 AI voice agent 打造 | 2026-06-12 | - |
@@ -366,7 +366,7 @@
 | Mailwarm | https://mailwarm.com | producthunt | 邮件发件信誉热身工具，通过 5 万个真实收件箱的自动互动，避免邮件落入垃圾箱 | 2026-06-23 | - |
 | Is Hormuz Open Yet? | https://www.ishormuzopenyet.com | hackernews | 实时追踪霍尔木兹海峡通航状态的单问题网站，极简设计答是否题 | 2026-06-23 | internet-absurdism |
 | HackerTyper | https://hackertyper.net | web | 打字就变身好莱坞黑客，随机代码滚屏配合键盘敲击，超逼真装入侵系统体验 | 2026-06-26 | internet-absurdism |
-| FutureMe | https://www.futureme.org | web | 给未来自己写信的时间胶囊服务，设定日期让邮件在若干年后送达 | 2026-06-26 | - |
+| FutureMe | https://www.futureme.org | web | 给未来自己写信的时间胶囊服务，设定日期让邮件在若干年后送达 | 2026-06-26 | say-it-let-it-go |
 | The True Size Of | https://www.thetruesize.com | web | 拖动国家到不同纬度对比真实面积，揭穿墨卡托投影造成的大小错觉 | 2026-06-26 | the-map-is-the-point, zoom-out-zoom-in |
 | GeoGuessr | https://www.geoguessr.com | web | 随机掉落到 Google 街景，猜测你在世界哪个角落的地理侦探游戏 | 2026-06-26 | daily-one-tab-games |
 | Quick, Draw! | https://quickdraw.withgoogle.com | web | Google 神经网络猜画游戏，20 秒内看 AI 能否识别你的涂鸦 | 2026-06-26 | mouse-made-magic |
@@ -570,7 +570,7 @@
 | Cito | https://cito.fim.ai | twitter | 面向学术论文的语义搜索引擎，按含义而非关键词匹配检索文献 | 2026-07-28 | - |
 | Wealtii | https://wealtii.com | twitter | 面向普通用户的数字资产指数基金投资平台，最低10美元起投 | 2026-07-28 | money-tools-for-finance-haters |
 | WebImage Maker '97 | https://pieter.com/~pieter/ | twitter | Pieter Levels 用复古 Windows 3.11/Netscape 风格打造的个人怀旧实验乐园 | 2026-07-28 | - |
-| sleepscroll | https://sleepscroll.tiiny.site | reddit | 反向刷手机体验，无尽滚动的夜空，没有点赞没有通知没有算法 | 2026-07-28 | - |
+| sleepscroll | https://sleepscroll.tiiny.site | reddit | 反向刷手机体验，无尽滚动的夜空，没有点赞没有通知没有算法（2026-08-25 存活检查：已下线，S3 404/NoSuchKey） | 2026-07-28 | - |
 | Internet History Roulette | https://internethistoryroulette.com | reddit | 转动轮盘随机跳转到 Wayback Machine 存档的 90-2000 年代老网站 | 2026-07-28 | - |
 | Universe Atlas | https://universeatlas.org | reddit | 一个真实比例的宇宙地图，可以从质子内部一路缩放到宇宙网状结构 | 2026-07-28 | zoom-out-zoom-in |
 | Babel | https://babel.reppie.org | reddit | 把维基百科每一次编辑变成一块砖，每天生成一座不断长高的摩天大楼 | 2026-07-28 | - |
@@ -578,7 +578,7 @@
 | Lowtein | https://lowtein.com | reddit | 用政府数据核实超市促销价是否真的低于当地历史均价 | 2026-07-28 | - |
 | Escherllate | http://escherllate.app | reddit | 一个镶嵌图案素描本，在一块瓷砖上画画会自动同步到所有拼接瓷砖上 | 2026-07-28 | mouse-made-magic |
 | Ohayo World | https://www.ohayoworld.com | reddit | 实时显示地球昼夜分界线，以及此刻正经历日出的人口数量的动态地球仪 | 2026-07-28 | zoom-out-zoom-in |
-| Uncovered | https://uncovered.ink | reddit | 不看书名和封面，随机滚动浏览各种书籍开篇样章 | 2026-07-28 | - |
+| Uncovered | https://uncovered.ink | reddit | 不看书名和封面，随机滚动浏览各种书籍开篇样章 | 2026-07-28 | say-it-let-it-go |
 | Wiki Spy | https://neal.fun/wiki-spy/ | reddit | 从维基百科图片里抠出物体做成的无限可搜索大家来找茬拼贴游戏 | 2026-07-28 | - |
 | GitFut | https://gitfut.com | reddit | 把 GitHub 个人资料转换成 FIFA 风格球员卡，用真实提交数据生成能力值 | 2026-07-28 | quizzes-that-know-too-much |
 | Taylor Detector | https://www.taylordetector.com | reddit | 扫描条形码即可查询商品是否属于 Taylor Farms 品牌或其子公司 | 2026-07-28 | - |
@@ -699,7 +699,7 @@
 | Consciousness Library | https://consciousnesslibrary.org | hackernews | 致幻剂研究论文开放数据库 | 2026-08-11 | - |
 | Sound Tone Generator | https://soundtonegenerator.com | hackernews | 简洁在线音频音调生成与测试工具 | 2026-08-11 | - |
 | Read the Water | https://read-the-water.netlify.app | hackernews | 用互动小游戏教授飞钓读水技巧的教育项目 | 2026-08-11 | - |
-| Glass Bottles | https://glassbottles.app | reddit | 匿名漂流瓶网站，写一条消息投入数字海洋，随机收到陌生人回信 | 2026-08-11 | - |
+| Glass Bottles | https://glassbottles.app | reddit | 匿名漂流瓶网站，写一条消息投入数字海洋，随机收到陌生人回信 | 2026-08-11 | say-it-let-it-go |
 | IndiePilot | https://indiepilot.app | reddit | 24小时监控Reddit帖子，AI打分匹配并生成回复草稿助独立开发者获客 | 2026-08-11 | - |
 | DefineYourDollars | https://defineyourdollars.com | reddit | 免费记账/预算管理工具 | 2026-08-11 | money-tools-for-finance-haters |
 | Pug's Hunt | https://www.sanderdesnaijer.com/projects/pug-s-hunt-a-webcam-controlled-duck-hunt-built-with-hand-tracking | web | 摄像头手势追踪的浏览器版打鸭子游戏，手指比枪瞄准射击 | 2026-08-11 | - |
@@ -796,3 +796,18 @@
 | hckr news | https://hckrnews.com | web | 按时间顺序展示热帖的 Hacker News 非官方简洁替代界面 | 2026-08-21 | - |
 | National Grid: Live | https://grid.iamkate.com | web | 实时展示英国电网电价、碳排放和发电结构的可视化仪表盘 | 2026-08-21 | right-now |
 | Blitzortung Lightning Map | https://lightningmaps.org | web | 志愿者众包运营的全球实时闪电打击地图 | 2026-08-21 | right-now |
+| Skylens | https://skylens.yantraai.app/ | hackernews | 实时 3D 卫星追踪器，附带解密的 UFO 档案数据 | 2026-08-25 | - |
+| WhoDunnitAI | https://www.whodunnitai.com/ | hackernews | AI 嫌疑人驱动的语音互动谋杀悬疑推理游戏 | 2026-08-25 | - |
+| Flag Quizzes | https://flagquizzes.com/ | hackernews | 各国国旗知识问答学习小游戏 | 2026-08-25 | - |
+| So Very Bright | https://www.soverybright.com/ | hackernews | 让 Logo 在 HDR 屏幕上极致发光的小工具 | 2026-08-25 | - |
+| Rotor Reflect | https://static.laszlokorte.de/rotor-reflect/ | hackernews | 用双重反射演示旋转原理的交互式可视化玩具 | 2026-08-25 | - |
+| ModelMap | https://modelmap.cc | hackernews | HuggingFace 模型架构的交互式动画可视化网站 | 2026-08-25 | - |
+| Roveri | https://roveri.app/ | producthunt | 记录每一次骑行轨迹并绘制成地图的 iPhone 骑行日志应用 | 2026-08-25 | - |
+| NobodyWho | https://nobodywho.ooo/ | producthunt | 让开发者在任意设备本地运行大语言模型的开源推理引擎 | 2026-08-25 | - |
+| Claudebin | https://claudebin.com | reddit | 把 Claude AI 会话导出为可分享链接的小工具 | 2026-08-25 | - |
+| GetCalculation | https://getcalculation.com | reddit | 197 种以上免费在线计算器合集，涵盖数学物理金融 | 2026-08-25 | - |
+| Scribe | https://scribe-web-inky.vercel.app | reddit | 极简语音转文字笔记网页应用，无需登录 | 2026-08-25 | - |
+| Dwitter | https://www.dwitter.net/ | web | 用不超过140字符的JavaScript代码创作动态视觉效果的极客社区 | 2026-08-25 | - |
+| Shadertoy | https://www.shadertoy.com/ | web | 在浏览器里编写和分享GLSL着色器的创作与展示平台 | 2026-08-25 | - |
+| Nicky Case | https://ncase.me/ | web | 互动式科普网页合集，把复杂议题变成可玩的小实验 | 2026-08-25 | - |
+| Blue Ball Machine | https://www.chubbybots.com/ | web | 无限循环的蓝色小球在鲁布·戈德堡式机关中穿梭，治愈系解压动画 | 2026-08-25 | - |
