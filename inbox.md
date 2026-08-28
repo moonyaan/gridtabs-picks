@@ -216,7 +216,7 @@
 | SVG Backgrounds | https://www.svgbackgrounds.com | hackernews | 48 套可定制免费 SVG 背景图案库，设计师和开发者的快速素材神器 | 2026-03-20 | make-it-beautiful |
 | Oku | https://oku.io | hackernews | 将 Reddit、YouTube、HN、RSS 聚合到无算法仪表板的信息过滤工具 | 2026-03-20 | - |
 | Dear Aliens | https://www.dearaliens.net | hackernews | 征集人类写给即将到来外星人的创意信件，最佳作品获 $2000 奖励 | 2026-03-20 | say-it-let-it-go |
-| Poppy | https://poppy-connection-keeper.netlify.app | hackernews | 用花园比喻管理人际关系的轻量提醒工具，温和无压力联系重要的人 | 2026-03-20 | data-about-your-life |
+| Poppy | https://poppy-connection-keeper.netlify.app | hackernews | 用花园比喻管理人际关系的轻量提醒工具，温和无压力联系重要的人 | 2026-03-20 | data-about-your-life, things-youre-quietly-responsible-for |
 | Prism.Tools | https://blgardner.github.io/prism.tools/ | hackernews | 浏览器内 38+ 开发者工具合集，数据本地处理，零追踪零广告完全免费 | 2026-03-20 | - |
 | HTMLPub | https://htmlpub.com | producthunt | 粘贴 HTML 或接入 AI 即可 10 秒发布在线页面，支持 MCP/API 直接调用 | 2026-03-20 | - |
 | Ensemble | https://ensemblewriter.com | hackernews | 现代化剧本写作工具，行业标准格式加实时协作与 AI 辅助镜头分析 | 2026-03-20 | machines-that-make-stuff |
@@ -360,7 +360,7 @@
 | boringBar | https://boringbar.app | hackernews | macOS Dock 替代品，用 Windows 任务栏风格管理多桌面窗口，一目了然不混乱 | 2026-06-23 | - |
 | API to MCP | https://apitomcp.ai | producthunt | 把任意 REST/GraphQL API 一键转成托管 MCP 服务器，让 Claude、Cursor 等 AI 直接调用 | 2026-06-23 | - |
 | VidStudio | https://vidstudio.app | hackernews | 免费浏览器端视频编辑器，无需上传无需注册，视频全程本地处理保护隐私 | 2026-06-23 | - |
-| Upkeep Nest | https://upkeepnest.com | hackernews | 房屋维护任务追踪器，智能排期季节性任务，多房产共享，不再忘记换滤芯清理天沟 | 2026-06-23 | - |
+| Upkeep Nest | https://upkeepnest.com | hackernews | 房屋维护任务追踪器，智能排期季节性任务，多房产共享，不再忘记换滤芯清理天沟 | 2026-06-23 | things-youre-quietly-responsible-for |
 | Blogosphere | https://text.blogosphere.app | hackernews | 独立博客聚合器，按时间顺序展示个人博主的最新文章，找回独立 Web 的阅读感 | 2026-06-23 | - |
 | OpenWorkers | https://openworkers.com | hackernews | 开源自托管 Cloudflare Workers 运行时，用 V8 隔离在自己的基础设施上执行 JavaScript | 2026-06-23 | - |
 | Mailwarm | https://mailwarm.com | producthunt | 邮件发件信誉热身工具，通过 5 万个真实收件箱的自动互动，避免邮件落入垃圾箱 | 2026-06-23 | - |
@@ -405,7 +405,7 @@
 | superlog | https://superlog.sh | producthunt | 开发者日志可视化平台，实时流式日志加智能过滤和告警 | 2026-06-26 | - |
 | Replicas | https://tryreplicas.com | producthunt | AI 角色扮演平台，创建并与个性化 AI 角色深度对话 | 2026-06-26 | - |
 | SocialEcho 2.0 | https://www.socialecho.net | producthunt | 社交媒体内容日历和跨平台发布工具，适合个人创作者 | 2026-06-26 | - |
-| Honestly | https://usehonestly.com | producthunt | 匿名团队反馈工具，用结构化问卷收集真实内部意见 | 2026-06-26 | - |
+| Honestly | https://usehonestly.com | producthunt | 匿名团队反馈工具，用结构化问卷收集真实内部意见 | 2026-06-26 | things-youre-quietly-responsible-for |
 | BrowserAct | https://www.browseract.com | producthunt | AI 浏览器自动化平台，用自然语言让 AI 控制浏览器完成任务 | 2026-06-26 | - |
 | Jesse | https://agentjesse.ai | producthunt | 具有持久记忆的个人 AI 助手，跨会话记住你的偏好和工作习惯 | 2026-06-26 | - |
 | Vaani | https://vaani.media | producthunt | 多语言 AI 语音内容平台，将文字内容转化为播客级音频 | 2026-06-26 | - |
@@ -512,7 +512,7 @@
 | SHRTCTS | https://shrtcts.click | web | 交互式3D键盘快捷键参考，悬停动作键盘亮起对应按键，覆盖20+工具 | 2026-07-17 | - |
 | Yamanote.fun | https://yamanote.fun | hackernews | 浏览器30分钟重现东京山手线30站声景，站台旋律+报站音+车门声 | 2026-07-17 | sound-travel |
 | GlassKit | https://glasskit.app | web | Meta Ray-Ban智能眼镜应用开发工具链，44个React组件+AI生成Studio | 2026-07-17 | - |
-| LastShelf | https://lastshelf.ai | hackernews | 数字遗产规划平台，帮你整理账户密码保险遗愿生成家人可操作指南 | 2026-07-17 | - |
+| LastShelf | https://lastshelf.ai | hackernews | 数字遗产规划平台，帮你整理账户密码保险遗愿生成家人可操作指南 | 2026-07-17 | things-youre-quietly-responsible-for |
 | Homegames | https://homegames.io | hackernews | 开源浏览器游戏平台，网页内创作和联机，GPLv3保证游戏永久可访问 | 2026-07-17 | - |
 | Fading Maize | https://fadingmaize.com | hackernews | 2001年大学乐队在25年后用AI重新制作并发布的音乐时光机档案 | 2026-07-17 | - |
 | Jelly UI | https://jelly-ui.com | hackernews | 为原生 HTML 表单控件带来软体物理弹性效果的 UI 组件库 | 2026-07-21 | - |
@@ -652,7 +652,7 @@
 | VoiceDuel | https://voiceduel.com/ | hackernews | 盲测形式的语音大模型竞技场，用户与不同语音 AI 实时对话并投票 | 2026-08-07 | - |
 | ScaleQuest | https://scalequest.io/ | hackernews | 用闯关式任务学习系统设计的教育平台 | 2026-08-07 | - |
 | Draw.How | https://draw.how/ | hackernews | 免注册的在线学画教程，内置画布配合虚线引导和个性化反馈 | 2026-08-07 | - |
-| Noah AI | https://heynoah.io/ | producthunt | AI 私人执行助理，帮创始人管理日程、人脉跟进和邮件回复 | 2026-08-07 | - |
+| Noah AI | https://heynoah.io/ | producthunt | AI 私人执行助理，帮创始人管理日程、人脉跟进和邮件回复 | 2026-08-07 | things-youre-quietly-responsible-for |
 | AgentSky | https://agentsky.dev | producthunt | 托管式 AI 智能体平台，一键启动7x24运行的智能体，可跨多渠道调用 | 2026-08-07 | - |
 | Ctruh Studio | https://www.ctruh.com/products/studio | producthunt | 无代码平台，用于创建交互式 3D 和 AR 电商购物体验 | 2026-08-07 | - |
 | NextDoor.Company | https://www.nextdoor.company/ | producthunt | 用交互地图展示创业公司招聘信息，帮助求职者发现附近正在招聘的公司 | 2026-08-07 | - |
@@ -660,9 +660,9 @@
 | Acti | https://www.openacti.com | producthunt | 能理解你意图并主动触发跨应用操作的智能体键盘 | 2026-08-07 | - |
 | Fypro | https://www.fypro.ai | producthunt | 把 TikTok 粉丝转化为付费用户的 AI 增长引擎 | 2026-08-07 | - |
 | Pinggy | https://pinggy.io | twitter | 一键把本地服务映射成公网 HTTPS 链接，无需安装任何客户端 | 2026-08-07 | - |
-| Kinu | https://kinu.care | twitter | 私密的人际关系记录本，帮你记住亲友的生日、重要时刻 | 2026-08-07 | - |
+| Kinu | https://kinu.care | twitter | 私密的人际关系记录本，帮你记住亲友的生日、重要时刻 | 2026-08-07 | things-youre-quietly-responsible-for |
 | Beamtrace | https://www.beamtrace.com | twitter | 追踪 AI 搜索引擎和聊天机器人是否提及、推荐你的品牌 | 2026-08-07 | - |
-| Assay | https://runassay.app | twitter | 个人版 CRM，帮独立开发者和创作者维系人脉、不错过跟进 | 2026-08-07 | - |
+| Assay | https://runassay.app | twitter | 个人版 CRM，帮独立开发者和创作者维系人脉、不错过跟进 | 2026-08-07 | things-youre-quietly-responsible-for |
 | Mocktomer | https://www.mocktomer.ai | twitter | 用 AI 模拟顾客身份逛你的网站，找出流失点并检测 AI 可见度 | 2026-08-07 | - |
 | StateTakeHome | https://statetakehome.com | twitter | 基于最新联邦和各州税率，精确计算美国50州税后到手工资 | 2026-08-07 | money-tools-for-finance-haters |
 | CalcBoxer | https://www.calcboxer.com | twitter | 数百个免费在线计算器合集，涵盖金融、健康、工程、数学等场景 | 2026-08-07 | money-tools-for-finance-haters |
@@ -720,7 +720,7 @@
 | Unsloth Desktop | https://unsloth.ai | producthunt | 可在本地桌面运行和训练AI模型的桌面应用 | 2026-08-14 | - |
 | Tines | https://tines.com | producthunt | 面向AI智能体应用和自动化流程的安全运行环境 | 2026-08-14 | - |
 | bb | https://getbb.app | producthunt | 可自我控制、自定义和自动化的AI编程IDE，支持多个AI模型协同工作 | 2026-08-14 | - |
-| Continuum | https://roland.leth.ro/projects/continuum | producthunt | 面向管理者的macOS私密笔记应用，记录团队成员观察并追踪成长轨迹 | 2026-08-14 | - |
+| Continuum | https://roland.leth.ro/projects/continuum | producthunt | 面向管理者的macOS私密笔记应用，记录团队成员观察并追踪成长轨迹 | 2026-08-14 | things-youre-quietly-responsible-for |
 | Vizard Agent | https://agent.vizard.ai | producthunt | 一站式AI视频智能体，可完成剪辑生成与本地化多语言配音 | 2026-08-14 | - |
 | Bullet | https://codewithbullet.com | producthunt | 主打速度的YC背景编程智能体，通过路由分级模型和并行执行大幅提速 | 2026-08-14 | - |
 | Capacity | https://capacity.so | producthunt | 用自然语言描述即可生成可上线运营的完整应用的无代码搭建平台 | 2026-08-14 | - |
@@ -811,3 +811,16 @@
 | Shadertoy | https://www.shadertoy.com/ | web | 在浏览器里编写和分享GLSL着色器的创作与展示平台 | 2026-08-25 | - |
 | Nicky Case | https://ncase.me/ | web | 互动式科普网页合集，把复杂议题变成可玩的小实验 | 2026-08-25 | - |
 | Blue Ball Machine | https://www.chubbybots.com/ | web | 无限循环的蓝色小球在鲁布·戈德堡式机关中穿梭，治愈系解压动画 | 2026-08-25 | - |
+| PicoMQ | https://picomq.com/ | hackernews | 基于 S3 对象存储的 HTTP 持久化流处理平台，无需专用磁盘即可无限扩展数据流 | 2026-08-28 | - |
+| OzBrain | https://ozbrain.com | hackernews | 连接 Claude、ChatGPT、Cursor 等多个 AI 助手的共享知识库，让团队和智能体始终基于同一份最新信息工作 | 2026-08-28 | - |
+| GlassBox | https://glassbox.codecanary.org | hackernews | 浏览器指纹检测工具，本地运行 Canvas/WebGL/音频等探测技术并给出可识别度评分 | 2026-08-28 | - |
+| Pause | https://joinpause.co/ | hackernews | 面向伦敦职场人士的线下匹配网络，提供咖啡闲聊、技能交换和安静共享办公空间 | 2026-08-28 | - |
+| TeXbrain | https://swimmingbrain.github.io/texbrain/ | hackernews | 基于 WebAssembly 在浏览器中运行 pdfTeX 的在线 LaTeX 编辑器 | 2026-08-28 | - |
+| Thoreau BASIC | https://tarjan.itch.io/thoreaubasic | hackernews | 可直接从 UEFI 固件启动的 BASIC 解释器，无需操作系统 | 2026-08-28 | - |
+| LatticeDB | https://github.com/jeffhajewski/latticedb | hackernews | 追求 SQLite 般简洁可移植性的图数据库系统 | 2026-08-28 | - |
+| Techno Machine in One HTML File | https://ssx360.github.io/rack-02/ | hackernews | 单个 HTML 文件实现的可验证音频渲染合成器 | 2026-08-28 | - |
+| Restoredrill | https://github.com/ahmadpiran/restoredrill | hackernews | 验证 Postgres 备份是否能真正成功恢复的自动化工具 | 2026-08-28 | - |
+| RealDiff | https://github.com/issacnitin/RealDiff | hackernews | 跨语言的 PR 运行时行为对比工具，检测代码变更的实际执行差异 | 2026-08-28 | - |
+| Cursor Camp | https://neal.fun/cursor-camp/ | web | 无聊天无用户名的多人在线小天地，访客只以光标形式出现，一起探索露营地、游泳、跳舞 | 2026-08-28 | - |
+| Internet Roadtrip | https://neal.fun/internet-roadtrip/ | web | 全网投票驾驶一辆虚拟汽车在谷歌街景中穿越北美，2025年上线后持续爆火的集体互动实验 | 2026-08-28 | - |
+| Sandspiel | https://sandspiel.club/ | web | 沙粒像素物理模拟器，可与朋友实时共享同一个沙盘世界 | 2026-08-28 | - |

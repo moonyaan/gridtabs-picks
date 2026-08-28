@@ -2638,5 +2638,84 @@
         }
       }
     ]
+  },
+  {
+    "slug": "things-youre-quietly-responsible-for",
+    "title": {
+      "en": "Things You're Quietly Responsible For",
+      "zh-CN": "你默默扛着的这些责任"
+    },
+    "description": {
+      "en": "Eight tools for the unglamorous work of not letting people down: texts you meant to send, growth you're tracking, gutters that leak when forgotten.",
+      "zh-CN": "这里没有效率工具带来的成就感，只有八个帮你不辜负别人的小工具——那个你一直想回消息的朋友、那个你该记录成长的同事、还有那个没人注意直到堵了才想起来的排水沟。"
+    },
+    "date": "2026-08-28",
+    "coverImage": "coverImage34.jpg",
+    "sites": [
+      {
+        "name": "Kinu",
+        "url": "https://kinu.care",
+        "description": {
+          "en": "Remembers birthdays before you forget — a quiet ledger for people you love, not a networking CRM.",
+          "zh-CN": "记住「我肯定不会忘」的生日和小细节，快忘时提醒你——不是拓展人脉，是记着你爱的人。"
+        }
+      },
+      {
+        "name": "LastShelf",
+        "url": "https://lastshelf.ai",
+        "description": {
+          "en": "Passwords, wishes, insurance — turned into a guide your family can actually follow.",
+          "zh-CN": "密码、遗愿、保险要怎么交代？变成一份家人真能照着做的指南。"
+        }
+      },
+      {
+        "name": "Honestly",
+        "url": "https://usehonestly.com",
+        "description": {
+          "en": "Responsible for a team means you're often last to hear the truth. This gets it to you anonymously.",
+          "zh-CN": "对团队负责，却总最后一个听到真话？用匿名方式让大家真正告诉你。"
+        }
+      },
+      {
+        "name": "Assay",
+        "url": "https://runassay.app",
+        "description": {
+          "en": "A personal CRM for the guilt of solo founders — people you meant to follow up with, slipping away.",
+          "zh-CN": "独立开发者特有的愧疚：想跟进却没跟进的人，一条条悄悄溜走。"
+        }
+      },
+      {
+        "name": "Continuum",
+        "url": "https://roland.leth.ro/projects/continuum",
+        "description": {
+          "en": "For managers serious about watching someone grow — notes so their progress outlives your memory.",
+          "zh-CN": "认真对待「看着一个人成长」——记下私密笔记，不再只靠模糊记忆。"
+        }
+      },
+      {
+        "name": "Poppy",
+        "url": "https://poppy-connection-keeper.netlify.app",
+        "description": {
+          "en": "A garden that wilts when you've gone quiet on someone — the gentlest guilt trip, zero pressure.",
+          "zh-CN": "一座在你冷落某人时悄悄枯萎的花园，零压力提醒你该联系了。"
+        }
+      },
+      {
+        "name": "Noah AI",
+        "url": "https://heynoah.io",
+        "description": {
+          "en": "When responsibility means six unanswered replies — an assistant that clears the backlog first.",
+          "zh-CN": "日程、跟进、欠着六个人的回复——悄悄清掉积压，别等它变危机。"
+        }
+      },
+      {
+        "name": "Upkeep Nest",
+        "url": "https://upkeepnest.com",
+        "description": {
+          "en": "The literal version: schedules seasonal home upkeep before the filter becomes a leak.",
+          "zh-CN": "房子不会提醒你该换滤芯——先安排好季节性维护，别等漏水。"
+        }
+      }
+    ]
   }
 ]
