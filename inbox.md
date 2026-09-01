@@ -374,7 +374,7 @@
 | Passweird | https://www.passweird.com | web | 生成奇葩但好记的密码，把安全要求变成一门艺术 | 2026-06-26 | internet-absurdism |
 | Find the Invisible Cow | https://findtheinvisiblecow.com | web | 移动鼠标寻找隐形奶牛，声音越大越近，极简纯粹的找东西游戏 | 2026-06-26 | internet-absurdism |
 | Zombo.com | https://zombo.com | web | 互联网著名梗站，庄重告诉你"你能做任何事"，永恒的网络迷你迷因 | 2026-06-26 | internet-absurdism |
-| Immersive Garden | https://immersive-g.com | web | 法国创意工作室的沉浸式数字体验，顶级 WebGL 视觉艺术 | 2026-06-26 | browser-art-studio |
+| Immersive Garden | https://immersive-g.com | web | 法国创意工作室的沉浸式数字体验，顶级 WebGL 视觉艺术 | 2026-06-26 | browser-art-studio, walk-into-website |
 | NeonFlames | https://neonflames.com | web | 在黑色画布上绘制霓虹火焰艺术，鼠标轨迹化为迷幻光流 | 2026-06-26 | internet-absurdism |
 | The Useless Web | https://theuselessweb.com | web | 一键传送到互联网上最没用但最好玩的网站，随机探索的门户 | 2026-06-26 | - |
 | Stumbled | https://stumbled.to | reddit | 随机发现互联网有趣内容的探索平台，无算法纯靠点击"下一个" | 2026-06-26 | - |
@@ -589,7 +589,7 @@
 | Criblist | https://cribs.context.dev/ | producthunt | 开源的 Tinder 式滑动找房工具，聚合 SF/NYC 实时公寓房源 | 2026-07-31 | - |
 | AlterSend | https://altersend.com/ | producthunt | 开源点对点加密文件传输工具，无需云存储、无需账号、无大小限制 | 2026-07-31 | - |
 | HN Hall of Fame | https://www.orangecrumbs.com/hall | hackernews | 收录 3100+ 反复被顶上 Hacker News 首页的经典链接，按历史得分排序 | 2026-07-31 | - |
-| Grace Cathedral Tour | https://vincentwoo.com/3d/grace_cathedral | hackernews | 旧金山恩典座堂的沉浸式 3D 高斯泼溅（Gaussian Splat）漫游 | 2026-07-31 | - |
+| Grace Cathedral Tour | https://vincentwoo.com/3d/grace_cathedral | hackernews | 旧金山恩典座堂的沉浸式 3D 高斯泼溅（Gaussian Splat）漫游 | 2026-07-31 | walk-into-website |
 | Q3Edit | https://q3edit.com | hackernews | 在浏览器里直接编辑和试玩 Quake 3 Arena 地图 | 2026-07-31 | - |
 | Chip Builder | https://select.supply/game/chipbuilder | hackernews | 从逻辑门开始搭建一颗可运行 CPU 的浏览器游戏 | 2026-07-31 | learn-by-poking-it |
 | Analog Watch | https://analog.watch | hackernews | 极简指针式时钟网页，适合当新标签页小工具 | 2026-07-31 | - |
@@ -612,7 +612,7 @@
 | Prelint | https://prelint.com/ | twitter | 审查 AI Agent 编写的 PR 是否偏离产品需求文档，按次付费而非按席位 | 2026-07-31 | - |
 | Eel Slap | https://eelslap.com | web | 移动鼠标反复用鳗鱼抽打一个人的荒诞单一玩笑网站 | 2026-07-31 | - |
 | The Password Game | https://neal.fun/password-game/ | web | 设置密码要满足越来越离谱规则的喜剧向小游戏 | 2026-07-31 | - |
-| A Dark Room | https://adarkroom.web.app/ | web | 从一堆将熄的篝火开始的极简文字生存游戏，逐步展开成完整故事 | 2026-07-31 | - |
+| A Dark Room | https://adarkroom.web.app/ | web | 从一堆将熄的篝火开始的极简文字生存游戏，逐步展开成完整故事 | 2026-07-31 | walk-into-website |
 | Little Alchemy 2 | https://littlealchemy2.com | web | 组合泥土、火等基础元素，解锁数百种新物品的合成上瘾小游戏 | 2026-07-31 | - |
 | MapCrunch | https://mapcrunch.com | web | 一键传送到地球上随机地点的 Google 街景 | 2026-07-31 | - |
 | MyNoise | https://mynoise.net | web | 可深度调节叠加的环境白噪音生成器，用于专注或睡眠 | 2026-07-31 | - |
@@ -623,7 +623,7 @@
 | CheapFoodMap | https://cheapfoodmap.com/ | hackernews | 众包地图，专门收录美国各城市 10 美元以下的靠谱便宜餐食 | 2026-08-04 | - |
 | IKEA Complexity Index | https://ikea.greg.technology/ | hackernews | 给近两万件 IKEA 家具按"组装难度"打分排名的非官方粉丝项目 | 2026-08-04 | - |
 | Handwritten Blog | https://handwritten.blog/ | hackernews | 手写字迹直接发布成博客的写作平台，没有算法推荐也没有点赞数 | 2026-08-04 | - |
-| Isopolis | https://sf.isopolis.city/ | hackernews | 用等距像素风把旧金山整座城市画成复古游戏地图 | 2026-08-04 | - |
+| Isopolis | https://sf.isopolis.city/ | hackernews | 用等距像素风把旧金山整座城市画成复古游戏地图 | 2026-08-04 | walk-into-website |
 | Vinyl for Mac | https://www.vinylformac.com/ | hackernews | 在 Mac 桌面上放一台逼真黑胶唱机，随音乐播放实时转动 | 2026-08-04 | - |
 | Orbit | https://nagylukas.github.io/orbit.html | hackernews | 用 AR 把手机变成实时卫星追踪器，抬头一扫就知道头顶飞过什么 | 2026-08-04 | - |
 | Yamanote 3D | https://yamanote-3d.com/ | producthunt | 沉浸式 3D 模拟坐一趟东京山手线，配环境音效随时间和天气变化 | 2026-08-04 | - |
@@ -790,7 +790,7 @@
 | Snackeet | https://www.snackeet.com/ | twitter | 仿 Instagram 故事形式打造互动网页内容，提升电商转化 | 2026-08-21 | - |
 | UpLink | https://www.producthunt.com/products/uplink-2 | twitter | AI 驱动的批量文件收集工具，服务会计师、律师和放贷机构 | 2026-08-21 | - |
 | Cloudhiker | https://cloudhiker.net | web | 随机发现互联网上小众有趣冷门网站的浏览器书签工具 | 2026-08-21 | - |
-| Rooms | https://rooms.xyz | web | 3D 互动房间创作平台，可创建、探索和 remix 他人作品 | 2026-08-21 | - |
+| Rooms | https://rooms.xyz | web | 3D 互动房间创作平台，可创建、探索和 remix 他人作品 | 2026-08-21 | walk-into-website |
 | Refind | https://refind.com | web | 每日精选深度好文，AI 算法加人工双重筛选的阅读推荐 | 2026-08-21 | - |
 | HN Arcade | https://hnarcade.com | web | 收录 Hacker News 上出现过的独立小游戏合集发现平台 | 2026-08-21 | - |
 | hckr news | https://hckrnews.com | web | 按时间顺序展示热帖的 Hacker News 非官方简洁替代界面 | 2026-08-21 | - |
@@ -824,3 +824,11 @@
 | Cursor Camp | https://neal.fun/cursor-camp/ | web | 无聊天无用户名的多人在线小天地，访客只以光标形式出现，一起探索露营地、游泳、跳舞 | 2026-08-28 | - |
 | Internet Roadtrip | https://neal.fun/internet-roadtrip/ | web | 全网投票驾驶一辆虚拟汽车在谷歌街景中穿越北美，2025年上线后持续爆火的集体互动实验 | 2026-08-28 | - |
 | Sandspiel | https://sandspiel.club/ | web | 沙粒像素物理模拟器，可与朋友实时共享同一个沙盘世界 | 2026-08-28 | - |
+| Corporate Mind Games | https://corporatemindgames.com/ | hackernews | 用讽刺的公司职场主题包装逻辑解谜游戏，每日一关免费玩 | 2026-09-01 | - |
+| Voronoi Go | https://voronoigo.com/ | hackernews | 没有棋盘网格的围棋——用几何切割代替落子点的全新变体 | 2026-09-01 | - |
+| WebGL Glass Xylophone | https://tympanus.net/Tutorials/Xylophone/ | web | 划过屏幕就能演奏的无限循环玻璃木琴，Three.js 打造的视听装置 | 2026-09-01 | - |
+| Jay Ransijn Portfolio | https://jayransijn.com/ | web | 把个人简历做成一个可以走进去玩的 3D 世界 | 2026-09-01 | walk-into-website |
+| ITom Portfolio | https://itomdev.com/ | web | 纸张撕裂展开成无限画廊长廊的手绘质感 3D 作品集 | 2026-09-01 | walk-into-website |
+| Aardvark Book Club | https://www.aardvarkbookclub.com/ | web | 「BookTok 遇上书架」的月度精选图书订阅俱乐部 | 2026-09-01 | - |
+| maikasui | https://maikasui.com | web | 用互动时间轴讲述日本清酒护手霜品牌一天的宁静故事 | 2026-09-01 | walk-into-website |
+| The Cool Club | http://thecoolclub.co | web | 以历史上的传奇人物为主题的桌游品牌，网站本身也像一场小游戏 | 2026-09-01 | - |
