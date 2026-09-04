@@ -547,7 +547,7 @@
 | ResearchRabbit | https://researchrabbitapp.com | web | 绘制学术论文引用关系网络图谱，帮你秒速发现相关文献 | 2026-07-21 | things-that-teach-themselves |
 | ServBay | https://servbay.com | web | 本地开发环境管理器，一键安装切换多版本语言/数据库/缓存，现代版 MAMP | 2026-07-21 | - |
 | Vozo.ai | https://vozo.ai | web | AI 视频多语言翻译工具，同步处理配音/字幕/口型同步/屏幕文字 | 2026-07-21 | - |
-| Physically Accurate Black Hole | https://blackhole.plav.in | hackernews | 浏览器里实时渲染的物理精确黑洞可视化，可以放进房间场景里 | 2026-07-28 | zoom-out-zoom-in |
+| Physically Accurate Black Hole | https://blackhole.plav.in | hackernews | 浏览器里实时渲染的物理精确黑洞可视化，可以放进房间场景里 | 2026-07-28 | zoom-out-zoom-in, fake-physics-lab |
 | Golf Course Browser | https://golfcoursebrowser.com | hackernews | 一位高尔夫爱好者独立绘制的美国及加拿大 18000+ 高尔夫球场交互地图 | 2026-07-28 | - |
 | Sunflowers | https://sunflowersgame.com | hackernews | 把经典扫雷逻辑反过来玩的解谜游戏，靠数字线索种向日葵而非避雷 | 2026-07-28 | learn-by-poking-it |
 | Brolly | https://brolly.sh | hackernews | 全世界任意地点的天气预报，纯文字不用图表 | 2026-07-28 | - |
@@ -574,7 +574,7 @@
 | Internet History Roulette | https://internethistoryroulette.com | reddit | 转动轮盘随机跳转到 Wayback Machine 存档的 90-2000 年代老网站 | 2026-07-28 | - |
 | Universe Atlas | https://universeatlas.org | reddit | 一个真实比例的宇宙地图，可以从质子内部一路缩放到宇宙网状结构 | 2026-07-28 | zoom-out-zoom-in |
 | Babel | https://babel.reppie.org | reddit | 把维基百科每一次编辑变成一块砖，每天生成一座不断长高的摩天大楼 | 2026-07-28 | - |
-| Firewood Splitting Simulator | https://screen.toys/firewood/ | reddit | 一个纯粹解压的劈柴模拟器网页小游戏 | 2026-07-28 | - |
+| Firewood Splitting Simulator | https://screen.toys/firewood/ | reddit | 一个纯粹解压的劈柴模拟器网页小游戏 | 2026-07-28 | fake-physics-lab |
 | Lowtein | https://lowtein.com | reddit | 用政府数据核实超市促销价是否真的低于当地历史均价 | 2026-07-28 | - |
 | Escherllate | http://escherllate.app | reddit | 一个镶嵌图案素描本，在一块瓷砖上画画会自动同步到所有拼接瓷砖上 | 2026-07-28 | mouse-made-magic |
 | Ohayo World | https://www.ohayoworld.com | reddit | 实时显示地球昼夜分界线，以及此刻正经历日出的人口数量的动态地球仪 | 2026-07-28 | zoom-out-zoom-in |
@@ -684,7 +684,7 @@
 | Uneed | https://www.uneed.best | twitter | 面向独立开发者的产品发布目录平台，长期曝光不限24小时窗口 | 2026-08-11 | - |
 | StackScope | https://stackscope.dev | web | 抓取分析独立开发者产品的技术栈、托管、SEO等信息的目录工具 | 2026-08-11 | - |
 | Webcam Motion Capture | https://webcammotioncapture.info | web | 用普通摄像头驱动3D虚拟形象的动作捕捉工具 | 2026-08-11 | - |
-| Sandboxels | https://sandboxels.r74n.com | web | 网页版物理粒子沙盒模拟器，可组合上百种元素观察化学反应 | 2026-08-11 | mouse-made-magic |
+| Sandboxels | https://sandboxels.r74n.com | web | 网页版物理粒子沙盒模拟器，可组合上百种元素观察化学反应 | 2026-08-11 | mouse-made-magic, fake-physics-lab |
 | SkillTrade | https://www.hackquest.io/projects/Skill-Trade | web | 点对点技能交换平台，AI智能匹配，教学换学习机会 | 2026-08-11 | - |
 | ssh.place | https://ssh.place | hackernews | 通过SSH连接就能一起画画的协作像素画布，无需安装客户端 | 2026-08-11 | - |
 | textlog | https://textlog.cc/about | hackernews | 纯文本、无JavaScript的极简微博客平台 | 2026-08-11 | - |
@@ -823,12 +823,20 @@
 | RealDiff | https://github.com/issacnitin/RealDiff | hackernews | 跨语言的 PR 运行时行为对比工具，检测代码变更的实际执行差异 | 2026-08-28 | - |
 | Cursor Camp | https://neal.fun/cursor-camp/ | web | 无聊天无用户名的多人在线小天地，访客只以光标形式出现，一起探索露营地、游泳、跳舞 | 2026-08-28 | - |
 | Internet Roadtrip | https://neal.fun/internet-roadtrip/ | web | 全网投票驾驶一辆虚拟汽车在谷歌街景中穿越北美，2025年上线后持续爆火的集体互动实验 | 2026-08-28 | - |
-| Sandspiel | https://sandspiel.club/ | web | 沙粒像素物理模拟器，可与朋友实时共享同一个沙盘世界 | 2026-08-28 | - |
+| Sandspiel | https://sandspiel.club/ | web | 沙粒像素物理模拟器，可与朋友实时共享同一个沙盘世界 | 2026-08-28 | fake-physics-lab |
 | Corporate Mind Games | https://corporatemindgames.com/ | hackernews | 用讽刺的公司职场主题包装逻辑解谜游戏，每日一关免费玩 | 2026-09-01 | - |
 | Voronoi Go | https://voronoigo.com/ | hackernews | 没有棋盘网格的围棋——用几何切割代替落子点的全新变体 | 2026-09-01 | - |
-| WebGL Glass Xylophone | https://tympanus.net/Tutorials/Xylophone/ | web | 划过屏幕就能演奏的无限循环玻璃木琴，Three.js 打造的视听装置 | 2026-09-01 | - |
+| WebGL Glass Xylophone | https://tympanus.net/Tutorials/Xylophone/ | web | 划过屏幕就能演奏的无限循环玻璃木琴，Three.js 打造的视听装置 | 2026-09-01 | fake-physics-lab |
 | Jay Ransijn Portfolio | https://jayransijn.com/ | web | 把个人简历做成一个可以走进去玩的 3D 世界 | 2026-09-01 | walk-into-website |
 | ITom Portfolio | https://itomdev.com/ | web | 纸张撕裂展开成无限画廊长廊的手绘质感 3D 作品集 | 2026-09-01 | walk-into-website |
 | Aardvark Book Club | https://www.aardvarkbookclub.com/ | web | 「BookTok 遇上书架」的月度精选图书订阅俱乐部 | 2026-09-01 | - |
 | maikasui | https://maikasui.com | web | 用互动时间轴讲述日本清酒护手霜品牌一天的宁静故事 | 2026-09-01 | walk-into-website |
 | The Cool Club | http://thecoolclub.co | web | 以历史上的传奇人物为主题的桌游品牌，网站本身也像一场小游戏 | 2026-09-01 | - |
+| Laser Graffiti | https://laser.consti.de | hackernews | 用摄像头把激光笔变成画笔，在墙上实时喷涂涂鸦艺术的浏览器工具 | 2026-09-04 | - |
+| Sirenfall | https://sirenfall.live | hackernews | 在浏览器里拉响一台复古民防警报器，沉浸雨夜掩体末日氛围 | 2026-09-04 | - |
+| Newton's Orchard | https://newtonsorchard.app | hackernews | 浏览器三维引力沙盒，丢出星球观察真实物理轨道运动 | 2026-09-04 | fake-physics-lab |
+| Yan Texture Studio | https://yan.yichenlab.com/textures/ | hackernews | 25 种滤镜一键把照片变成故障艺术与复古印刷质感的图像实验室 | 2026-09-04 | - |
+| Isometric NYC | https://isometric.nyc/ | web | 可自由漫游的巨幅等距像素艺术纽约地图，附带暴雪版本彩蛋 | 2026-09-04 | - |
+| Garden Anomaly | https://dasprinzip.com/tinker/day41 | web | 花园里悬浮的透明玻璃泡泡球，用手搅动激起涟漪和环境音 | 2026-09-04 | fake-physics-lab |
+| Eiffel Tower Catapult | https://tympanus.net/Development/EiffelCatapult/ | web | 把埃菲尔铁塔弯成弹弓，用真实巴黎地形数据把自己弹射穿越全城 | 2026-09-04 | fake-physics-lab |
+| Relaxing Lines | https://devorgames.itch.io/relaxing-lines-web | web | 经典万花尺玩具数字化版本，转几下就能画出治愈系几何图案 | 2026-09-04 | - |
