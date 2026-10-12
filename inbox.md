@@ -376,7 +376,7 @@
 | Zombo.com | https://zombo.com | web | 互联网著名梗站，庄重告诉你"你能做任何事"，永恒的网络迷你迷因 | 2026-06-26 | internet-absurdism |
 | Immersive Garden | https://immersive-g.com | web | 法国创意工作室的沉浸式数字体验，顶级 WebGL 视觉艺术 | 2026-06-26 | browser-art-studio, walk-into-website |
 | NeonFlames | https://neonflames.com | web | 在黑色画布上绘制霓虹火焰艺术，鼠标轨迹化为迷幻光流 | 2026-06-26 | internet-absurdism |
-| The Useless Web | https://theuselessweb.com | web | 一键传送到互联网上最没用但最好玩的网站，随机探索的门户 | 2026-06-26 | - |
+| The Useless Web | https://theuselessweb.com | web | 一键传送到互联网上最没用但最好玩的网站，随机探索的门户 | 2026-06-26 | one-weird-trick |
 | Stumbled | https://stumbled.to | reddit | 随机发现互联网有趣内容的探索平台，无算法纯靠点击"下一个" | 2026-06-26 | - |
 | Conserve the Sound | https://www.conservethesound.de | reddit | 收集即将消失日常声音的档案馆，卡式录音机快进声/老式拨号音等 | 2026-06-26 | sound-travel |
 | WhoDB | https://whodb.clidey.com | reddit | 开源数据库浏览器，支持多种数据库，现代化界面替代 Adminer | 2026-06-26 | - |
@@ -564,9 +564,9 @@
 | Termi Protocol | https://termiprotocol.com | web | 用沉浸式 3D 游戏画面实时可视化 AI 编程助手工作过程的控制室应用 | 2026-07-28 | - |
 | Photopea | https://www.photopea.com | web | 免费的浏览器版 Photoshop 替代品，支持 PSD 格式，无需下载安装 | 2026-07-28 | - |
 | Infinite Craft | https://neal.fun/infinite-craft/ | web | 从水+火开始拖拽合成元素，一路创造出成千上万种新概念的合成游戏 | 2026-07-28 | - |
-| Cat Bounce | https://www.catbounce.com | web | 点击屏幕让猫咪从天而降弹跳满屏的纯粹解压网站 | 2026-07-28 | - |
-| Endless Horse | https://endlesshorse.com | web | 一匹 ASCII 字符画的马，双腿随着滚动永无止境地延伸 | 2026-07-28 | - |
-| Down For Everyone Or Just Me | https://downforeveryoneorjustme.com | web | 输入网址即可判断该网站是全网宕机还是只有你自己连不上 | 2026-07-28 | - |
+| Cat Bounce | https://www.catbounce.com | web | 点击屏幕让猫咪从天而降弹跳满屏的纯粹解压网站 | 2026-07-28 | one-weird-trick |
+| Endless Horse | https://endlesshorse.com | web | 一匹 ASCII 字符画的马，双腿随着滚动永无止境地延伸 | 2026-07-28 | one-weird-trick |
+| Down For Everyone Or Just Me | https://downforeveryoneorjustme.com | web | 输入网址即可判断该网站是全网宕机还是只有你自己连不上 | 2026-07-28 | one-weird-trick |
 | Cito | https://cito.fim.ai | twitter | 面向学术论文的语义搜索引擎，按含义而非关键词匹配检索文献 | 2026-07-28 | - |
 | Wealtii | https://wealtii.com | twitter | 面向普通用户的数字资产指数基金投资平台，最低10美元起投 | 2026-07-28 | money-tools-for-finance-haters |
 | WebImage Maker '97 | https://pieter.com/~pieter/ | twitter | Pieter Levels 用复古 Windows 3.11/Netscape 风格打造的个人怀旧实验乐园 | 2026-07-28 | - |
@@ -610,11 +610,11 @@
 | Jamboree | https://jamboree.space/ | twitter | 浏览器多人合成器，支持点对点联机和实时光标，可与人一起即兴演奏 | 2026-07-31 | - |
 | Overflight | https://dgrlabs.co/overflight/ | twitter | 实时天空雷达，识别头顶飞过的每一架飞机的航司、航班号和航线 | 2026-07-31 | right-now |
 | Prelint | https://prelint.com/ | twitter | 审查 AI Agent 编写的 PR 是否偏离产品需求文档，按次付费而非按席位 | 2026-07-31 | - |
-| Eel Slap | https://eelslap.com | web | 移动鼠标反复用鳗鱼抽打一个人的荒诞单一玩笑网站 | 2026-07-31 | - |
-| The Password Game | https://neal.fun/password-game/ | web | 设置密码要满足越来越离谱规则的喜剧向小游戏 | 2026-07-31 | - |
+| Eel Slap | https://eelslap.com | web | 移动鼠标反复用鳗鱼抽打一个人的荒诞单一玩笑网站 | 2026-07-31 | one-weird-trick |
+| The Password Game | https://neal.fun/password-game/ | web | 设置密码要满足越来越离谱规则的喜剧向小游戏 | 2026-07-31 | one-weird-trick |
 | A Dark Room | https://adarkroom.web.app/ | web | 从一堆将熄的篝火开始的极简文字生存游戏，逐步展开成完整故事 | 2026-07-31 | walk-into-website |
-| Little Alchemy 2 | https://littlealchemy2.com | web | 组合泥土、火等基础元素，解锁数百种新物品的合成上瘾小游戏 | 2026-07-31 | - |
-| MapCrunch | https://mapcrunch.com | web | 一键传送到地球上随机地点的 Google 街景 | 2026-07-31 | - |
+| Little Alchemy 2 | https://littlealchemy2.com | web | 组合泥土、火等基础元素，解锁数百种新物品的合成上瘾小游戏 | 2026-07-31 | one-weird-trick |
+| MapCrunch | https://mapcrunch.com | web | 一键传送到地球上随机地点的 Google 街景 | 2026-07-31 | one-weird-trick |
 | MyNoise | https://mynoise.net | web | 可深度调节叠加的环境白噪音生成器，用于专注或睡眠 | 2026-07-31 | - |
 | Wheel of Aesthetics | https://gospinwheel.com/wheel-of-aesthetics | web | 收录100+视觉美学风格（乡村核、赛博朋克等）的转盘抽选工具 | 2026-07-31 | - |
 | Silk (WeaveSilk) | https://weavesilk.app/ | web | 用鼠标移动生成对称流动丝绸图案的生成艺术玩具 | 2026-07-31 | - |
@@ -810,7 +810,7 @@
 | Dwitter | https://www.dwitter.net/ | web | 用不超过140字符的JavaScript代码创作动态视觉效果的极客社区 | 2026-08-25 | - |
 | Shadertoy | https://www.shadertoy.com/ | web | 在浏览器里编写和分享GLSL着色器的创作与展示平台 | 2026-08-25 | - |
 | Nicky Case | https://ncase.me/ | web | 互动式科普网页合集，把复杂议题变成可玩的小实验 | 2026-08-25 | - |
-| Blue Ball Machine | https://www.chubbybots.com/ | web | 无限循环的蓝色小球在鲁布·戈德堡式机关中穿梭，治愈系解压动画 | 2026-08-25 | - |
+| Blue Ball Machine | https://www.chubbybots.com/ | web | 无限循环的蓝色小球在鲁布·戈德堡式机关中穿梭，治愈系解压动画 | 2026-08-25 | one-weird-trick |
 | PicoMQ | https://picomq.com/ | hackernews | 基于 S3 对象存储的 HTTP 持久化流处理平台，无需专用磁盘即可无限扩展数据流 | 2026-08-28 | - |
 | OzBrain | https://ozbrain.com | hackernews | 连接 Claude、ChatGPT、Cursor 等多个 AI 助手的共享知识库，让团队和智能体始终基于同一份最新信息工作 | 2026-08-28 | - |
 | GlassBox | https://glassbox.codecanary.org | hackernews | 浏览器指纹检测工具，本地运行 Canvas/WebGL/音频等探测技术并给出可识别度评分 | 2026-08-28 | - |
@@ -840,3 +840,30 @@
 | Garden Anomaly | https://dasprinzip.com/tinker/day41 | web | 花园里悬浮的透明玻璃泡泡球，用手搅动激起涟漪和环境音 | 2026-09-04 | fake-physics-lab |
 | Eiffel Tower Catapult | https://tympanus.net/Development/EiffelCatapult/ | web | 把埃菲尔铁塔弯成弹弓，用真实巴黎地形数据把自己弹射穿越全城 | 2026-09-04 | fake-physics-lab |
 | Relaxing Lines | https://devorgames.itch.io/relaxing-lines-web | web | 经典万花尺玩具数字化版本，转几下就能画出治愈系几何图案 | 2026-09-04 | - |
+| micasa | https://micasa.dev | hackernews | 在终端里管理家庭维护事务的命令行工具，记录维修和承包商信息 | 2026-09-08 | - |
+| DoNotNotify | https://donotnotify.com/ | hackernews | 安卓通知过滤工具，本地离线处理按规则屏蔽骚扰通知 | 2026-09-08 | - |
+| Retold | https://stories-retold.com/ | producthunt | 把家人讲述的故事录音自动生成手绘动画短片和绘本 | 2026-09-08 | - |
+| BrickForgerAI | https://brickforgerai.com/ | producthunt | 输入一句提示词生成可实际购买拼搭的乐高积木模型及说明书 | 2026-09-08 | - |
+| Queuebrick | https://www.queuebrick.com/ | producthunt | Letterboxd 风格的观影记录与排队清单工具，无广告无追踪 | 2026-09-08 | - |
+| CommuteBar | https://www.commute.bar/ | producthunt | Mac 菜单栏实时显示通勤时间与路况提醒 | 2026-09-08 | - |
+| Dif.sh | https://www.dif.sh/ | producthunt | 把功能开关和 A/B 测试以 Markdown 文件形式存进代码仓库 | 2026-09-08 | - |
+| Ponytail | https://ponytail.dev/ | producthunt | 让 AI 编程 agent 优先复用已有代码，把新写代码当最后手段 | 2026-09-08 | - |
+| Hey Noah | https://www.heynoah.io/ | producthunt | 面向创始人的主动型 AI 行政助理，通过短信/邮件/语音处理日程 | 2026-09-08 | - |
+| MSTRMND | https://mstr-mnd.vercel.app | reddit | 纯浏览器本地处理的免费音频母带处理工具，无需上传文件 | 2026-09-08 | - |
+| Aeris | https://aeris.edbn.me | reddit | 实时 3D 可视化全球航班轨迹，按高度用颜色区分 | 2026-09-08 | - |
+| Dystopian World | https://dystopian-world.pages.dev | reddit | 基于真实军力数据模拟核升级链式反应的互动地图模拟器 | 2026-09-08 | - |
+| Entertrained | https://entertrained.app | reddit | 通过打字重抄经典书籍来练习打字速度的趣味应用 | 2026-09-08 | - |
+| World Monitor | https://world-monitor.com | reddit | 实时全球新闻、股市、DEFCON 等信息聚合在地图上的仪表盘 | 2026-09-08 | - |
+| CountryWheel | https://countrywheel.com | reddit | 转动轮盘随机探索 197 个国家的知识与趣味问答网站 | 2026-09-08 | - |
+| Notchling | https://notchling.zopcloud.zop.dev/ | twitter | 住在 MacBook 刘海里的小生物，会看鼠标、打盹、帮你叼文件 | 2026-09-08 | - |
+| Zigpoll | https://www.zigpoll.com/ | twitter | 独立开发者运营的调查与客户反馈收集工具 | 2026-09-08 | - |
+| JigsawPuzzle.pro | https://jigsawpuzzle.pro | web | 把任意照片一键变成拼图游戏的纯前端小工具，图片不上传服务器 | 2026-09-08 | - |
+| Lottery Every Second | https://lotteryeverysecond.lffl.me | web | 每秒自动模拟一次彩票开奖，直观展示中奖概率有多离谱 | 2026-09-08 | - |
+| FunBox | https://funbox.space | web | 8 合 1 免费聚会小工具集合，无广告无需注册 | 2026-09-08 | - |
+| GET Together | https://gettogether.dev | web | 用 GET 而非 POST 发帖的极简社交网络，程序员黑色幽默实验 | 2026-09-08 | - |
+| OwnTime | https://owntime.app | web | 把一天时间当国际象棋钟管理的效率 App | 2026-09-08 | - |
+| Fly By | https://michaelteter.com/flyby.html | web | 复古像素风飞机特技游戏，操控飞机戳气球做特技动作 | 2026-09-08 | - |
+| OpenTrailPaper | https://opentrailpaper.com | web | 开源固件把便宜的电子纸屏幕改装成骑行码表，超长续航离线导航 | 2026-09-08 | - |
+| Weedout | https://masteranza.github.io/weedout/ | web | Safari 浏览器扩展，自动过滤 YouTube 上标记为 AI 生成的视频 | 2026-09-08 | - |
+| HN Match Maker | https://hnmatchmaker.com | web | 把 Hacker News 招聘帖和求职者智能匹配的小众招聘工具 | 2026-09-08 | - |
+| Performative UI | https://vorpus.github.io/performativeUI/ | web | 讽刺花哨无意义 UI 设计套路的 React 组件展示库 | 2026-09-08 | - |

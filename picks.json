@@ -2875,5 +2875,92 @@
         }
       }
     ]
+  },
+  {
+    "slug": "one-weird-trick",
+    "title": {
+      "en": "One Weird Trick and Nothing Else",
+      "zh-CN": "一个愚蠢的把戏，仅此而已"
+    },
+    "description": {
+      "en": "Nine websites that do exactly one thing and refuse to do more — no dashboards, no sign-ups, no roadmap, just one gimmick, executed all the way through.",
+      "zh-CN": "九个网站，每个都只干一件事，而且死活不肯多干一件。没有仪表盘，没有注册流程，没有产品路线图——只有一个笑话或一个花招，被认真执行到底。"
+    },
+    "date": "2026-10-12",
+    "coverImage": "coverImage37.jpg",
+    "sites": [
+      {
+        "name": "Eel Slap",
+        "url": "https://eelslap.com",
+        "description": {
+          "en": "Move your mouse, a guy gets slapped with an eel. That's the whole product, and it has never needed a v2.",
+          "zh-CN": "移动鼠标，一个人就会被鳗鱼抽脸。这就是产品的全部，而且从来不需要出 v2。"
+        }
+      },
+      {
+        "name": "The Password Game",
+        "url": "https://neal.fun/password-game/",
+        "description": {
+          "en": "Setting a password should take five seconds. Here it takes twenty minutes, a calculator, and possibly your dignity.",
+          "zh-CN": "设个密码本该五秒钟搞定。在这里要花二十分钟、一台计算器，外加一点尊严。"
+        }
+      },
+      {
+        "name": "Cat Bounce",
+        "url": "https://www.catbounce.com",
+        "description": {
+          "en": "Click, and cats fall from the sky and bounce. There is no score, no goal, no reason — just cats, bouncing.",
+          "zh-CN": "点一下，猫就从天而降开始弹跳。没有分数，没有目标，没有理由——就是猫，一直在弹。"
+        }
+      },
+      {
+        "name": "Endless Horse",
+        "url": "https://endlesshorse.com",
+        "description": {
+          "en": "An ASCII horse whose legs never stop scrolling. It is not going anywhere and it is not stopping either.",
+          "zh-CN": "一匹 ASCII 马，腿永远滚动不停。它哪也去不了，但也绝不会停下来。"
+        }
+      },
+      {
+        "name": "Down For Everyone Or Just Me",
+        "url": "https://downforeveryoneorjustme.com",
+        "description": {
+          "en": "One text box, one question: is it the internet, or is it you? It has answered this better than any status page.",
+          "zh-CN": "一个输入框，一个问题：到底是网站挂了，还是只有你连不上？答得比任何状态页都干脆。"
+        }
+      },
+      {
+        "name": "Little Alchemy 2",
+        "url": "https://littlealchemy2.com",
+        "description": {
+          "en": "Drag fire onto water, get steam. Keep going and lose an evening to combining 700+ things from four elements.",
+          "zh-CN": "把火拖到水上，变出蒸汽。接着拖下去，一整个晚上就没了——从四种元素合成出700多种东西。"
+        }
+      },
+      {
+        "name": "MapCrunch",
+        "url": "https://mapcrunch.com",
+        "description": {
+          "en": "One button drops you on random Street View somewhere on Earth. No search, no destination — just go.",
+          "zh-CN": "一个按钮，把你随机丢进地球上某处的街景。不用搜索，不设目的地——按下去就出发。"
+        }
+      },
+      {
+        "name": "Blue Ball Machine",
+        "url": "https://www.chubbybots.com/",
+        "description": {
+          "en": "A blue ball loops forever through a Rube Goldberg machine that goes nowhere on purpose. Watch it, don't touch it.",
+          "zh-CN": "一颗蓝色小球在鲁布·戈德堡机关里无限循环，故意哪儿也不去。只管看，别伸手。"
+        }
+      },
+      {
+        "name": "The Useless Web",
+        "url": "https://theuselessweb.com",
+        "description": {
+          "en": "A button that teleports you to the internet's most pointless corners. The whole point is that there is no point.",
+          "zh-CN": "一个按钮，把你传送到互联网上最没用的角落。这个网站的意义，就是没有意义。"
+        }
+      }
+    ]
   }
 ]
