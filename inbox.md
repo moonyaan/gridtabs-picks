@@ -257,7 +257,7 @@
 | TinyCld | https://tinycld.org | hackernews | 自托管生产力套件，邮件/日历/联系人/云存储六合一，完全开源永久免费，数据不过第三方 | 2026-05-29 | - |
 | Scrolodex | https://scrolodex.app | hackernews | macOS 极轻量窗口切换器，按住 Option 键滚动鼠标即可在窗口间流畅跳转，无需点击 | 2026-05-29 | menu-bar-minimalists |
 | Reassign | https://reassign.app | hackernews | 把 24 小时可视化成圆形形状的网页日程规划工具，拖动色块安排时间，支持 AI 重组日程 | 2026-05-29 | - |
-| Hallucinate | https://hallucinate.site | hackernews | 浏览器里的大型多人在线电子音乐派对，和全球陌生人共同沉浸在迷幻虚拟 rave 体验中 | 2026-05-29 | - |
+| Hallucinate | https://hallucinate.site | hackernews | 浏览器里的大型多人在线电子音乐派对，和全球陌生人共同沉浸在迷幻虚拟 rave 体验中 | 2026-05-29 | strangers-same-room |
 | AudioMass | https://audiomass.co | hackernews | 免费开源的浏览器端多轨音频编辑器，无需安装，支持无缝循环、静音修剪和多轨叠加 | 2026-05-29 | browser-art-studio |
 | Congress Trading Monitor | https://congress.kadoa.com | hackernews | 实时追踪美国国会议员每一笔股票交易的公民监督平台，数据透明可查 | 2026-05-29 | data-about-your-life, right-now |
 | own.page | https://own.page | producthunt | 无需代码的 link-in-bio 网站构建器，bento 瓦片布局打造专属个人主页，内置分析工具 | 2026-05-29 | - |
@@ -426,7 +426,7 @@
 | Zanagrams | https://zanagrams.com | hackernews | 浏览器端文字字谜益智游戏，从打乱字母中尽快组出有效单词 | 2026-06-30 | daily-one-tab-games |
 | Piskel | https://www.piskelapp.com | web | 免费浏览器像素艺术和精灵动画编辑器，逐帧绘制，导出 GIF 或精灵表 | 2026-07-03 | browser-art-studio |
 | Turtletoy | https://www.turtletoy.net | web | JS 海龟指令生成 SVG/GCODE，适配绘图机和激光切割机，所有作品开源可 remix | 2026-07-03 | browser-art-studio |
-| Earth Tattoo | https://earth.tattoo | hackernews | 多人协作在互动地球仪上创作艺术的创意项目 | 2026-07-07 | - |
+| Earth Tattoo | https://earth.tattoo | hackernews | 多人协作在互动地球仪上创作艺术的创意项目 | 2026-07-07 | strangers-same-room |
 | How Clanker Are You | https://howclankerareyou.com | hackernews | 反向图灵测试游戏，判断你有多像机器人 | 2026-07-07 | quizzes-that-know-too-much |
 | Is This Tech Dead | https://isthistechdead.com | hackernews | 追踪各种技术栈是否已经「死亡」的状态检查器 | 2026-07-07 | the-web-is-watching-you |
 | Nomlings | https://www.nomlings.cc | hackernews | 会消耗你 Claude Code session token 的虚拟宠物创意实验 | 2026-07-07 | - |
@@ -603,11 +603,11 @@
 | Read the Places | https://readtheplaces.com | reddit | 收录 392 部小说中提及的真实地点，做成文学地图 | 2026-07-31 | - |
 | Copy N Paste | https://copynpaste.xyz/ | reddit | 转换富文本格式，让粘贴到 Slack/Discord/Notion/WhatsApp 时保持整洁 | 2026-07-31 | - |
 | The Quiet Map | https://thequietmap.org | reddit | 用地震仪测算并展示地球上最安静的地点 | 2026-07-31 | - |
-| Deepcut | https://deepcut.live/ | reddit | 轮流当 DJ 的协作听歌网站，可与朋友或陌生人实时轮播音乐 | 2026-07-31 | - |
+| Deepcut | https://deepcut.live/ | reddit | 轮流当 DJ 的协作听歌网站，可与朋友或陌生人实时轮播音乐 | 2026-07-31 | strangers-same-room |
 | Reading Pacer | https://www.readingpacer.com | reddit | 帮助家长和老师识别孩子阅读困难的"阅读障碍检测"工具 | 2026-07-31 | - |
 | Kill The Cookie Banner | https://killthecookiebanner.eu/ | reddit | 推动欧盟用浏览器级隐私信号取代恼人 cookie 弹窗的倡导行动 | 2026-07-31 | - |
 | printme.money | https://printme.money | reddit | 输入薪资数字，纯前端动画打印机实时吐出对应现金叠钞，讽刺向小玩具 | 2026-07-31 | quizzes-that-know-too-much |
-| Jamboree | https://jamboree.space/ | twitter | 浏览器多人合成器，支持点对点联机和实时光标，可与人一起即兴演奏 | 2026-07-31 | - |
+| Jamboree | https://jamboree.space/ | twitter | 浏览器多人合成器，支持点对点联机和实时光标，可与人一起即兴演奏 | 2026-07-31 | strangers-same-room |
 | Overflight | https://dgrlabs.co/overflight/ | twitter | 实时天空雷达，识别头顶飞过的每一架飞机的航司、航班号和航线 | 2026-07-31 | right-now |
 | Prelint | https://prelint.com/ | twitter | 审查 AI Agent 编写的 PR 是否偏离产品需求文档，按次付费而非按席位 | 2026-07-31 | - |
 | Eel Slap | https://eelslap.com | web | 移动鼠标反复用鳗鱼抽打一个人的荒诞单一玩笑网站 | 2026-07-31 | one-weird-trick |
@@ -641,7 +641,7 @@
 | Indo-European Explorer | https://indo-european-explorer.com/ | reddit | 互动图谱展示 400 多种语言如何从 6000 年前的一门语言分化而来 | 2026-08-04 | learn-by-poking-it |
 | S80 | https://s80.me/ | reddit | 同时测试到 Google、Amazon、Cloudflare 三大服务的网络延迟 | 2026-08-04 | - |
 | Make My Drive Fun | https://makemydrivefun.com | reddit | 规划公路旅行时自动帮你插入沿途那些"公路旁的怪东西"景点 | 2026-08-04 | - |
-| Internet Roadtrip | https://roadtrip.neal.fun | web | 全网友一起投票操控一辆真车做环球公路旅行的集体社交实验 | 2026-08-04 | - |
+| Internet Roadtrip | https://roadtrip.neal.fun | web | 全网友一起投票操控一辆真车做环球公路旅行的集体社交实验 | 2026-08-04 | strangers-same-room |
 | Hunted.space | https://hunted.space | web | 实时追踪 Product Hunt 产品排名和点赞速度的看板 | 2026-08-04 | - |
 | Silo | https://silo.pgsty.com | hackernews | 社区维护的 MinIO 分支，恢复完整 Web 控制台并持续发布安全补丁的 S3 兼容对象存储 | 2026-08-07 | - |
 | Vaytric Google Ads Lookup | https://vaytric.com/google-ads-lookup/ | hackernews | 免注册查询任意公司在 Google 广告透明中心投放的所有广告 | 2026-08-07 | - |
@@ -686,7 +686,7 @@
 | Webcam Motion Capture | https://webcammotioncapture.info | web | 用普通摄像头驱动3D虚拟形象的动作捕捉工具 | 2026-08-11 | - |
 | Sandboxels | https://sandboxels.r74n.com | web | 网页版物理粒子沙盒模拟器，可组合上百种元素观察化学反应 | 2026-08-11 | mouse-made-magic, fake-physics-lab |
 | SkillTrade | https://www.hackquest.io/projects/Skill-Trade | web | 点对点技能交换平台，AI智能匹配，教学换学习机会 | 2026-08-11 | - |
-| ssh.place | https://ssh.place | hackernews | 通过SSH连接就能一起画画的协作像素画布，无需安装客户端 | 2026-08-11 | - |
+| ssh.place | https://ssh.place | hackernews | 通过SSH连接就能一起画画的协作像素画布，无需安装客户端 | 2026-08-11 | strangers-same-room |
 | textlog | https://textlog.cc/about | hackernews | 纯文本、无JavaScript的极简微博客平台 | 2026-08-11 | - |
 | Every Cube | https://everycube.alen.is | hackernews | 魔方所有排列组合的交互式可视化网站 | 2026-08-11 | - |
 | CostPerPrompt | https://costperprompt.com | hackernews | AI API调用成本对比计算器，覆盖各大模型定价 | 2026-08-11 | - |
@@ -821,9 +821,9 @@
 | Techno Machine in One HTML File | https://ssx360.github.io/rack-02/ | hackernews | 单个 HTML 文件实现的可验证音频渲染合成器 | 2026-08-28 | - |
 | Restoredrill | https://github.com/ahmadpiran/restoredrill | hackernews | 验证 Postgres 备份是否能真正成功恢复的自动化工具 | 2026-08-28 | - |
 | RealDiff | https://github.com/issacnitin/RealDiff | hackernews | 跨语言的 PR 运行时行为对比工具，检测代码变更的实际执行差异 | 2026-08-28 | - |
-| Cursor Camp | https://neal.fun/cursor-camp/ | web | 无聊天无用户名的多人在线小天地，访客只以光标形式出现，一起探索露营地、游泳、跳舞 | 2026-08-28 | - |
-| Internet Roadtrip | https://neal.fun/internet-roadtrip/ | web | 全网投票驾驶一辆虚拟汽车在谷歌街景中穿越北美，2025年上线后持续爆火的集体互动实验 | 2026-08-28 | - |
-| Sandspiel | https://sandspiel.club/ | web | 沙粒像素物理模拟器，可与朋友实时共享同一个沙盘世界 | 2026-08-28 | fake-physics-lab |
+| Cursor Camp | https://neal.fun/cursor-camp/ | web | 无聊天无用户名的多人在线小天地，访客只以光标形式出现，一起探索露营地、游泳、跳舞 | 2026-08-28 | strangers-same-room |
+| Internet Roadtrip | https://neal.fun/internet-roadtrip/ | web | 全网投票驾驶一辆虚拟汽车在谷歌街景中穿越北美，2025年上线后持续爆火的集体互动实验 | 2026-08-28 | strangers-same-room |
+| Sandspiel | https://sandspiel.club/ | web | 沙粒像素物理模拟器，可与朋友实时共享同一个沙盘世界 | 2026-08-28 | fake-physics-lab, strangers-same-room |
 | Corporate Mind Games | https://corporatemindgames.com/ | hackernews | 用讽刺的公司职场主题包装逻辑解谜游戏，每日一关免费玩 | 2026-09-01 | - |
 | Voronoi Go | https://voronoigo.com/ | hackernews | 没有棋盘网格的围棋——用几何切割代替落子点的全新变体 | 2026-09-01 | - |
 | WebGL Glass Xylophone | https://tympanus.net/Tutorials/Xylophone/ | web | 划过屏幕就能演奏的无限循环玻璃木琴，Three.js 打造的视听装置 | 2026-09-01 | fake-physics-lab |
@@ -867,3 +867,23 @@
 | Weedout | https://masteranza.github.io/weedout/ | web | Safari 浏览器扩展，自动过滤 YouTube 上标记为 AI 生成的视频 | 2026-09-08 | - |
 | HN Match Maker | https://hnmatchmaker.com | web | 把 Hacker News 招聘帖和求职者智能匹配的小众招聘工具 | 2026-09-08 | - |
 | Performative UI | https://vorpus.github.io/performativeUI/ | web | 讽刺花哨无意义 UI 设计套路的 React 组件展示库 | 2026-09-08 | - |
+| Cubicle | https://cubicle.run/ | producthunt | 像素风办公室界面雇佣并实时观察 AI Agent 工作状态的工具 | 2026-10-13 | - |
+| FeelMyMac | https://feelmymac.thehighjack.it/ | producthunt | 让 Mac 触控板模拟布料、木纹、沙砾等真实材质触感的触觉反馈应用 | 2026-10-13 | - |
+| Miso | https://miso.com/ | producthunt | 通过 iMessage 短信对话完成机票酒店预订和改签的个人 AI 旅行助理 | 2026-10-13 | - |
+| FastRouter.ai | https://fastrouter.ai/ | producthunt | 统一 API 网关，自动把请求路由到 200+ 大模型中性价比与速度最优的那个 | 2026-10-13 | - |
+| ChickyTutor | https://www.chickytutor.com/ | producthunt | 支持 70+ 语言的 AI 语音对话语言老师，陪练口语并实时纠错 | 2026-10-13 | - |
+| DailyHelm | https://dailyhelm.com/ | producthunt | 每天自动扫描 Shopify/广告/SEO 数据，按收入影响排序给出可执行优化建议的 AI 商业顾问 | 2026-10-13 | - |
+| writui | https://writui.com | hackernews | 终端里使用的极简加密 Markdown 写作工具，所有笔记存成单个加密文件 | 2026-10-13 | - |
+| carrier-explode | https://carrierexplode.com | hackernews | 解码并对比 iPhone、Pixel、Galaxy 手机运营商配置文件的数据库工具 | 2026-10-13 | - |
+| Lexicon | https://lexicon.zone | hackernews | 由多种趣味文字游戏组成的词汇学习工具合集，每日新谜题 | 2026-10-13 | - |
+| guides.show | https://guides.show | hackernews | 把代码 diff 转换成带章节导览的单个 HTML 文件，可加密分享给他人审查代码改动 | 2026-10-13 | - |
+| GitWarren | https://gitwarren.com | hackernews | 本地运行的代码审查工具，让 AI 编程助手提交修改前先由人审阅并留评论 | 2026-10-13 | - |
+| DIMENSIA | https://baum1337ine.github.io/dimensia/ | reddit | 免费浏览器端多维数学可视化工具，可交互探索4D到10D超立方体及神圣几何图形 | 2026-10-13 | - |
+| Ask an Astronaut | https://askanastronaut.issinrealtime.org/ | reddit | NASA 员工制作的网站，收录国际空间站宇航员与学生之间数千个问答，寓教于乐 | 2026-10-13 | - |
+| CSS-DOS | https://css-dos.ahmedamer.co.uk/ | reddit | 纯 CSS 实现的80年代 PC 模拟器，可在浏览器里运行 Windows 1.0 和 DOOM 等经典程序 | 2026-10-13 | - |
+| Your AI Slop Bores Me | https://youraislopbores.com | reddit | 病毒式社交实验网站，用户扮演 AI 在60秒内回答问题，由他人判断是否像真的 AI | 2026-10-13 | - |
+| World Cup 2026 3D Data Portraits | https://wc26.bogachev.fr | reddit | 把2026世界杯每场比赛约1500个真实事件数据重建为可交互的3D数据可视化画像 | 2026-10-13 | - |
+| Polylane | https://polylane.com | twitter | AI 运维代理，能在生产环境出故障时自动排查并自动提交修复 PR | 2026-10-13 | - |
+| BetterWispr | https://betterwispr.com | twitter | 免费开源的 Mac 语音输入工具，支持本地识别，自动清理口水词，无需订阅云端 | 2026-10-13 | - |
+| hangul.ink | https://hangul.ink | twitter | 纯浏览器端运行的韩文手写笔画生成模型，仅35万参数即可生成逼真手写轨迹 | 2026-10-13 | - |
+| Yedric.ai | https://yedric.ai | twitter | 用自然语言直接操作任意 SaaS 界面的工具，让不懂技术的用户也能用口语化指令完成复杂操作 | 2026-10-13 | - |
