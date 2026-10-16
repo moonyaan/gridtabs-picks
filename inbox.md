@@ -357,7 +357,7 @@
 | Goldfish | https://goldfish.sh | producthunt | Mac/Windows AI 记忆工具，按 Option 键即可用完整上下文和你的语气起草任意消息 | 2026-06-23 | - |
 | jfsendit | https://jfsendit.com | producthunt | 浏览器直连端对端加密文件传输，无需账号无需服务器存储，打开即用 | 2026-06-23 | - |
 | Trails | https://trails.pieterma.es | hackernews | AI 发现 100 部文学作品之间的主题关联，把书籍变成可漫游的思想网络 | 2026-06-23 | things-that-teach-themselves |
-| boringBar | https://boringbar.app | hackernews | macOS Dock 替代品，用 Windows 任务栏风格管理多桌面窗口，一目了然不混乱 | 2026-06-23 | - |
+| boringBar | https://boringbar.app | hackernews | macOS Dock 替代品，用 Windows 任务栏风格管理多桌面窗口，一目了然不混乱 | 2026-06-23 | things-living-in-your-mac |
 | API to MCP | https://apitomcp.ai | producthunt | 把任意 REST/GraphQL API 一键转成托管 MCP 服务器，让 Claude、Cursor 等 AI 直接调用 | 2026-06-23 | - |
 | VidStudio | https://vidstudio.app | hackernews | 免费浏览器端视频编辑器，无需上传无需注册，视频全程本地处理保护隐私 | 2026-06-23 | - |
 | Upkeep Nest | https://upkeepnest.com | hackernews | 房屋维护任务追踪器，智能排期季节性任务，多房产共享，不再忘记换滤芯清理天沟 | 2026-06-23 | things-youre-quietly-responsible-for |
@@ -429,7 +429,7 @@
 | Earth Tattoo | https://earth.tattoo | hackernews | 多人协作在互动地球仪上创作艺术的创意项目 | 2026-07-07 | strangers-same-room |
 | How Clanker Are You | https://howclankerareyou.com | hackernews | 反向图灵测试游戏，判断你有多像机器人 | 2026-07-07 | quizzes-that-know-too-much |
 | Is This Tech Dead | https://isthistechdead.com | hackernews | 追踪各种技术栈是否已经「死亡」的状态检查器 | 2026-07-07 | the-web-is-watching-you |
-| Nomlings | https://www.nomlings.cc | hackernews | 会消耗你 Claude Code session token 的虚拟宠物创意实验 | 2026-07-07 | - |
+| Nomlings | https://www.nomlings.cc | hackernews | 会消耗你 Claude Code session token 的虚拟宠物创意实验 | 2026-07-07 | things-living-in-your-mac |
 | Critical Window | https://criticalwindow.org | hackernews | 关于 AI 竞赛与对齐验证主题的策略游戏 | 2026-07-07 | - |
 | Declaw Arena | https://declaw.ai/arena | hackernews | 攻击和破解 AI agent 的 CTF 竞技挑战平台 | 2026-07-07 | - |
 | Experiments with Google | https://experiments.withgoogle.com | web | Google 持续更新的创意技术实验合集，涵盖 AI、WebGL、AR 等前沿浏览器互动体验 | 2026-07-07 | - |
@@ -624,10 +624,10 @@
 | IKEA Complexity Index | https://ikea.greg.technology/ | hackernews | 给近两万件 IKEA 家具按"组装难度"打分排名的非官方粉丝项目 | 2026-08-04 | - |
 | Handwritten Blog | https://handwritten.blog/ | hackernews | 手写字迹直接发布成博客的写作平台，没有算法推荐也没有点赞数 | 2026-08-04 | - |
 | Isopolis | https://sf.isopolis.city/ | hackernews | 用等距像素风把旧金山整座城市画成复古游戏地图 | 2026-08-04 | walk-into-website |
-| Vinyl for Mac | https://www.vinylformac.com/ | hackernews | 在 Mac 桌面上放一台逼真黑胶唱机，随音乐播放实时转动 | 2026-08-04 | - |
+| Vinyl for Mac | https://www.vinylformac.com/ | hackernews | 在 Mac 桌面上放一台逼真黑胶唱机，随音乐播放实时转动 | 2026-08-04 | things-living-in-your-mac |
 | Orbit | https://nagylukas.github.io/orbit.html | hackernews | 用 AR 把手机变成实时卫星追踪器，抬头一扫就知道头顶飞过什么 | 2026-08-04 | - |
 | Yamanote 3D | https://yamanote-3d.com/ | producthunt | 沉浸式 3D 模拟坐一趟东京山手线，配环境音效随时间和天气变化 | 2026-08-04 | - |
-| Terminal Candy | https://terminalcandy.com/ | producthunt | 给 macOS 终端换皮肤的原生应用，任意图片一键变身终端主题 | 2026-08-04 | - |
+| Terminal Candy | https://terminalcandy.com/ | producthunt | 给 macOS 终端换皮肤的原生应用，任意图片一键变身终端主题 | 2026-08-04 | things-living-in-your-mac |
 | AgentMicro | https://agentmicro.cc/ | producthunt | 菜单栏小工具，实时显示多个 Codex AI 编程任务的进度 | 2026-08-04 | one-person-agent-army |
 | Port22 | https://tryport22.com/ | producthunt | 用手机远程掌控 Mac 上跑的 AI 编程 agent，随时随地批准它的操作 | 2026-08-04 | - |
 | V2Fun | https://v2fun.ai/ | producthunt | 浏览器里用 AI 把文字或图片一键变成可动画的 3D 角色模型 | 2026-08-04 | - |
@@ -855,7 +855,7 @@
 | Entertrained | https://entertrained.app | reddit | 通过打字重抄经典书籍来练习打字速度的趣味应用 | 2026-09-08 | - |
 | World Monitor | https://world-monitor.com | reddit | 实时全球新闻、股市、DEFCON 等信息聚合在地图上的仪表盘 | 2026-09-08 | - |
 | CountryWheel | https://countrywheel.com | reddit | 转动轮盘随机探索 197 个国家的知识与趣味问答网站 | 2026-09-08 | - |
-| Notchling | https://notchling.zopcloud.zop.dev/ | twitter | 住在 MacBook 刘海里的小生物，会看鼠标、打盹、帮你叼文件 | 2026-09-08 | - |
+| Notchling | https://notchling.zopcloud.zop.dev/ | twitter | 住在 MacBook 刘海里的小生物，会看鼠标、打盹、帮你叼文件 | 2026-09-08 | things-living-in-your-mac |
 | Zigpoll | https://www.zigpoll.com/ | twitter | 独立开发者运营的调查与客户反馈收集工具 | 2026-09-08 | - |
 | JigsawPuzzle.pro | https://jigsawpuzzle.pro | web | 把任意照片一键变成拼图游戏的纯前端小工具，图片不上传服务器 | 2026-09-08 | - |
 | Lottery Every Second | https://lotteryeverysecond.lffl.me | web | 每秒自动模拟一次彩票开奖，直观展示中奖概率有多离谱 | 2026-09-08 | - |
@@ -867,8 +867,8 @@
 | Weedout | https://masteranza.github.io/weedout/ | web | Safari 浏览器扩展，自动过滤 YouTube 上标记为 AI 生成的视频 | 2026-09-08 | - |
 | HN Match Maker | https://hnmatchmaker.com | web | 把 Hacker News 招聘帖和求职者智能匹配的小众招聘工具 | 2026-09-08 | - |
 | Performative UI | https://vorpus.github.io/performativeUI/ | web | 讽刺花哨无意义 UI 设计套路的 React 组件展示库 | 2026-09-08 | - |
-| Cubicle | https://cubicle.run/ | producthunt | 像素风办公室界面雇佣并实时观察 AI Agent 工作状态的工具 | 2026-10-13 | - |
-| FeelMyMac | https://feelmymac.thehighjack.it/ | producthunt | 让 Mac 触控板模拟布料、木纹、沙砾等真实材质触感的触觉反馈应用 | 2026-10-13 | - |
+| Cubicle | https://cubicle.run/ | producthunt | 像素风办公室界面雇佣并实时观察 AI Agent 工作状态的工具 | 2026-10-13 | things-living-in-your-mac |
+| FeelMyMac | https://feelmymac.thehighjack.it/ | producthunt | 让 Mac 触控板模拟布料、木纹、沙砾等真实材质触感的触觉反馈应用 | 2026-10-13 | things-living-in-your-mac |
 | Miso | https://miso.com/ | producthunt | 通过 iMessage 短信对话完成机票酒店预订和改签的个人 AI 旅行助理 | 2026-10-13 | - |
 | FastRouter.ai | https://fastrouter.ai/ | producthunt | 统一 API 网关，自动把请求路由到 200+ 大模型中性价比与速度最优的那个 | 2026-10-13 | - |
 | ChickyTutor | https://www.chickytutor.com/ | producthunt | 支持 70+ 语言的 AI 语音对话语言老师，陪练口语并实时纠错 | 2026-10-13 | - |
@@ -887,3 +887,26 @@
 | BetterWispr | https://betterwispr.com | twitter | 免费开源的 Mac 语音输入工具，支持本地识别，自动清理口水词，无需订阅云端 | 2026-10-13 | - |
 | hangul.ink | https://hangul.ink | twitter | 纯浏览器端运行的韩文手写笔画生成模型，仅35万参数即可生成逼真手写轨迹 | 2026-10-13 | - |
 | Yedric.ai | https://yedric.ai | twitter | 用自然语言直接操作任意 SaaS 界面的工具，让不懂技术的用户也能用口语化指令完成复杂操作 | 2026-10-13 | - |
+| Ledge | https://ledge.sh | hackernews | 可运行的 Markdown 笔记工具，代码块能直接执行并实时显示输出结果 | 2026-10-16 | - |
+| Book of Shapes | https://www.bookofshapes.com | hackernews | 免费的极简生成式 SVG 图案集合，可在线调节参数并下载用于设计项目 | 2026-10-16 | - |
+| How Random Are You | https://lab.specr.net | hackernews | 说出随机数字，算法会预测你的下一个数字，测试人类"随机性"有多假 | 2026-10-16 | - |
+| Petal | https://petal.live | hackernews | 开源免费的屏幕共享与远程控制协作工具，CoScreen 停服后的替代品 | 2026-10-16 | - |
+| Entombed Raycaster | https://www.stelabouras.com/blog/entombed-raycaster/ | hackernews | 用1983年雅达利游戏迷宫算法实现的 Wolfenstein 风格光线投射渲染器，浏览器可玩 | 2026-10-16 | - |
+| FoundrRadio | https://foundrradio.live | producthunt | 虚拟 FM 电台平台，任选频段，开直播打造属于自己的广播电台 | 2026-10-16 | - |
+| Una Mano | https://unamanokeyboard.com | producthunt | 会自动贴着拇指位置移动的 iPhone 单手键盘，方便单手打字 | 2026-10-16 | - |
+| MacCam | https://maccam.app | producthunt | 弥补 macOS 缺失原生相机 App 的空白，免费拍照录像工具 | 2026-10-16 | - |
+| Siteprint | https://siteprint.app | producthunt | Safari 插件，一键提取任意网站的配色字体和布局规范生成 AI 设计提示词 | 2026-10-16 | - |
+| Paw-Paw | https://paw-paw.pet | producthunt | 住在 Mac 屏幕角落的迷你桌面宠物，会跟着你打字和点击做反应 | 2026-10-16 | things-living-in-your-mac |
+| Reactive Resume | https://rxresu.me | producthunt | 完全免费开源的简历制作工具，支持多模板、求职信和 ATS 检测 | 2026-10-16 | - |
+| Music Atlas | https://music-atlas.app | reddit | 交互式地图展示7.4万音乐人，按流派和播放列表关联可视化探索 | 2026-10-16 | - |
+| Quiet Holiday | https://quiet.holiday | reddit | 整合全球学校和公共假期数据，帮你找到出行人少的安静假期时段 | 2026-10-16 | - |
+| live/jam | https://livejam.conde.workers.dev | reddit | 浏览器内音乐制作工具，支持最多三人实时远程协作编曲 | 2026-10-16 | - |
+| 12 Axes | https://12axes.vercel.app | reddit | 用12个独立维度测试政治立场，而非传统单一左右轴划分 | 2026-10-16 | - |
+| Map In Seconds | https://mapinseconds.com | reddit | 上传数据几秒内生成按地理区域着色的可视化地图 | 2026-10-16 | - |
+| Birthed | https://birthed.app | reddit | 输入任意日期，查看历史上同一天发生的大事、名人生日和热门歌曲 | 2026-10-16 | - |
+| MausBot | https://mausbot.com | twitter | 开源本地部署的 AI Agent 团队助手，可对接 Gmail/Slack/GitHub 自动处理业务任务 | 2026-10-16 | - |
+| Takes | https://gettakes.app | twitter | 免费开源 Mac 口播录制工具，自带提词器，AI 自动剪辑并生成多平台文案 | 2026-10-16 | - |
+| Spend Elon's Money | https://neal.fun/spend-elon | web | Wired 与 Neal.fun 合作的互动网站，模拟花掉马斯克万亿美元身家 | 2026-10-16 | - |
+| Design the Next iPhone | https://neal.fun/design-the-next-iphone | web | 拖拽各种荒诞配件自制一台"下一代iPhone"并生成搞笑定价 | 2026-10-16 | - |
+| Lumitree | https://lumitree.art | web | 访客在互动数字树上种植分支，每条分支生成独特的生成艺术微世界 | 2026-10-16 | - |
+| PI.FYI | https://pi.fyi | web | 滑动浏览并"再推荐"书籍零食生活方式等小众趣味推荐信息流 | 2026-10-16 | - |
