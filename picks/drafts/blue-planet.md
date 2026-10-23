@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 slug: blue-planet
 date: 2026-10-20
 coverImage: coverImage40.jpg
