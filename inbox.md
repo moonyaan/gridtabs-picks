@@ -39,11 +39,11 @@
 | XPipe | https://xpipe.io | reddit | 服务器连接中枢，统一管理 SSH/Docker/K8s | 2026-02-06 | - |
 | 10015 Tools | https://10015.io | web | 免费在线工具箱，数百个实用小工具集合 | 2026-02-06 | swiss-army-knife-sites |
 | Neal.fun | https://neal.fun/internet-artifacts | reddit | 互动式早期互联网博物馆，57 个经典时刻 | 2026-02-06 | weekend-websites-worth-opening, internet-curiosity-museum |
-| Xikipedia | https://xikipedia.org | hackernews | 维基百科内容变成可刷的信息流，本地推荐算法 | 2026-02-06 | always-on-internet |
+| Xikipedia | https://xikipedia.org | hackernews | 维基百科内容变成可刷的信息流，本地推荐算法 | 2026-02-06 | always-on-internet, blue-planet |
 | Notchable | https://notchable.com | hackernews | MacBook 刘海区任务管理器，语音输入+AI 分类 | 2026-02-06 | focused-life |
 | Hister | https://hister.org | hackernews | 浏览记录全文搜索工具，本地索引，隐私优先 | 2026-02-06 | - |
 | Inklings | https://inklings.social | hackernews | 家庭私密社交平台，孩子画画家长写字，每月印成实体书 | 2026-02-06 | pixel-and-handmade |
-| Atlas | https://atlas.co | producthunt | AI 地图代理，自然语言创建地图和空间分析 | 2026-02-06 | - |
+| Atlas | https://atlas.co | producthunt | AI 地图代理，自然语言创建地图和空间分析 | 2026-02-06 | blue-planet |
 | ChartGen AI | https://chartgen.ai | producthunt | 免费 AI 图表生成器，上传数据自然语言生成图表 | 2026-02-06 | ai-creative-studio |
 | Supaboard | https://supaboard.ai | producthunt | AI 商业分析平台，自然语言提问获取数据洞察 | 2026-02-06 | - |
 | TravelAnimator | https://www.travelanimator.com | producthunt | Google Maps 链接一键转精美旅行路线动画 | 2026-02-06 | data-about-your-life |
@@ -54,7 +54,7 @@
 | Scribeist | https://scribeist.com | producthunt | AI 写作平台，小说/博客/通用三个工作区 | 2026-02-06 | - |
 | Immich | https://immich.app | reddit | 自托管照片管理，Google Photos 替代品 | 2026-02-06 | self-hosted-gems |
 | Vikunja | https://vikunja.io | reddit | 开源任务管理，看板/甘特图/列表多视图 | 2026-02-06 | self-hosted-gems |
-| Super Productivity | https://super-productivity.com | reddit | 开源深度工作管理器，内置时间追踪和专注模式 | 2026-02-06 | self-hosted-gems, focused-life |
+| Super Productivity | https://super-productivity.com | reddit | 开源深度工作管理器，内置时间追踪和专注模式 | 2026-02-06 | self-hosted-gems, focused-life, blue-planet |
 | Tandoor | https://tandoor.dev | reddit | 自托管食谱管理器，膳食规划和购物清单 | 2026-02-06 | self-hosted-gems |
 | KanaDojo | https://kanadojo.com | reddit | 极简日语学习平台，练假名和汉字 | 2026-02-06 | - |
 | Devtimate | https://devtimate.com | reddit | AI 项目估算工具，上传需求自动生成工时拆分 | 2026-02-06 | solo-founder-back-office |
@@ -242,10 +242,10 @@
 | Homelabinator | https://homelabinator.com | hackernews | 基于 NixOS+K3s 的傻瓜式家庭服务器搭建平台，U 盘启动即开始 homelab | 2026-03-24 | - |
 | Upstract | https://upstract.com | web | 把 Reddit、HN、NYT 等数十个来源聚合到一个页面，无算法、按时间顺序阅读 | 2026-03-24 | - |
 | Is It a Pint? | https://isitapint.com | hackernews | 用数据调查酒吧是否真的给足一品脱，草根消费者权益运动 + 幽默数据可视化 | 2026-03-24 | internet-absurdism |
-| Flowstep | https://flowstep.ai | producthunt | AI 驱动的 UI 设计工具，输入文字描述即可生成可编辑的生产级 React 界面 | 2026-05-26 | - |
+| Flowstep | https://flowstep.ai | producthunt | AI 驱动的 UI 设计工具，输入文字描述即可生成可编辑的生产级 React 界面 | 2026-05-26 | blue-planet |
 | Emdash | https://emdash.sh | hackernews | 开源桌面应用，在同一代码库里并行运行多个 AI 编程代理（Claude Code、Codex 等） | 2026-05-26 | one-person-agent-army |
 | TrainBot | https://trainbot.eu | hackernews | 搜索欧洲夜间火车最低票价的专属搜索引擎，支持筛选路线、时长和座位类型 | 2026-05-26 | - |
-| FileFlan | https://fileflan.com | producthunt | 无账号无 Cookie 端对端加密的浏览器直连文件传输，文件从不经过服务器存储 | 2026-05-26 | - |
+| FileFlan | https://fileflan.com | producthunt | 无账号无 Cookie 端对端加密的浏览器直连文件传输，文件从不经过服务器存储 | 2026-05-26 | blue-planet |
 | Only EU | https://only-eu.eu/en | web | 欧洲软件替代品目录，30+ 品类收录欧洲本土产品，强调隐私和数字主权 | 2026-05-26 | - |
 | Slideshot | https://slideshot.ai | producthunt | AI 代理自动录制 Web 应用操作流程并生成精美的产品演示视频，无需手动录屏或剪辑 | 2026-05-26 | solo-founder-back-office |
 | Tycoon AI | https://tycoon.us | producthunt | 为独立创业者提供 AI CEO 和 AI 员工团队，用自然语言驱动运营整个公司 | 2026-05-26 | solo-founder-back-office |
@@ -541,7 +541,7 @@
 | Eureka Database | https://eurekadatabase.com | reddit | 把 Reddit 用户真实抱怨转化为创业机会清单，帮创始人发现市场真实痛点 | 2026-07-21 | - |
 | Nuvio | https://nuvio.io | reddit | 将 X 个人简介与 MRR 和 Google Analytics 数据连接，自动展示实时增长数据 | 2026-07-21 | - |
 | Latenode | https://latenode.com | twitter | 面向开发者的 AI 工作流自动化平台，1200+ App 集成，比 Zapier 便宜 10 倍 | 2026-07-21 | - |
-| TaskWave | https://taskwave.online | twitter | 免费企业级项目与任务管理平台，支持自部署，替代 Asana/Monday.com | 2026-07-21 | - |
+| TaskWave | https://taskwave.online | twitter | 免费企业级项目与任务管理平台，支持自部署，替代 Asana/Monday.com | 2026-07-21 | blue-planet |
 | Napkin.ai | https://napkin.ai | web | 把文字粘贴进去，自动生成专业图表和可视化图形，演示文稿神器 | 2026-07-21 | - |
 | Goblin Tools | https://goblin.tools | web | 把大任务拆分成可执行小步骤，ADHD 友好的任务分解神器 | 2026-07-21 | - |
 | ResearchRabbit | https://researchrabbitapp.com | web | 绘制学术论文引用关系网络图谱，帮你秒速发现相关文献 | 2026-07-21 | things-that-teach-themselves |
@@ -810,7 +810,7 @@
 | Dwitter | https://www.dwitter.net/ | web | 用不超过140字符的JavaScript代码创作动态视觉效果的极客社区 | 2026-08-25 | - |
 | Shadertoy | https://www.shadertoy.com/ | web | 在浏览器里编写和分享GLSL着色器的创作与展示平台 | 2026-08-25 | - |
 | Nicky Case | https://ncase.me/ | web | 互动式科普网页合集，把复杂议题变成可玩的小实验 | 2026-08-25 | - |
-| Blue Ball Machine | https://www.chubbybots.com/ | web | 无限循环的蓝色小球在鲁布·戈德堡式机关中穿梭，治愈系解压动画 | 2026-08-25 | one-weird-trick |
+| Blue Ball Machine | https://www.chubbybots.com/ | web | 无限循环的蓝色小球在鲁布·戈德堡式机关中穿梭，治愈系解压动画 | 2026-08-25 | one-weird-trick, blue-planet |
 | PicoMQ | https://picomq.com/ | hackernews | 基于 S3 对象存储的 HTTP 持久化流处理平台，无需专用磁盘即可无限扩展数据流 | 2026-08-28 | - |
 | OzBrain | https://ozbrain.com | hackernews | 连接 Claude、ChatGPT、Cursor 等多个 AI 助手的共享知识库，让团队和智能体始终基于同一份最新信息工作 | 2026-08-28 | - |
 | GlassBox | https://glassbox.codecanary.org | hackernews | 浏览器指纹检测工具，本地运行 Canvas/WebGL/音频等探测技术并给出可识别度评分 | 2026-08-28 | - |
@@ -910,3 +910,19 @@
 | Design the Next iPhone | https://neal.fun/design-the-next-iphone | web | 拖拽各种荒诞配件自制一台"下一代iPhone"并生成搞笑定价 | 2026-10-16 | - |
 | Lumitree | https://lumitree.art | web | 访客在互动数字树上种植分支，每条分支生成独特的生成艺术微世界 | 2026-10-16 | - |
 | PI.FYI | https://pi.fyi | web | 滑动浏览并"再推荐"书籍零食生活方式等小众趣味推荐信息流 | 2026-10-16 | - |
+| Sphinx | https://sphinx-six-theta.vercel.app/ | hackernews | 在代码推送前用问答方式验证开发者是否真正理解 AI 写的改动 | 2026-10-20 | - |
+| Unfenced | https://unfenced.land/ | hackernews | 比对待售地产与官方边界数据，专门找与国家森林荒野接壤的房源 | 2026-10-20 | - |
+| Clova Email | https://clova.email/ | hackernews | 为每个网站生成独立邮箱地址，支持单发件人锁定降低垂钓风险 | 2026-10-20 | - |
+| Sygal | https://sygal.app | hackernews | 本地将 PDF 文档网页批量转换成干净的 Markdown/JSON 供 AI 使用 | 2026-10-20 | - |
+| Maali | https://maali.app/ | hackernews | 完全本地运行的隐私优先个人财务管理应用，内置本地 AI 分析助手 | 2026-10-20 | - |
+| CoolDock | https://cooldock.app/ | producthunt | 与 macOS 原生 Dock 并存的第二程序栏，160+ 实时小组件可自定义 | 2026-10-20 | - |
+| Rechroma | https://rechroma.com | producthunt | 基于 Oklab/Oklch 色彩空间的调色板工具，一键同步到 Figma 变量 | 2026-10-20 | - |
+| Fina | https://www.fina.money/ | producthunt | 个人与小企业财务工具，连接银行账户自动分类交易并建多档案 | 2026-10-20 | - |
+| Onepin | https://onepin.ai | producthunt | 叠加在 AI 配音引擎之上的发音校验层，自动修正发音错误 | 2026-10-20 | - |
+| neverpost | https://neverpost.app | web | 零账号的私密微日记应用，数据只存本地，可离线使用并导出归档 | 2026-10-20 | - |
+| Symvibe | https://www.symvibe.com/ | twitter | macOS 应用，把多个 AI 编程代理的终端会话排布在可视化画板上管理 | 2026-10-20 | - |
+| Navige | https://navige.ai | twitter | AI agent 与模型间的成本控制层，自动路由模型并拦截浪费调用 | 2026-10-20 | - |
+| Yap | https://frigade.com/yap | twitter | 开源免费的 Mac 语音输入应用，用系统语音识别转文字粘贴到任意窗口 | 2026-10-20 | - |
+| TalkPilot | https://talkpilot.co | reddit | 通话中实时给出应答建议的 AI 对话教练，支持通话前模拟练习 | 2026-10-20 | - |
+| LinkedRecords | https://linkedrecords.com | reddit | 协作型 SaaS 应用后端服务，内置细粒度权限控制和实时协同编辑 | 2026-10-20 | - |
+| The Deep Sea | https://neal.fun/deep-sea/ | web | 滚动下潜到挑战者深渊的海洋生物可视化，蓝色渐变贯穿全程 | 2026-10-20 | zoom-out-zoom-in, blue-planet |
